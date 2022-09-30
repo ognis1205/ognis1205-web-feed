@@ -3,7 +3,6 @@ on:
   schedule:
     - cron: "0  0 * * *"
     - cron: "0 12 * * *"
-  push:
 
 jobs:
   generate_web_feed:
