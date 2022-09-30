@@ -22,6 +22,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-	  git add instagram.json
+          git add instagram.json
           git commit -am "Updated instagram.json"
           git push
