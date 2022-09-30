@@ -1,0 +1,118 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Twitter",
+  "timestamp": "1664574664155",
+  "description": "Tweets of ognis1205.",
+  "items": [
+    {
+      "title": "https://t.co/RpOMPExxxp",
+      "link": "https://twitter.com/ognis1205/status/1575781629351448577",
+      "pubDate": "Fri, 30 Sep 2022 09:36:31 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/RpOMPExxxp",
+      "contentSnippet": "https://t.co/RpOMPExxxp",
+      "guid": "1575781629351448577",
+      "isoDate": "2022-09-30T09:36:31.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "My very first React/Next.js portfolio website: https://t.co/bSjs4OI8xq",
+      "link": "https://twitter.com/ognis1205/status/1575435548541734912",
+      "pubDate": "Thu, 29 Sep 2022 10:41:19 GMT",
+      "creator": "ognis1205",
+      "content": "My very first React/Next.js portfolio website: https://t.co/bSjs4OI8xq",
+      "contentSnippet": "My very first React/Next.js portfolio website:\nhttps://t.co/bSjs4OI8xq\n\n#React #ReactJS #NextJS",
+      "guid": "1575435548541734912",
+      "isoDate": "2022-09-29T10:41:19.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Hot weather makes me anxious. https://t.co/CtvCNvwMxU",
+      "link": "https://twitter.com/ognis1205/status/1559515591169703937",
+      "pubDate": "Tue, 16 Aug 2022 12:21:05 GMT",
+      "creator": "ognis1205",
+      "content": "Hot weather makes me anxious. https://t.co/CtvCNvwMxU",
+      "contentSnippet": "Hot weather makes me anxious. #cat https://t.co/CtvCNvwMxU",
+      "guid": "1559515591169703937",
+      "isoDate": "2022-08-16T12:21:05.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I just published A Simple Python Script Template https://t.co/mSpC9VQNcG",
+      "link": "https://twitter.com/ognis1205/status/1559041388641423361",
+      "pubDate": "Mon, 15 Aug 2022 04:56:47 GMT",
+      "creator": "ognis1205",
+      "content": "I just published A Simple Python Script Template https://t.co/mSpC9VQNcG",
+      "contentSnippet": "I just published A Simple Python Script Template https://t.co/mSpC9VQNcG",
+      "guid": "1559041388641423361",
+      "isoDate": "2022-08-15T04:56:47.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/SRPZAdtHCs",
+      "link": "https://twitter.com/ognis1205/status/1558912287549059072",
+      "pubDate": "Sun, 14 Aug 2022 20:23:47 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/SRPZAdtHCs",
+      "contentSnippet": "https://t.co/SRPZAdtHCs",
+      "guid": "1558912287549059072",
+      "isoDate": "2022-08-14T20:23:47.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "All useEffect Mistakes Every Junior React Developer Makes https://t.co/11Q17meRNs via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1558897110795567104",
+      "pubDate": "Sun, 14 Aug 2022 19:23:28 GMT",
+      "creator": "ognis1205",
+      "content": "All useEffect Mistakes Every Junior React Developer Makes https://t.co/11Q17meRNs via @YouTube",
+      "contentSnippet": "All useEffect Mistakes Every Junior React Developer Makes https://t.co/11Q17meRNs via @YouTube",
+      "guid": "1558897110795567104",
+      "isoDate": "2022-08-14T19:23:28.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I'm wondering if there is anyone who gives me a tip about which is the best markdown-based (tech) blog hosting service in English ",
+      "link": "https://twitter.com/ognis1205/status/1558896026970632192",
+      "pubDate": "Sun, 14 Aug 2022 19:19:10 GMT",
+      "creator": "ognis1205",
+      "content": "I'm wondering if there is anyone who gives me a tip about which is the best markdown-based (tech) blog hosting service in English ",
+      "contentSnippet": "I'm wondering if there is anyone who gives me a tip about which is the best markdown-based (tech) blog hosting service in English 🤔",
+      "guid": "1558896026970632192",
+      "isoDate": "2022-08-14T19:19:10.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/2xBOZD8DG7",
+      "link": "https://twitter.com/ognis1205/status/1558677013401321473",
+      "pubDate": "Sun, 14 Aug 2022 04:48:53 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/2xBOZD8DG7",
+      "contentSnippet": "https://t.co/2xBOZD8DG7",
+      "guid": "1558677013401321473",
+      "isoDate": "2022-08-14T04:48:53.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Today's Rover https://t.co/SdwAHvBQT7",
+      "link": "https://twitter.com/ognis1205/status/1558524255780114432",
+      "pubDate": "Sat, 13 Aug 2022 18:41:53 GMT",
+      "creator": "ognis1205",
+      "content": "Today's Rover https://t.co/SdwAHvBQT7",
+      "contentSnippet": "Today's Rover🐈‍⬛ https://t.co/SdwAHvBQT7",
+      "guid": "1558524255780114432",
+      "isoDate": "2022-08-13T18:41:53.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "My first tweet!",
+      "link": "https://twitter.com/ognis1205/status/1558523873171501057",
+      "pubDate": "Sat, 13 Aug 2022 18:40:21 GMT",
+      "creator": "ognis1205",
+      "content": "My first tweet!",
+      "contentSnippet": "My first tweet!",
+      "guid": "1558523873171501057",
+      "isoDate": "2022-08-13T18:40:21.000Z",
+      "imgSrc": ""
+    }
+  ]
+}
