@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: WebFeed
+      - name: Web Feed
         id: web_feed
         uses: ognis1205/instagram-web-feed-action@v1.0.1
         with:
