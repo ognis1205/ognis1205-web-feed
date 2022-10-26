@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1666726513497",
+  "timestamp": "1666754300169",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "This paper seems just a corollary of Universal Approximation Theorem for me, to be honest https://t.co/CsVNJphYR2 https://t.co/la9cgNBETE",
+      "link": "https://twitter.com/ognis1205/status/1585082827322036224",
+      "pubDate": "Wed, 26 Oct 2022 01:36:10 GMT",
+      "creator": "ognis1205",
+      "content": "This paper seems just a corollary of Universal Approximation Theorem for me, to be honest https://t.co/CsVNJphYR2 https://t.co/la9cgNBETE",
+      "contentSnippet": "This paper seems just a corollary of Universal Approximation Theorem for me, to be honest🤔\n\nhttps://t.co/CsVNJphYR2\nhttps://t.co/la9cgNBETE",
+      "guid": "1585082827322036224",
+      "isoDate": "2022-10-26T01:36:10.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/xzsucjP3cL",
+      "link": "https://twitter.com/ognis1205/status/1585000178121342978",
+      "pubDate": "Tue, 25 Oct 2022 20:07:45 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/xzsucjP3cL",
+      "contentSnippet": "https://t.co/xzsucjP3cL",
+      "guid": "1585000178121342978",
+      "isoDate": "2022-10-25T20:07:45.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "There are always reddit downvote stalkers lol.",
       "link": "https://twitter.com/ognis1205/status/1579428523533819905",
