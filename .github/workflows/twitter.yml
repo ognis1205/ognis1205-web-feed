@@ -27,4 +27,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add twitter.json
           git commit -am "Updated twitter.json"
-          git push
+          git push -f
