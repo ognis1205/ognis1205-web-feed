@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1667273766007",
+  "timestamp": "1667287023220",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "There are better languages than Python for making things work quickly. Python is a language for making things work, quickly.",
+      "link": "https://twitter.com/ognis1205/status/1587327760892301312",
+      "pubDate": "Tue, 01 Nov 2022 06:16:43 GMT",
+      "creator": "ognis1205",
+      "content": "There are better languages than Python for making things work quickly. Python is a language for making things work, quickly.",
+      "contentSnippet": "There are better languages than Python for making things work quickly. Python is a language for making things work, quickly.",
+      "guid": "1587327760892301312",
+      "isoDate": "2022-11-01T06:16:43.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "This paper seems just a corollary of Universal Approximation Theorem for me, to be honest https://t.co/CsVNJphYR2 https://t.co/la9cgNBETE",
       "link": "https://twitter.com/ognis1205/status/1585082827322036224",
