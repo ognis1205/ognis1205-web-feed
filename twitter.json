@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1668107445376",
+  "timestamp": "1668135912577",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "How Signal Instant Messaging Protocol Works (&amp; WhatsApp etc) - Computerp... https://t.co/9lNwoeHTBe via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1590900438001684480",
+      "pubDate": "Fri, 11 Nov 2022 02:53:16 GMT",
+      "creator": "ognis1205",
+      "content": "How Signal Instant Messaging Protocol Works (&amp; WhatsApp etc) - Computerp... https://t.co/9lNwoeHTBe via @YouTube",
+      "contentSnippet": "How Signal Instant Messaging Protocol Works (&amp; WhatsApp etc) - Computerp... https://t.co/9lNwoeHTBe via @YouTube",
+      "guid": "1590900438001684480",
+      "isoDate": "2022-11-11T02:53:16.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "There are better languages than Python for making things work quickly. Python is a language for making things work, quickly.",
       "link": "https://twitter.com/ognis1205/status/1587327760892301312",
