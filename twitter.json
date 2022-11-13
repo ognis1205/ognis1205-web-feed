@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1668323576666",
+  "timestamp": "1668346239385",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "3つ星プレ･カトランのレシピ紹介 ホタテのシードル風味 https://t.co/kHDNRlbmQd via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1591783584964411392",
+      "pubDate": "Sun, 13 Nov 2022 13:22:35 GMT",
+      "creator": "ognis1205",
+      "content": "3つ星プレ･カトランのレシピ紹介 ホタテのシードル風味 https://t.co/kHDNRlbmQd via @YouTube",
+      "contentSnippet": "3つ星プレ･カトランのレシピ紹介　ホタテのシードル風味 https://t.co/kHDNRlbmQd via @YouTube",
+      "guid": "1591783584964411392",
+      "isoDate": "2022-11-13T13:22:35.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "How Signal Instant Messaging Protocol Works (&amp; WhatsApp etc) - Computerp... https://t.co/9lNwoeHTBe via @YouTube",
       "link": "https://twitter.com/ognis1205/status/1590900438001684480",
