@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1668798610287",
+  "timestamp": "1668826102671",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @realGeorgeHotz: This is how we hired our last two full time openpilot engineers. External contributors became interns, then interns con…",
+      "link": "https://twitter.com/ognis1205/status/1593698516827664384",
+      "pubDate": "Fri, 18 Nov 2022 20:11:50 GMT",
+      "creator": "ognis1205",
+      "content": "RT @realGeorgeHotz: This is how we hired our last two full time openpilot engineers. External contributors became interns, then interns con…",
+      "contentSnippet": "RT @realGeorgeHotz: This is how we hired our last two full time openpilot engineers. External contributors became interns, then interns con…",
+      "guid": "1593698516827664384",
+      "isoDate": "2022-11-18T20:11:50.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @realGeorgeHotz: .@comma_ai is 15 engineers And you can buy a comma three today.",
+      "link": "https://twitter.com/ognis1205/status/1593686187612377088",
+      "pubDate": "Fri, 18 Nov 2022 19:22:51 GMT",
+      "creator": "ognis1205",
+      "content": "RT @realGeorgeHotz: .@comma_ai is 15 engineers And you can buy a comma three today.",
+      "contentSnippet": "RT @realGeorgeHotz: .@comma_ai is 15 engineers 😊\n\nAnd you can buy a comma three today.",
+      "guid": "1593686187612377088",
+      "isoDate": "2022-11-18T19:22:51.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "@elonmusk Please detect and remove bots destroying (political) discourse as much as possible.",
       "link": "https://twitter.com/ognis1205/status/1593675198321991680",
