@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1668864412380",
+  "timestamp": "1668884964343",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "A guy who is violating my OSS licensing agreements does not know how to use GitHub apparently",
+      "link": "https://twitter.com/ognis1205/status/1594010826964631553",
+      "pubDate": "Sat, 19 Nov 2022 16:52:51 GMT",
+      "creator": "ognis1205",
+      "content": "A guy who is violating my OSS licensing agreements does not know how to use GitHub apparently",
+      "contentSnippet": "A guy who is violating my OSS licensing agreements does not know how to use GitHub apparently🤷‍♂️",
+      "guid": "1594010826964631553",
+      "isoDate": "2022-11-19T16:52:51.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @realGeorgeHotz: This is how we hired our last two full time openpilot engineers. External contributors became interns, then interns con…",
       "link": "https://twitter.com/ognis1205/status/1593698516827664384",
