@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1668971363130",
+  "timestamp": "1668999260358",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "@bradd_libby @realGeorgeHotz As you may know already, Open-Loop Traveling Salesman Problem (OTSP) is a variant of TSP, so I think that the statement is not so wrong.",
+      "link": "https://twitter.com/ognis1205/status/1594439399860625408",
+      "pubDate": "Sun, 20 Nov 2022 21:15:50 GMT",
+      "creator": "ognis1205",
+      "content": "@bradd_libby @realGeorgeHotz As you may know already, Open-Loop Traveling Salesman Problem (OTSP) is a variant of TSP, so I think that the statement is not so wrong.",
+      "contentSnippet": "@bradd_libby @realGeorgeHotz As you may know already, Open-Loop Traveling Salesman Problem (OTSP) is a variant of TSP, so I think that the statement is not so wrong.",
+      "guid": "1594439399860625408",
+      "isoDate": "2022-11-20T21:15:50.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @alexxubyte: I hope you've found this thread helpful. Follow me @alexxubyte for more. Like/Retweet the first tweet below if you can:…",
       "link": "https://twitter.com/ognis1205/status/1594206992754970624",
