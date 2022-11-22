@@ -1,9 +1,64 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1669085548807",
+  "timestamp": "1669101215119",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "@realGeorgeHotz Good luck!",
+      "link": "https://twitter.com/ognis1205/status/1594919422040252416",
+      "pubDate": "Tue, 22 Nov 2022 05:03:17 GMT",
+      "creator": "ognis1205",
+      "content": "@realGeorgeHotz Good luck!",
+      "contentSnippet": "@realGeorgeHotz Good luck!",
+      "guid": "1594919422040252416",
+      "isoDate": "2022-11-22T05:03:17.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @realGeorgeHotz: @ask4amitkumar From 2020: https://t.co/tLIJCN7AhT",
+      "link": "https://twitter.com/ognis1205/status/1594915224054038528",
+      "pubDate": "Tue, 22 Nov 2022 04:46:36 GMT",
+      "creator": "ognis1205",
+      "content": "RT @realGeorgeHotz: @ask4amitkumar From 2020: https://t.co/tLIJCN7AhT",
+      "contentSnippet": "RT @realGeorgeHotz: @ask4amitkumar From 2020: https://t.co/tLIJCN7AhT",
+      "guid": "1594915224054038528",
+      "isoDate": "2022-11-22T04:46:36.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "That was quite efficient technique to achieve the purpose. Over 80-90 % of bots can be detected by this simple method. I'm not sure if this method is still applicable to current bots though.",
+      "link": "https://twitter.com/ognis1205/status/1594911080073011200",
+      "pubDate": "Tue, 22 Nov 2022 04:30:08 GMT",
+      "creator": "ognis1205",
+      "content": "That was quite efficient technique to achieve the purpose. Over 80-90 % of bots can be detected by this simple method. I'm not sure if this method is still applicable to current bots though.",
+      "contentSnippet": "That was quite efficient technique to achieve the purpose. Over 80-90 % of bots can be detected by this simple method. I'm not sure if this method is still applicable to current bots though.",
+      "guid": "1594911080073011200",
+      "isoDate": "2022-11-22T04:30:08.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "About 7-8 years ago, I had been working on a project aiming at detecting bots on Twitter. I implemented a LSH-based detector on top of Scalding to compare tweets of users within a certain period.",
+      "link": "https://twitter.com/ognis1205/status/1594910493034307584",
+      "pubDate": "Tue, 22 Nov 2022 04:27:48 GMT",
+      "creator": "ognis1205",
+      "content": "About 7-8 years ago, I had been working on a project aiming at detecting bots on Twitter. I implemented a LSH-based detector on top of Scalding to compare tweets of users within a certain period.",
+      "contentSnippet": "About 7-8 years ago, I had been working on a project aiming at detecting bots on Twitter. I implemented a LSH-based detector on top of Scalding to compare tweets of users within a certain period.",
+      "guid": "1594910493034307584",
+      "isoDate": "2022-11-22T04:27:48.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/KzKyog0rWu",
+      "link": "https://twitter.com/ognis1205/status/1594908724648620032",
+      "pubDate": "Tue, 22 Nov 2022 04:20:46 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/KzKyog0rWu",
+      "contentSnippet": "https://t.co/KzKyog0rWu",
+      "guid": "1594908724648620032",
+      "isoDate": "2022-11-22T04:20:46.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "@bradd_libby @realGeorgeHotz As you may know already, Open-Loop Traveling Salesman Problem (OTSP) is a variant of TSP, so I think that the statement is not so wrong.",
       "link": "https://twitter.com/ognis1205/status/1594439399860625408",
