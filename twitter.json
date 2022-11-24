@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1669230570441",
+  "timestamp": "1669257310364",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "I'm a bit late but just started the coding challenge from @realGeorgeHotz.",
+      "link": "https://twitter.com/ognis1205/status/1595567175611187200",
+      "pubDate": "Wed, 23 Nov 2022 23:57:13 GMT",
+      "creator": "ognis1205",
+      "content": "I'm a bit late but just started the coding challenge from @realGeorgeHotz.",
+      "contentSnippet": "I'm a bit late but just started the coding challenge from @realGeorgeHotz.",
+      "guid": "1595567175611187200",
+      "isoDate": "2022-11-23T23:57:13.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "I would add a TRIE tree for the autocompletion to the frontend (or the search API). If a user types in a prefix of keywords, then they must be shown the candidates of keywords on top of the list (with normal suggestions). Otherwise, only normal suggestions show up https://t.co/785zWeMa7K",
       "link": "https://twitter.com/ognis1205/status/1595282158666457089",
