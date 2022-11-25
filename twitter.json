@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1669360294707",
+  "timestamp": "1669382791383",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "My tweets are search banned for some reasons. I don't know why :(",
+      "link": "https://twitter.com/ognis1205/status/1596100565255454721",
+      "pubDate": "Fri, 25 Nov 2022 11:16:43 GMT",
+      "creator": "ognis1205",
+      "content": "My tweets are search banned for some reasons. I don't know why :(",
+      "contentSnippet": "My tweets are search banned for some reasons. I don't know why :(",
+      "guid": "1596100565255454721",
+      "isoDate": "2022-11-25T11:16:43.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "People forget about just being tourists apparently. SNS accelerates communications and makes people forget about the appropriate distances from others. People live their own life with their own axioms. \"Think lightly of yourself and deeply of the world.\" https://t.co/qeQMCsnSdJ",
+      "link": "https://twitter.com/ognis1205/status/1596099033495633921",
+      "pubDate": "Fri, 25 Nov 2022 11:10:38 GMT",
+      "creator": "ognis1205",
+      "content": "People forget about just being tourists apparently. SNS accelerates communications and makes people forget about the appropriate distances from others. People live their own life with their own axioms. \"Think lightly of yourself and deeply of the world.\" https://t.co/qeQMCsnSdJ",
+      "contentSnippet": "People forget about just being tourists apparently. SNS accelerates communications and makes people forget about the appropriate distances from others. People live their own life with their own axioms.\n\n\"Think lightly of yourself and deeply of the world.\" https://t.co/qeQMCsnSdJ",
+      "guid": "1596099033495633921",
+      "isoDate": "2022-11-25T11:10:38.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Now I will conduct the Foobar Challenge from Google. Google has suggested me this challenge three times so far in this year. I don't know why though.",
+      "link": "https://twitter.com/ognis1205/status/1596051572660015104",
+      "pubDate": "Fri, 25 Nov 2022 08:02:02 GMT",
+      "creator": "ognis1205",
+      "content": "Now I will conduct the Foobar Challenge from Google. Google has suggested me this challenge three times so far in this year. I don't know why though.",
+      "contentSnippet": "Now I will conduct the Foobar Challenge from Google. Google has suggested me this challenge three times so far in this year. I don't know why though.",
+      "guid": "1596051572660015104",
+      "isoDate": "2022-11-25T08:02:02.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @ylecun: Just do the experiment: 1. create a new Twitter account 2. write a piece of disinformation and post it. 3. generate a piece of…",
       "link": "https://twitter.com/ognis1205/status/1596032482373406720",
