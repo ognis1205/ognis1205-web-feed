@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1669344017974",
+  "timestamp": "1669360294707",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @ylecun: Just do the experiment: 1. create a new Twitter account 2. write a piece of disinformation and post it. 3. generate a piece of…",
+      "link": "https://twitter.com/ognis1205/status/1596032482373406720",
+      "pubDate": "Fri, 25 Nov 2022 06:46:11 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: Just do the experiment: 1. create a new Twitter account 2. write a piece of disinformation and post it. 3. generate a piece of…",
+      "contentSnippet": "RT @ylecun: Just do the experiment:\n1. create a new Twitter account\n2. write a piece of disinformation and post it.\n3. generate a piece of…",
+      "guid": "1596032482373406720",
+      "isoDate": "2022-11-25T06:46:11.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "The source codes from other guys inspired me so much though! I can learn a lot from them.",
+      "link": "https://twitter.com/ognis1205/status/1596027738867249152",
+      "pubDate": "Fri, 25 Nov 2022 06:27:20 GMT",
+      "creator": "ognis1205",
+      "content": "The source codes from other guys inspired me so much though! I can learn a lot from them.",
+      "contentSnippet": "The source codes from other guys inspired me so much though! I can learn a lot from them.",
+      "guid": "1596027738867249152",
+      "isoDate": "2022-11-25T06:27:20.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I already feel like I can't bare to see my previous source code lol.",
+      "link": "https://twitter.com/ognis1205/status/1596027099235876865",
+      "pubDate": "Fri, 25 Nov 2022 06:24:47 GMT",
+      "creator": "ognis1205",
+      "content": "I already feel like I can't bare to see my previous source code lol.",
+      "contentSnippet": "I already feel like I can't bare to see my previous source code lol.",
+      "guid": "1596027099235876865",
+      "isoDate": "2022-11-25T06:24:47.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Here is my repository. I'm still writing the README though. https://t.co/Ni2v21tjwc",
       "link": "https://twitter.com/ognis1205/status/1595830725345161218",
