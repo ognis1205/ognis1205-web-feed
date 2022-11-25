@@ -1,20 +1,9 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1669382791383",
+  "timestamp": "1669403333854",
   "description": "Tweets of ognis1205.",
   "items": [
-    {
-      "title": "My tweets are search banned for some reasons. I don't know why :(",
-      "link": "https://twitter.com/ognis1205/status/1596100565255454721",
-      "pubDate": "Fri, 25 Nov 2022 11:16:43 GMT",
-      "creator": "ognis1205",
-      "content": "My tweets are search banned for some reasons. I don't know why :(",
-      "contentSnippet": "My tweets are search banned for some reasons. I don't know why :(",
-      "guid": "1596100565255454721",
-      "isoDate": "2022-11-25T11:16:43.000Z",
-      "imgSrc": ""
-    },
     {
       "title": "People forget about just being tourists apparently. SNS accelerates communications and makes people forget about the appropriate distances from others. People live their own life with their own axioms. \"Think lightly of yourself and deeply of the world.\" https://t.co/qeQMCsnSdJ",
       "link": "https://twitter.com/ognis1205/status/1596099033495633921",
@@ -46,83 +35,6 @@
       "contentSnippet": "RT @ylecun: Just do the experiment:\n1. create a new Twitter account\n2. write a piece of disinformation and post it.\n3. generate a piece of…",
       "guid": "1596032482373406720",
       "isoDate": "2022-11-25T06:46:11.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "The source codes from other guys inspired me so much though! I can learn a lot from them.",
-      "link": "https://twitter.com/ognis1205/status/1596027738867249152",
-      "pubDate": "Fri, 25 Nov 2022 06:27:20 GMT",
-      "creator": "ognis1205",
-      "content": "The source codes from other guys inspired me so much though! I can learn a lot from them.",
-      "contentSnippet": "The source codes from other guys inspired me so much though! I can learn a lot from them.",
-      "guid": "1596027738867249152",
-      "isoDate": "2022-11-25T06:27:20.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "I already feel like I can't bare to see my previous source code lol.",
-      "link": "https://twitter.com/ognis1205/status/1596027099235876865",
-      "pubDate": "Fri, 25 Nov 2022 06:24:47 GMT",
-      "creator": "ognis1205",
-      "content": "I already feel like I can't bare to see my previous source code lol.",
-      "contentSnippet": "I already feel like I can't bare to see my previous source code lol.",
-      "guid": "1596027099235876865",
-      "isoDate": "2022-11-25T06:24:47.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "Here is my repository. I'm still writing the README though. https://t.co/Ni2v21tjwc",
-      "link": "https://twitter.com/ognis1205/status/1595830725345161218",
-      "pubDate": "Thu, 24 Nov 2022 17:24:28 GMT",
-      "creator": "ognis1205",
-      "content": "Here is my repository. I'm still writing the README though. https://t.co/Ni2v21tjwc",
-      "contentSnippet": "Here is my repository. I'm still writing the README though.\n\nhttps://t.co/Ni2v21tjwc",
-      "guid": "1595830725345161218",
-      "isoDate": "2022-11-24T17:24:28.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "PS: I checked it on Chrome only.",
-      "link": "https://twitter.com/ognis1205/status/1595827689763778561",
-      "pubDate": "Thu, 24 Nov 2022 17:12:24 GMT",
-      "creator": "ognis1205",
-      "content": "PS: I checked it on Chrome only.",
-      "contentSnippet": "PS: I checked it on Chrome only.",
-      "guid": "1595827689763778561",
-      "isoDate": "2022-11-24T17:12:24.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "I will share my GitHub repository later after finishing README.",
-      "link": "https://twitter.com/ognis1205/status/1595825768239886336",
-      "pubDate": "Thu, 24 Nov 2022 17:04:46 GMT",
-      "creator": "ognis1205",
-      "content": "I will share my GitHub repository later after finishing README.",
-      "contentSnippet": "I will share my GitHub repository later after finishing README.",
-      "guid": "1595825768239886336",
-      "isoDate": "2022-11-24T17:04:46.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "I'm Finished! I really enjoyed this challenge! Here is my implementation. I focused much on UI/UX. - Query prediction and autocompletion with tab key. - Candidate queries are shown along with conventional suggestions. - Extensible implementation with TRIE. @realGeorgeHotz https://t.co/geQyZS9LBX",
-      "link": "https://twitter.com/ognis1205/status/1595825601835069440",
-      "pubDate": "Thu, 24 Nov 2022 17:04:07 GMT",
-      "creator": "ognis1205",
-      "content": "I'm Finished! I really enjoyed this challenge! Here is my implementation. I focused much on UI/UX. - Query prediction and autocompletion with tab key. - Candidate queries are shown along with conventional suggestions. - Extensible implementation with TRIE. @realGeorgeHotz https://t.co/geQyZS9LBX",
-      "contentSnippet": "I'm Finished! I really enjoyed this challenge! Here is my implementation. I focused much on UI/UX.\n\n - Query prediction and autocompletion with tab key.\n - Candidate queries are shown along with conventional suggestions.\n - Extensible implementation with TRIE.\n\n@realGeorgeHotz https://t.co/geQyZS9LBX",
-      "guid": "1595825601835069440",
-      "isoDate": "2022-11-24T17:04:07.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "I'm a bit late but just started the coding challenge from @realGeorgeHotz.",
-      "link": "https://twitter.com/ognis1205/status/1595567175611187200",
-      "pubDate": "Wed, 23 Nov 2022 23:57:13 GMT",
-      "creator": "ognis1205",
-      "content": "I'm a bit late but just started the coding challenge from @realGeorgeHotz.",
-      "contentSnippet": "I'm a bit late but just started the coding challenge from @realGeorgeHotz.",
-      "guid": "1595567175611187200",
-      "isoDate": "2022-11-23T23:57:13.000Z",
       "imgSrc": ""
     },
     {
