@@ -1,7 +1,7 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1669533092213",
+  "timestamp": "1669555369222",
   "description": "Tweets of ognis1205.",
   "items": [
     {
@@ -13,28 +13,6 @@
       "contentSnippet": "RT @AlonHalevy: Comments and questions are welcome! (It’s long, but goes fast!) https://t.co/DNaaWi2lTV",
       "guid": "1596758006905335809",
       "isoDate": "2022-11-27T06:49:09.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "Haskell is my favorite language though.",
-      "link": "https://twitter.com/ognis1205/status/1596756261068222466",
-      "pubDate": "Sun, 27 Nov 2022 06:42:13 GMT",
-      "creator": "ognis1205",
-      "content": "Haskell is my favorite language though.",
-      "contentSnippet": "Haskell is my favorite language though.",
-      "guid": "1596756261068222466",
-      "isoDate": "2022-11-27T06:42:13.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "RT @lexfridman: Here's my conversation with Guido van Rossum (@gvanrossum), creator of Python, one the most popular and impactful programmi…",
-      "link": "https://twitter.com/ognis1205/status/1596756061796827137",
-      "pubDate": "Sun, 27 Nov 2022 06:41:26 GMT",
-      "creator": "ognis1205",
-      "content": "RT @lexfridman: Here's my conversation with Guido van Rossum (@gvanrossum), creator of Python, one the most popular and impactful programmi…",
-      "contentSnippet": "RT @lexfridman: Here's my conversation with Guido van Rossum (@gvanrossum), creator of Python, one the most popular and impactful programmi…",
-      "guid": "1596756061796827137",
-      "isoDate": "2022-11-27T06:41:26.000Z",
       "imgSrc": ""
     },
     {
