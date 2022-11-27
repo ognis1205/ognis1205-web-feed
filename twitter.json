@@ -1,9 +1,64 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1669517002759",
+  "timestamp": "1669533092213",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @AlonHalevy: Comments and questions are welcome! (It’s long, but goes fast!) https://t.co/DNaaWi2lTV",
+      "link": "https://twitter.com/ognis1205/status/1596758006905335809",
+      "pubDate": "Sun, 27 Nov 2022 06:49:09 GMT",
+      "creator": "ognis1205",
+      "content": "RT @AlonHalevy: Comments and questions are welcome! (It’s long, but goes fast!) https://t.co/DNaaWi2lTV",
+      "contentSnippet": "RT @AlonHalevy: Comments and questions are welcome! (It’s long, but goes fast!) https://t.co/DNaaWi2lTV",
+      "guid": "1596758006905335809",
+      "isoDate": "2022-11-27T06:49:09.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Haskell is my favorite language though.",
+      "link": "https://twitter.com/ognis1205/status/1596756261068222466",
+      "pubDate": "Sun, 27 Nov 2022 06:42:13 GMT",
+      "creator": "ognis1205",
+      "content": "Haskell is my favorite language though.",
+      "contentSnippet": "Haskell is my favorite language though.",
+      "guid": "1596756261068222466",
+      "isoDate": "2022-11-27T06:42:13.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @lexfridman: Here's my conversation with Guido van Rossum (@gvanrossum), creator of Python, one the most popular and impactful programmi…",
+      "link": "https://twitter.com/ognis1205/status/1596756061796827137",
+      "pubDate": "Sun, 27 Nov 2022 06:41:26 GMT",
+      "creator": "ognis1205",
+      "content": "RT @lexfridman: Here's my conversation with Guido van Rossum (@gvanrossum), creator of Python, one the most popular and impactful programmi…",
+      "contentSnippet": "RT @lexfridman: Here's my conversation with Guido van Rossum (@gvanrossum), creator of Python, one the most popular and impactful programmi…",
+      "guid": "1596756061796827137",
+      "isoDate": "2022-11-27T06:41:26.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I want to add retro games, such as Pac Man, Tetris and so forth, as easter eggs to my portfolio website, using Three.js",
+      "link": "https://twitter.com/ognis1205/status/1596754890206105602",
+      "pubDate": "Sun, 27 Nov 2022 06:36:46 GMT",
+      "creator": "ognis1205",
+      "content": "I want to add retro games, such as Pac Man, Tetris and so forth, as easter eggs to my portfolio website, using Three.js",
+      "contentSnippet": "I want to add retro games, such as Pac Man, Tetris and so forth, as easter eggs to my portfolio website, using Three.js🤔",
+      "guid": "1596754890206105602",
+      "isoDate": "2022-11-27T06:36:46.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "My first attempt at the Twitter Search Challenge was not concise :( I learnt a lot from other guys' source codes though. https://t.co/h9tsqsaA8M",
+      "link": "https://twitter.com/ognis1205/status/1596753935934849028",
+      "pubDate": "Sun, 27 Nov 2022 06:32:59 GMT",
+      "creator": "ognis1205",
+      "content": "My first attempt at the Twitter Search Challenge was not concise :( I learnt a lot from other guys' source codes though. https://t.co/h9tsqsaA8M",
+      "contentSnippet": "My first attempt at the Twitter Search Challenge was not concise :( I learnt a lot from other guys' source codes though. https://t.co/h9tsqsaA8M",
+      "guid": "1596753935934849028",
+      "isoDate": "2022-11-27T06:32:59.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @nabeelqu: best fragments of this (concrete things to be excited about) I’ve found are on @realGeorgeHotz’s blog https://t.co/sluFAa2TXy",
       "link": "https://twitter.com/ognis1205/status/1596538982506332160",
