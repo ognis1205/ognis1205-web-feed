@@ -1,18 +1,18 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1669642088088",
+  "timestamp": "1669662550334",
   "description": "Tweets of ognis1205.",
   "items": [
     {
-      "title": "Why is the doge meme so popular?",
-      "link": "https://twitter.com/ognis1205/status/1597169484653297666",
-      "pubDate": "Mon, 28 Nov 2022 10:04:13 GMT",
+      "title": "Steve Jobs 2001 Interview in Japan, very inspiring https://t.co/8ZgPLHDrXR via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1597259500410765312",
+      "pubDate": "Mon, 28 Nov 2022 16:01:55 GMT",
       "creator": "ognis1205",
-      "content": "Why is the doge meme so popular?",
-      "contentSnippet": "Why is the doge meme so popular?🤔",
-      "guid": "1597169484653297666",
-      "isoDate": "2022-11-28T10:04:13.000Z",
+      "content": "Steve Jobs 2001 Interview in Japan, very inspiring https://t.co/8ZgPLHDrXR via @YouTube",
+      "contentSnippet": "Steve Jobs 2001 Interview in Japan, very inspiring https://t.co/8ZgPLHDrXR via @YouTube",
+      "guid": "1597259500410765312",
+      "isoDate": "2022-11-28T16:01:55.000Z",
       "imgSrc": ""
     },
     {
