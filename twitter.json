@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1669576136722",
+  "timestamp": "1669603070319",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "If I were you, I would give serious consideration to hire some phycologists or people who have strong expertise in communication. Twitter 2.0 may require to putting the theory of communication into technology. https://t.co/CgaE1uG0uB",
+      "link": "https://twitter.com/ognis1205/status/1596966776545640449",
+      "pubDate": "Sun, 27 Nov 2022 20:38:44 GMT",
+      "creator": "ognis1205",
+      "content": "If I were you, I would give serious consideration to hire some phycologists or people who have strong expertise in communication. Twitter 2.0 may require to putting the theory of communication into technology. https://t.co/CgaE1uG0uB",
+      "contentSnippet": "If I were you, I would give serious consideration to hire some phycologists or people who have strong expertise in communication. Twitter 2.0 may require to putting the theory of communication into technology. https://t.co/CgaE1uG0uB",
+      "guid": "1596966776545640449",
+      "isoDate": "2022-11-27T20:38:44.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @AlonHalevy: Comments and questions are welcome! (It’s long, but goes fast!) https://t.co/DNaaWi2lTV",
       "link": "https://twitter.com/ognis1205/status/1596758006905335809",
