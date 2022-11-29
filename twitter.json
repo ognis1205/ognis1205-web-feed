@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1669728527139",
+  "timestamp": "1669748972120",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "@chopchop2k Yes, that's the hard question. The statement itself sounds pretty colloquial to me, so I presumed that he is not talking about unchanging superiority between people, but more about common sense.",
+      "link": "https://twitter.com/ognis1205/status/1597639941722636289",
+      "pubDate": "Tue, 29 Nov 2022 17:13:39 GMT",
+      "creator": "ognis1205",
+      "content": "@chopchop2k Yes, that's the hard question. The statement itself sounds pretty colloquial to me, so I presumed that he is not talking about unchanging superiority between people, but more about common sense.",
+      "contentSnippet": "@chopchop2k Yes, that's the hard question. The statement itself sounds pretty colloquial to me, so I presumed that he is \n not talking about unchanging superiority between people, but more about common sense.",
+      "guid": "1597639941722636289",
+      "isoDate": "2022-11-29T17:13:39.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "All finite sets can be well-ordered without requiring the axiom of choice. https://t.co/VwMOr6jY5t",
+      "link": "https://twitter.com/ognis1205/status/1597633084232695808",
+      "pubDate": "Tue, 29 Nov 2022 16:46:24 GMT",
+      "creator": "ognis1205",
+      "content": "All finite sets can be well-ordered without requiring the axiom of choice. https://t.co/VwMOr6jY5t",
+      "contentSnippet": "All finite sets can be well-ordered without requiring the axiom of choice. https://t.co/VwMOr6jY5t",
+      "guid": "1597633084232695808",
+      "isoDate": "2022-11-29T16:46:24.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Surveillance Cat || ViralHog https://t.co/mVQCap5I47 via @YouTube",
       "link": "https://twitter.com/ognis1205/status/1597446789044797441",
