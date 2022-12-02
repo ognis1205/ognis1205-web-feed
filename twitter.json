@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1669947814656",
+  "timestamp": "1669965082276",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @dbworld_: https://t.co/bKUh3Nc6BU PG-Schema: Schemas for Property Graphs. (arXiv:2211.10962v2 [cs.DB] UPDATED)",
+      "link": "https://twitter.com/ognis1205/status/1598564219758465030",
+      "pubDate": "Fri, 02 Dec 2022 06:26:24 GMT",
+      "creator": "ognis1205",
+      "content": "RT @dbworld_: https://t.co/bKUh3Nc6BU PG-Schema: Schemas for Property Graphs. (arXiv:2211.10962v2 [cs.DB] UPDATED)",
+      "contentSnippet": "RT @dbworld_: https://t.co/bKUh3Nc6BU PG-Schema: Schemas for Property Graphs. (arXiv:2211.10962v2 [cs.DB] UPDATED) #databases",
+      "guid": "1598564219758465030",
+      "isoDate": "2022-12-02T06:26:24.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Wolfram's 2-state-3-symbol Turing Machine https://t.co/mOhUb7iMrM",
       "link": "https://twitter.com/ognis1205/status/1598423578852331520",
