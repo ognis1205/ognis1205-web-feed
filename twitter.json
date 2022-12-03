@@ -1,18 +1,29 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1670008117267",
+  "timestamp": "1670033635297",
   "description": "Tweets of ognis1205.",
   "items": [
     {
-      "title": "Dogs may be smarter than me. I'm a cat person though. https://t.co/lN4T3XOwM5",
-      "link": "https://twitter.com/ognis1205/status/1598742638404202496",
-      "pubDate": "Fri, 02 Dec 2022 18:15:22 GMT",
+      "title": "Oh, my CORS proxy on Heroku is down due to the policy update :( I need this for my portfolio site.",
+      "link": "https://twitter.com/ognis1205/status/1598797852507279360",
+      "pubDate": "Fri, 02 Dec 2022 21:54:46 GMT",
       "creator": "ognis1205",
-      "content": "Dogs may be smarter than me. I'm a cat person though. https://t.co/lN4T3XOwM5",
-      "contentSnippet": "Dogs may be smarter than me. I'm a cat person though. https://t.co/lN4T3XOwM5",
-      "guid": "1598742638404202496",
-      "isoDate": "2022-12-02T18:15:22.000Z",
+      "content": "Oh, my CORS proxy on Heroku is down due to the policy update :( I need this for my portfolio site.",
+      "contentSnippet": "Oh, my CORS proxy on Heroku is down due to the policy update :( I need this for my portfolio site.",
+      "guid": "1598797852507279360",
+      "isoDate": "2022-12-02T21:54:46.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I'm proud of being a child growing up in the 80s. https://t.co/YfgUC2h6sQ",
+      "link": "https://twitter.com/ognis1205/status/1598765133857447936",
+      "pubDate": "Fri, 02 Dec 2022 19:44:46 GMT",
+      "creator": "ognis1205",
+      "content": "I'm proud of being a child growing up in the 80s. https://t.co/YfgUC2h6sQ",
+      "contentSnippet": "I'm proud of being a child growing up in the 80s.\nhttps://t.co/YfgUC2h6sQ",
+      "guid": "1598765133857447936",
+      "isoDate": "2022-12-02T19:44:46.000Z",
       "imgSrc": ""
     },
     {
