@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1670137814463",
+  "timestamp": "1670160001044",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "OpenGPT. It’s not a search engine, and sometimes it’s factually incorrect and not verifiable. It’s very politically correct (I don't like this word though). And it lies too.",
+      "link": "https://twitter.com/ognis1205/status/1599328823883223041",
+      "pubDate": "Sun, 04 Dec 2022 09:04:40 GMT",
+      "creator": "ognis1205",
+      "content": "OpenGPT. It’s not a search engine, and sometimes it’s factually incorrect and not verifiable. It’s very politically correct (I don't like this word though). And it lies too.",
+      "contentSnippet": "OpenGPT. It’s not a search engine, and sometimes it’s factually incorrect and not verifiable. It’s very politically correct (I don't like this word though). And it lies too.",
+      "guid": "1599328823883223041",
+      "isoDate": "2022-12-04T09:04:40.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/tl3BuB7J6w",
+      "link": "https://twitter.com/ognis1205/status/1599328012709023746",
+      "pubDate": "Sun, 04 Dec 2022 09:01:26 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/tl3BuB7J6w",
+      "contentSnippet": "https://t.co/tl3BuB7J6w",
+      "guid": "1599328012709023746",
+      "isoDate": "2022-12-04T09:01:26.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/iWqlB177T1",
       "link": "https://twitter.com/ognis1205/status/1599281121698942977",
