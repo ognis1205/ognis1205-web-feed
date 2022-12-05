@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1670206759453",
+  "timestamp": "1670224305119",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "I really want to implement a Google Glass like device so started to gather components required in Akihabara.",
+      "link": "https://twitter.com/ognis1205/status/1599635960500981760",
+      "pubDate": "Mon, 05 Dec 2022 05:25:07 GMT",
+      "creator": "ognis1205",
+      "content": "I really want to implement a Google Glass like device so started to gather components required in Akihabara.",
+      "contentSnippet": "I really want to implement a Google Glass like device so started to gather components required in Akihabara.",
+      "guid": "1599635960500981760",
+      "isoDate": "2022-12-05T05:25:07.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @lexfridman: Don't live in an idea bubble. Surround yourself with people you disagree with but who you still love and respect.",
+      "link": "https://twitter.com/ognis1205/status/1599625551106703360",
+      "pubDate": "Mon, 05 Dec 2022 04:43:45 GMT",
+      "creator": "ognis1205",
+      "content": "RT @lexfridman: Don't live in an idea bubble. Surround yourself with people you disagree with but who you still love and respect.",
+      "contentSnippet": "RT @lexfridman: Don't live in an idea bubble. Surround yourself with people you disagree with but who you still love and respect.",
+      "guid": "1599625551106703360",
+      "isoDate": "2022-12-05T04:43:45.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/tl3BuB7J6w",
       "link": "https://twitter.com/ognis1205/status/1599328012709023746",
