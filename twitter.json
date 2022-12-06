@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1670293259529",
+  "timestamp": "1670310668061",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @ChrisGPotts: Current information retrieval benchmarks are obsessively focused on accuracy metrics, which is over-stating progress and h…",
+      "link": "https://twitter.com/ognis1205/status/1600016809226571778",
+      "pubDate": "Tue, 06 Dec 2022 06:38:28 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ChrisGPotts: Current information retrieval benchmarks are obsessively focused on accuracy metrics, which is over-stating progress and h…",
+      "contentSnippet": "RT @ChrisGPotts: Current information retrieval benchmarks are obsessively focused on accuracy metrics, which is over-stating progress and h…",
+      "guid": "1600016809226571778",
+      "isoDate": "2022-12-06T06:38:28.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "The render tree construction of Chrome for Mobile is a bit offbeat from what I think were used to.",
+      "link": "https://twitter.com/ognis1205/status/1600016397866012672",
+      "pubDate": "Tue, 06 Dec 2022 06:36:50 GMT",
+      "creator": "ognis1205",
+      "content": "The render tree construction of Chrome for Mobile is a bit offbeat from what I think were used to.",
+      "contentSnippet": "The render tree construction of Chrome for Mobile is a bit offbeat from what I think were used to.",
+      "guid": "1600016397866012672",
+      "isoDate": "2022-12-06T06:36:50.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @databricks: Attention, data lovers! Have a big idea, impactful story, or best practices to share related to data science and machine…",
+      "link": "https://twitter.com/ognis1205/status/1599997568670642177",
+      "pubDate": "Tue, 06 Dec 2022 05:22:01 GMT",
+      "creator": "ognis1205",
+      "content": "RT @databricks: Attention, data lovers! Have a big idea, impactful story, or best practices to share related to data science and machine…",
+      "contentSnippet": "RT @databricks: 📣 Attention, data lovers!\n\nHave a big idea, impactful story, or best practices to share related to data science and machine…",
+      "guid": "1599997568670642177",
+      "isoDate": "2022-12-06T05:22:01.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "死ぬほどヘタクソなBolero (if,C.Dutoit conducted a terrible band)【イメージ映像付】 https://t.co/XDjagvfn8M via @YouTube",
       "link": "https://twitter.com/ognis1205/status/1599764854998732800",
