@@ -1,9 +1,86 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1670353737829",
+  "timestamp": "1670397075711",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "@elonmusk Search Emoji modal should be draggable. Is it just me, or is the modal right in the way? I can't see the text while I'm editing. https://t.co/Wwux0csUAG",
+      "link": "https://twitter.com/ognis1205/status/1600380559938969601",
+      "pubDate": "Wed, 07 Dec 2022 06:43:53 GMT",
+      "creator": "ognis1205",
+      "content": "@elonmusk Search Emoji modal should be draggable. Is it just me, or is the modal right in the way? I can't see the text while I'm editing. https://t.co/Wwux0csUAG",
+      "contentSnippet": "@elonmusk Search Emoji modal should be draggable. Is it just me, or is the modal right in the way? I can't see the text while I'm editing. https://t.co/Wwux0csUAG",
+      "guid": "1600380559938969601",
+      "isoDate": "2022-12-07T06:43:53.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Good interview https://t.co/5XsSiP33OP",
+      "link": "https://twitter.com/ognis1205/status/1600377010710544385",
+      "pubDate": "Wed, 07 Dec 2022 06:29:47 GMT",
+      "creator": "ognis1205",
+      "content": "Good interview https://t.co/5XsSiP33OP",
+      "contentSnippet": "Good interview👍 https://t.co/5XsSiP33OP",
+      "guid": "1600377010710544385",
+      "isoDate": "2022-12-07T06:29:47.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I need to update my timeline component on my portfolio web site since I tweet a lot lately.",
+      "link": "https://twitter.com/ognis1205/status/1600350811674271745",
+      "pubDate": "Wed, 07 Dec 2022 04:45:41 GMT",
+      "creator": "ognis1205",
+      "content": "I need to update my timeline component on my portfolio web site since I tweet a lot lately.",
+      "contentSnippet": "I need to update my timeline component on my portfolio web site since I tweet a lot lately.",
+      "guid": "1600350811674271745",
+      "isoDate": "2022-12-07T04:45:41.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I’m not talking about the language superiority though, communications in English sound too affirmative for me in some cases, to be honest.",
+      "link": "https://twitter.com/ognis1205/status/1600347677861892096",
+      "pubDate": "Wed, 07 Dec 2022 04:33:14 GMT",
+      "creator": "ognis1205",
+      "content": "I’m not talking about the language superiority though, communications in English sound too affirmative for me in some cases, to be honest.",
+      "contentSnippet": "I’m not talking about the language superiority though, communications in English sound too affirmative for me in some cases, to be honest.",
+      "guid": "1600347677861892096",
+      "isoDate": "2022-12-07T04:33:14.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "@lexfridman Can I apply to one of these positions from abroad? I’m a Tokyo-based Japanese developer",
+      "link": "https://twitter.com/ognis1205/status/1600345551400480769",
+      "pubDate": "Wed, 07 Dec 2022 04:24:47 GMT",
+      "creator": "ognis1205",
+      "content": "@lexfridman Can I apply to one of these positions from abroad? I’m a Tokyo-based Japanese developer",
+      "contentSnippet": "@lexfridman Can I apply to one of these positions from abroad? I’m a Tokyo-based Japanese developer🤔",
+      "guid": "1600345551400480769",
+      "isoDate": "2022-12-07T04:24:47.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "One of the drawbacks of using Python type hinting is that there isn’t a hugely elegant way to handle import cycles, I’m afraid.",
+      "link": "https://twitter.com/ognis1205/status/1600343327530184704",
+      "pubDate": "Wed, 07 Dec 2022 04:15:56 GMT",
+      "creator": "ognis1205",
+      "content": "One of the drawbacks of using Python type hinting is that there isn’t a hugely elegant way to handle import cycles, I’m afraid.",
+      "contentSnippet": "One of the drawbacks of using Python type hinting is that there isn’t a hugely elegant way to handle import cycles, I’m afraid.",
+      "guid": "1600343327530184704",
+      "isoDate": "2022-12-07T04:15:56.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/HEnm4sbPWG",
+      "link": "https://twitter.com/ognis1205/status/1600276219874152454",
+      "pubDate": "Tue, 06 Dec 2022 23:49:17 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/HEnm4sbPWG",
+      "contentSnippet": "https://t.co/HEnm4sbPWG",
+      "guid": "1600276219874152454",
+      "isoDate": "2022-12-06T23:49:17.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @ChrisGPotts: Current information retrieval benchmarks are obsessively focused on accuracy metrics, which is over-stating progress and h…",
       "link": "https://twitter.com/ognis1205/status/1600016809226571778",
