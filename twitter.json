@@ -1,9 +1,130 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1670440107956",
+  "timestamp": "1670592171108",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @evmar: New blog post: Chrome, 10 years later Reflecting on my work on Chrome. https://t.co/5AGWYH7906",
+      "link": "https://twitter.com/ognis1205/status/1601153881014403073",
+      "pubDate": "Fri, 09 Dec 2022 09:56:47 GMT",
+      "creator": "ognis1205",
+      "content": "RT @evmar: New blog post: Chrome, 10 years later Reflecting on my work on Chrome. https://t.co/5AGWYH7906",
+      "contentSnippet": "RT @evmar: New blog post: Chrome, 10 years later\nReflecting on my work on Chrome.\n\nhttps://t.co/5AGWYH7906",
+      "guid": "1601153881014403073",
+      "isoDate": "2022-12-09T09:56:47.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I'm not on anyone's side though, this words should be taken seriously. He is one of the brilliant folks who literally hit walls and broke them in the early 2010s while others had been thinking that the method was discredited. https://t.co/HqAipLuHIR",
+      "link": "https://twitter.com/ognis1205/status/1601041569066651650",
+      "pubDate": "Fri, 09 Dec 2022 02:30:30 GMT",
+      "creator": "ognis1205",
+      "content": "I'm not on anyone's side though, this words should be taken seriously. He is one of the brilliant folks who literally hit walls and broke them in the early 2010s while others had been thinking that the method was discredited. https://t.co/HqAipLuHIR",
+      "contentSnippet": "I'm not on anyone's side though, this words should be taken seriously. He is one of the brilliant folks who literally hit walls and broke them in the early 2010s while \n others had been thinking that the method was discredited. https://t.co/HqAipLuHIR",
+      "guid": "1601041569066651650",
+      "isoDate": "2022-12-09T02:30:30.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @DKThomp: In 2022, we - reversed organ death in pigs - made the first embryo from stem cells - made a pan-influenza vaccine - saw the b…",
+      "link": "https://twitter.com/ognis1205/status/1601007819326902272",
+      "pubDate": "Fri, 09 Dec 2022 00:16:24 GMT",
+      "creator": "ognis1205",
+      "content": "RT @DKThomp: In 2022, we - reversed organ death in pigs - made the first embryo from stem cells - made a pan-influenza vaccine - saw the b…",
+      "contentSnippet": "RT @DKThomp: In 2022, we\n\n- reversed organ death in pigs\n- made the first embryo from stem cells\n- made a pan-influenza vaccine\n- saw the b…",
+      "guid": "1601007819326902272",
+      "isoDate": "2022-12-09T00:16:24.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/fG95EvdJgl",
+      "link": "https://twitter.com/ognis1205/status/1600995737357410304",
+      "pubDate": "Thu, 08 Dec 2022 23:28:23 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/fG95EvdJgl",
+      "contentSnippet": "https://t.co/fG95EvdJgl",
+      "guid": "1600995737357410304",
+      "isoDate": "2022-12-08T23:28:23.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "If I were a finitist, I would reject the formulation of chain complex in Homology? Because the motivation behind it would seem irrational to me",
+      "link": "https://twitter.com/ognis1205/status/1600994171841810433",
+      "pubDate": "Thu, 08 Dec 2022 23:22:10 GMT",
+      "creator": "ognis1205",
+      "content": "If I were a finitist, I would reject the formulation of chain complex in Homology? Because the motivation behind it would seem irrational to me",
+      "contentSnippet": "If I were a finitist, I would reject the formulation of chain complex in Homology? Because the motivation behind it would seem irrational to me🤔",
+      "guid": "1600994171841810433",
+      "isoDate": "2022-12-08T23:22:10.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I have been trolled apparently",
+      "link": "https://twitter.com/ognis1205/status/1600969441076219905",
+      "pubDate": "Thu, 08 Dec 2022 21:43:53 GMT",
+      "creator": "ognis1205",
+      "content": "I have been trolled apparently",
+      "contentSnippet": "I have been trolled apparently🤔",
+      "guid": "1600969441076219905",
+      "isoDate": "2022-12-08T21:43:53.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "@realGeorgeHotz Sometimes I feel unsure whether you are serious or not.",
+      "link": "https://twitter.com/ognis1205/status/1600965622393081857",
+      "pubDate": "Thu, 08 Dec 2022 21:28:43 GMT",
+      "creator": "ognis1205",
+      "content": "@realGeorgeHotz Sometimes I feel unsure whether you are serious or not.",
+      "contentSnippet": "@realGeorgeHotz Sometimes I feel unsure whether you are serious or not.",
+      "guid": "1600965622393081857",
+      "isoDate": "2022-12-08T21:28:43.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Being polite or trying not to be insulting others in a foreign language, especially in a very affirmative language like English, is a bit hard for me to acquire because it requires you to understand the underlying culture of the language as well.",
+      "link": "https://twitter.com/ognis1205/status/1600942707308138496",
+      "pubDate": "Thu, 08 Dec 2022 19:57:40 GMT",
+      "creator": "ognis1205",
+      "content": "Being polite or trying not to be insulting others in a foreign language, especially in a very affirmative language like English, is a bit hard for me to acquire because it requires you to understand the underlying culture of the language as well.",
+      "contentSnippet": "Being polite or trying not to be insulting others in a foreign language, especially in a very affirmative language like English, is a bit hard for me to acquire because it requires you to understand the underlying culture of the language as well.",
+      "guid": "1600942707308138496",
+      "isoDate": "2022-12-08T19:57:40.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "\"Nonstandard Analytic Machine Learning\" I'm getting curious to know what it looks like. https://t.co/6p86iBvYRs",
+      "link": "https://twitter.com/ognis1205/status/1600932469276278785",
+      "pubDate": "Thu, 08 Dec 2022 19:16:59 GMT",
+      "creator": "ognis1205",
+      "content": "\"Nonstandard Analytic Machine Learning\" I'm getting curious to know what it looks like. https://t.co/6p86iBvYRs",
+      "contentSnippet": "\"Nonstandard Analytic Machine Learning\"\nI'm getting curious to know what it looks like. https://t.co/6p86iBvYRs",
+      "guid": "1600932469276278785",
+      "isoDate": "2022-12-08T19:16:59.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Commodore SX-64 repair and trivia https://t.co/INR04hSw5w via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1600795162443403267",
+      "pubDate": "Thu, 08 Dec 2022 10:11:22 GMT",
+      "creator": "ognis1205",
+      "content": "Commodore SX-64 repair and trivia https://t.co/INR04hSw5w via @YouTube",
+      "contentSnippet": "Commodore SX-64 repair and trivia https://t.co/INR04hSw5w via @YouTube",
+      "guid": "1600795162443403267",
+      "isoDate": "2022-12-08T10:11:22.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @ylecun: Combining LLMs with search engines for question answering. From a startup founded by NYU alumni.",
+      "link": "https://twitter.com/ognis1205/status/1600693644037476353",
+      "pubDate": "Thu, 08 Dec 2022 03:27:58 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: Combining LLMs with search engines for question answering. From a startup founded by NYU alumni.",
+      "contentSnippet": "RT @ylecun: Combining LLMs with search engines for question answering.\nFrom a startup founded by NYU alumni.",
+      "guid": "1600693644037476353",
+      "isoDate": "2022-12-08T03:27:58.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/yD6IcYhWFl",
       "link": "https://twitter.com/ognis1205/status/1600458211714555904",
@@ -13,17 +134,6 @@
       "contentSnippet": "https://t.co/yD6IcYhWFl",
       "guid": "1600458211714555904",
       "isoDate": "2022-12-07T11:52:27.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "@elonmusk Search Emoji modal should be draggable. Is it just me, or is the modal right in the way? I can't see the text while I'm editing. https://t.co/Wwux0csUAG",
-      "link": "https://twitter.com/ognis1205/status/1600380559938969601",
-      "pubDate": "Wed, 07 Dec 2022 06:43:53 GMT",
-      "creator": "ognis1205",
-      "content": "@elonmusk Search Emoji modal should be draggable. Is it just me, or is the modal right in the way? I can't see the text while I'm editing. https://t.co/Wwux0csUAG",
-      "contentSnippet": "@elonmusk Search Emoji modal should be draggable. Is it just me, or is the modal right in the way? I can't see the text while I'm editing. https://t.co/Wwux0csUAG",
-      "guid": "1600380559938969601",
-      "isoDate": "2022-12-07T06:43:53.000Z",
       "imgSrc": ""
     },
     {
@@ -57,17 +167,6 @@
       "contentSnippet": "I’m not talking about the language superiority though, communications in English sound too affirmative for me in some cases, to be honest.",
       "guid": "1600347677861892096",
       "isoDate": "2022-12-07T04:33:14.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "@lexfridman Can I apply to one of these positions from abroad? I’m a Tokyo-based Japanese developer",
-      "link": "https://twitter.com/ognis1205/status/1600345551400480769",
-      "pubDate": "Wed, 07 Dec 2022 04:24:47 GMT",
-      "creator": "ognis1205",
-      "content": "@lexfridman Can I apply to one of these positions from abroad? I’m a Tokyo-based Japanese developer",
-      "contentSnippet": "@lexfridman Can I apply to one of these positions from abroad? I’m a Tokyo-based Japanese developer🤔",
-      "guid": "1600345551400480769",
-      "isoDate": "2022-12-07T04:24:47.000Z",
       "imgSrc": ""
     },
     {
