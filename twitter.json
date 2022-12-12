@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1670851521968",
+  "timestamp": "1670872351336",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @ylecun: A minimal dose of RL is inevitable. But the purpose of RL research should be to find ways to minimize its use because it's so s…",
+      "link": "https://twitter.com/ognis1205/status/1602356501007720450",
+      "pubDate": "Mon, 12 Dec 2022 17:35:34 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: A minimal dose of RL is inevitable. But the purpose of RL research should be to find ways to minimize its use because it's so s…",
+      "contentSnippet": "RT @ylecun: A minimal dose of RL is inevitable.\nBut the purpose of RL research should be to find ways to minimize its use because it's so s…",
+      "guid": "1602356501007720450",
+      "isoDate": "2022-12-12T17:35:34.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "DALL-E: \"Sarktopus v.s. Whalewolf\" https://t.co/eQ1syxG10b",
+      "link": "https://twitter.com/ognis1205/status/1602338280691101696",
+      "pubDate": "Mon, 12 Dec 2022 16:23:10 GMT",
+      "creator": "ognis1205",
+      "content": "DALL-E: \"Sarktopus v.s. Whalewolf\" https://t.co/eQ1syxG10b",
+      "contentSnippet": "DALL-E: \"Sarktopus v.s. Whalewolf\" https://t.co/eQ1syxG10b",
+      "guid": "1602338280691101696",
+      "isoDate": "2022-12-12T16:23:10.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "I'm not a bot apparently. https://t.co/bJGlaJMskN",
       "link": "https://twitter.com/ognis1205/status/1602035418794700801",
