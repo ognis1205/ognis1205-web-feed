@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1670785695753",
+  "timestamp": "1670811757323",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "I'm not a bot apparently. https://t.co/bJGlaJMskN",
+      "link": "https://twitter.com/ognis1205/status/1602035418794700801",
+      "pubDate": "Sun, 11 Dec 2022 20:19:42 GMT",
+      "creator": "ognis1205",
+      "content": "I'm not a bot apparently. https://t.co/bJGlaJMskN",
+      "contentSnippet": "I'm not a bot apparently. https://t.co/bJGlaJMskN",
+      "guid": "1602035418794700801",
+      "isoDate": "2022-12-11T20:19:42.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Dr. Petar Veličković (Deepmind) - Categories, Graphs, Reasoning [NEU... https://t.co/hxi7QG2fnQ via @YouTube",
       "link": "https://twitter.com/ognis1205/status/1601824611876098049",
