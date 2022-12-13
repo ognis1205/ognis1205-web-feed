@@ -1,9 +1,64 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1670872351336",
+  "timestamp": "1670898546879",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/EwfybNHxTw",
+      "link": "https://twitter.com/ognis1205/status/1602483649202786304",
+      "pubDate": "Tue, 13 Dec 2022 02:00:49 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/EwfybNHxTw",
+      "contentSnippet": "https://t.co/EwfybNHxTw",
+      "guid": "1602483649202786304",
+      "isoDate": "2022-12-13T02:00:49.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I've been always supportive of democracy and I will be. Jean Jack Rousseau had already pointed out what would happen to Twitter before the French Revolution. I'm enjoying this service though.",
+      "link": "https://twitter.com/ognis1205/status/1602481125242601474",
+      "pubDate": "Tue, 13 Dec 2022 01:50:47 GMT",
+      "creator": "ognis1205",
+      "content": "I've been always supportive of democracy and I will be. Jean Jack Rousseau had already pointed out what would happen to Twitter before the French Revolution. I'm enjoying this service though.",
+      "contentSnippet": "I've been always supportive of democracy and I will be. Jean Jack Rousseau had already pointed out what would happen to Twitter before the French Revolution. I'm enjoying this service though.",
+      "guid": "1602481125242601474",
+      "isoDate": "2022-12-13T01:50:47.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @gabrielpeyre: The Laplacian of a graph is a semi-definite positive operator which mimics second order differences along the graph’s edg…",
+      "link": "https://twitter.com/ognis1205/status/1602450180925624320",
+      "pubDate": "Mon, 12 Dec 2022 23:47:49 GMT",
+      "creator": "ognis1205",
+      "content": "RT @gabrielpeyre: The Laplacian of a graph is a semi-definite positive operator which mimics second order differences along the graph’s edg…",
+      "contentSnippet": "RT @gabrielpeyre: The Laplacian of a graph is a semi-definite positive operator which mimics second order differences along the graph’s edg…",
+      "guid": "1602450180925624320",
+      "isoDate": "2022-12-12T23:47:49.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Is there a boundary between Earth and space? No, no one can define it. Does the word Earth deceive you into thinking there is a boundary? Yes. This is what’s going on here on Twitter. Everyone’s just playing a game of Analytic philosophy.",
+      "link": "https://twitter.com/ognis1205/status/1602447396851654657",
+      "pubDate": "Mon, 12 Dec 2022 23:36:46 GMT",
+      "creator": "ognis1205",
+      "content": "Is there a boundary between Earth and space? No, no one can define it. Does the word Earth deceive you into thinking there is a boundary? Yes. This is what’s going on here on Twitter. Everyone’s just playing a game of Analytic philosophy.",
+      "contentSnippet": "Is there a boundary between Earth and space? No, no one can define it. Does the word Earth deceive you into thinking there is a boundary? Yes. This is what’s going on here on Twitter. Everyone’s just playing a game of Analytic philosophy.",
+      "guid": "1602447396851654657",
+      "isoDate": "2022-12-12T23:36:46.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I'm getting curious to implement a Twitter bot which is triggered by my SNS activities, such as Instagram and so forth, and generates a tweet explaining a non-text post.",
+      "link": "https://twitter.com/ognis1205/status/1602433197035622401",
+      "pubDate": "Mon, 12 Dec 2022 22:40:20 GMT",
+      "creator": "ognis1205",
+      "content": "I'm getting curious to implement a Twitter bot which is triggered by my SNS activities, such as Instagram and so forth, and generates a tweet explaining a non-text post.",
+      "contentSnippet": "I'm getting curious to implement a Twitter bot which is triggered by my SNS activities, such as Instagram and so forth, and generates a tweet explaining a non-text post.",
+      "guid": "1602433197035622401",
+      "isoDate": "2022-12-12T22:40:20.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @ylecun: A minimal dose of RL is inevitable. But the purpose of RL research should be to find ways to minimize its use because it's so s…",
       "link": "https://twitter.com/ognis1205/status/1602356501007720450",
