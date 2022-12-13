@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1670915491375",
+  "timestamp": "1670958522584",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "Any SNS does not have such power to divide society from the beginning. Our society has already been divided ever since we don't require the concept of nation-state anymore",
+      "link": "https://twitter.com/ognis1205/status/1602689867766730753",
+      "pubDate": "Tue, 13 Dec 2022 15:40:15 GMT",
+      "creator": "ognis1205",
+      "content": "Any SNS does not have such power to divide society from the beginning. Our society has already been divided ever since we don't require the concept of nation-state anymore",
+      "contentSnippet": "Any SNS does not have such power to divide society from the beginning. Our society has already been divided ever since we don't require the concept of nation-state anymore🤔",
+      "guid": "1602689867766730753",
+      "isoDate": "2022-12-13T15:40:15.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @haskellfound: GHCup state report and 2023 resolutions GHCup is the most-used tool for installing Haskell. In this post, the main devel…",
+      "link": "https://twitter.com/ognis1205/status/1602637707335065600",
+      "pubDate": "Tue, 13 Dec 2022 12:12:59 GMT",
+      "creator": "ognis1205",
+      "content": "RT @haskellfound: GHCup state report and 2023 resolutions GHCup is the most-used tool for installing Haskell. In this post, the main devel…",
+      "contentSnippet": "RT @haskellfound: GHCup state report and 2023 resolutions\n\nGHCup is the most-used tool for installing Haskell. In this post, the main devel…",
+      "guid": "1602637707335065600",
+      "isoDate": "2022-12-13T12:12:59.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/zP8UtFT3tr",
+      "link": "https://twitter.com/ognis1205/status/1602592742915600384",
+      "pubDate": "Tue, 13 Dec 2022 09:14:19 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/zP8UtFT3tr",
+      "contentSnippet": "https://t.co/zP8UtFT3tr",
+      "guid": "1602592742915600384",
+      "isoDate": "2022-12-13T09:14:19.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/rgMA9wldxX",
       "link": "https://twitter.com/ognis1205/status/1602559314862178309",
