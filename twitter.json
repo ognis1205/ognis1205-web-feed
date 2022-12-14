@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1670958522584",
+  "timestamp": "1670984713925",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @MetaAI: Announcing data2vec 2.0, a new general self-supervised algorithm built by Meta AI for speech, vision &amp; text that can train mode…",
+      "link": "https://twitter.com/ognis1205/status/1602811341009350656",
+      "pubDate": "Tue, 13 Dec 2022 23:42:57 GMT",
+      "creator": "ognis1205",
+      "content": "RT @MetaAI: Announcing data2vec 2.0, a new general self-supervised algorithm built by Meta AI for speech, vision &amp; text that can train mode…",
+      "contentSnippet": "RT @MetaAI: Announcing data2vec 2.0, a new general self-supervised algorithm built by Meta AI for speech, vision &amp; text that can train mode…",
+      "guid": "1602811341009350656",
+      "isoDate": "2022-12-13T23:42:57.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Any SNS does not have such power to divide society from the beginning. Our society has already been divided ever since we don't require the concept of nation-state anymore",
       "link": "https://twitter.com/ognis1205/status/1602689867766730753",
