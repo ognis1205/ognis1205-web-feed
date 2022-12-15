@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671088288650",
+  "timestamp": "1671110678352",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/6AszUfh3uv",
+      "link": "https://twitter.com/ognis1205/status/1603355001782300672",
+      "pubDate": "Thu, 15 Dec 2022 11:43:15 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/6AszUfh3uv",
+      "contentSnippet": "https://t.co/6AszUfh3uv",
+      "guid": "1603355001782300672",
+      "isoDate": "2022-12-15T11:43:15.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/Qz974lWXnH",
+      "link": "https://twitter.com/ognis1205/status/1603353416138297344",
+      "pubDate": "Thu, 15 Dec 2022 11:36:57 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/Qz974lWXnH",
+      "contentSnippet": "https://t.co/Qz974lWXnH",
+      "guid": "1603353416138297344",
+      "isoDate": "2022-12-15T11:36:57.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @hardmaru: ML Engineer role @StabilityAI “We’re looking for people who share our mission of open-source ML; people who do not believe A…",
+      "link": "https://twitter.com/ognis1205/status/1603347068659314688",
+      "pubDate": "Thu, 15 Dec 2022 11:11:44 GMT",
+      "creator": "ognis1205",
+      "content": "RT @hardmaru: ML Engineer role @StabilityAI “We’re looking for people who share our mission of open-source ML; people who do not believe A…",
+      "contentSnippet": "RT @hardmaru: ML Engineer role @StabilityAI\n\n“We’re looking for people who share our mission of open-source ML; people who do not believe A…",
+      "guid": "1603347068659314688",
+      "isoDate": "2022-12-15T11:11:44.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @ylecun: https://t.co/dDmAn7QOHD",
       "link": "https://twitter.com/ognis1205/status/1603250229998129153",
