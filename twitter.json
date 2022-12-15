@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671110678352",
+  "timestamp": "1671131304846",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @lexfridman: I have over 200 chrome tabs open, and I refuse to close them even though my returning to any of them has a probability of e…",
+      "link": "https://twitter.com/ognis1205/status/1603443449227010048",
+      "pubDate": "Thu, 15 Dec 2022 17:34:43 GMT",
+      "creator": "ognis1205",
+      "content": "RT @lexfridman: I have over 200 chrome tabs open, and I refuse to close them even though my returning to any of them has a probability of e…",
+      "contentSnippet": "RT @lexfridman: I have over 200 chrome tabs open, and I refuse to close them even though my returning to any of them has a probability of e…",
+      "guid": "1603443449227010048",
+      "isoDate": "2022-12-15T17:34:43.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @ylecun: @sophiabennett No, they don't! They stamp down controversy. More so since early 2018. Independent academic social science studi…",
+      "link": "https://twitter.com/ognis1205/status/1603436331115638785",
+      "pubDate": "Thu, 15 Dec 2022 17:06:26 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: @sophiabennett No, they don't! They stamp down controversy. More so since early 2018. Independent academic social science studi…",
+      "contentSnippet": "RT @ylecun: @sophiabennett No, they don't!\nThey stamp down controversy.\nMore so since early 2018.\nIndependent academic social science studi…",
+      "guid": "1603436331115638785",
+      "isoDate": "2022-12-15T17:06:26.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/6AszUfh3uv",
       "link": "https://twitter.com/ognis1205/status/1603355001782300672",
