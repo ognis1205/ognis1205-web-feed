@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671304067007",
+  "timestamp": "1671329556107",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "Python type hinting is good but it seems slightly off to me sometimes. I started to think reimplementing transport layer modules in Rust language although this is in a closed PoC stage.",
+      "link": "https://twitter.com/ognis1205/status/1604254199466045440",
+      "pubDate": "Sat, 17 Dec 2022 23:16:21 GMT",
+      "creator": "ognis1205",
+      "content": "Python type hinting is good but it seems slightly off to me sometimes. I started to think reimplementing transport layer modules in Rust language although this is in a closed PoC stage.",
+      "contentSnippet": "Python type hinting is good but it seems slightly off to me sometimes. I started to think reimplementing transport layer modules in Rust language although this is  in a closed PoC stage.",
+      "guid": "1604254199466045440",
+      "isoDate": "2022-12-17T23:16:21.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/65DB77NeSk",
+      "link": "https://twitter.com/ognis1205/status/1604229079452233728",
+      "pubDate": "Sat, 17 Dec 2022 21:36:32 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/65DB77NeSk",
+      "contentSnippet": "https://t.co/65DB77NeSk",
+      "guid": "1604229079452233728",
+      "isoDate": "2022-12-17T21:36:32.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "It is said that Ruby's flexibility encourages the creation of DSLs. I agree with that. I'm considering to implement a DSL to define k8s CronJobs for data collection. Do you have any recommended languages? I'm feeling a bit rusty at Ruby programming.",
+      "link": "https://twitter.com/ognis1205/status/1604212826121601024",
+      "pubDate": "Sat, 17 Dec 2022 20:31:57 GMT",
+      "creator": "ognis1205",
+      "content": "It is said that Ruby's flexibility encourages the creation of DSLs. I agree with that. I'm considering to implement a DSL to define k8s CronJobs for data collection. Do you have any recommended languages? I'm feeling a bit rusty at Ruby programming.",
+      "contentSnippet": "It is said that Ruby's flexibility encourages the creation of DSLs. I agree with that. I'm considering to implement a DSL to define k8s CronJobs for data collection. Do you have any recommended languages? I'm feeling a bit rusty at Ruby programming.",
+      "guid": "1604212826121601024",
+      "isoDate": "2022-12-17T20:31:57.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/mc3rjQDc4a",
       "link": "https://twitter.com/ognis1205/status/1604171898057019393",
