@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671347393090",
+  "timestamp": "1671390462077",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/7EZDrFYeLI",
+      "link": "https://twitter.com/ognis1205/status/1604416497543061504",
+      "pubDate": "Sun, 18 Dec 2022 10:01:16 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/7EZDrFYeLI",
+      "contentSnippet": "https://t.co/7EZDrFYeLI",
+      "guid": "1604416497543061504",
+      "isoDate": "2022-12-18T10:01:16.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/SFaDYWuRnJ",
+      "link": "https://twitter.com/ognis1205/status/1604397520976637952",
+      "pubDate": "Sun, 18 Dec 2022 08:45:51 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/SFaDYWuRnJ",
+      "contentSnippet": "https://t.co/SFaDYWuRnJ",
+      "guid": "1604397520976637952",
+      "isoDate": "2022-12-18T08:45:51.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Python type hinting is good but it seems slightly off to me sometimes. I started to think reimplementing transport layer modules in Rust language although this is in a closed PoC stage.",
       "link": "https://twitter.com/ognis1205/status/1604254199466045440",
