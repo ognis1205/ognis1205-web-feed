@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671433851938",
+  "timestamp": "1671456087296",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/izbC45AfMb",
+      "link": "https://twitter.com/ognis1205/status/1604806581115551744",
+      "pubDate": "Mon, 19 Dec 2022 11:51:19 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/izbC45AfMb",
+      "contentSnippet": "https://t.co/izbC45AfMb",
+      "guid": "1604806581115551744",
+      "isoDate": "2022-12-19T11:51:19.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "I don't care who the CEO is, to be honest. A lot of people are too dependent on external environments apparently.",
       "link": "https://twitter.com/ognis1205/status/1604714578772103168",
