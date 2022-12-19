@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671415828865",
+  "timestamp": "1671433851938",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "I don't care who the CEO is, to be honest. A lot of people are too dependent on external environments apparently.",
+      "link": "https://twitter.com/ognis1205/status/1604714578772103168",
+      "pubDate": "Mon, 19 Dec 2022 05:45:44 GMT",
+      "creator": "ognis1205",
+      "content": "I don't care who the CEO is, to be honest. A lot of people are too dependent on external environments apparently.",
+      "contentSnippet": "I don't care who the CEO is, to be honest. A lot of people are too dependent on external environments apparently.",
+      "guid": "1604714578772103168",
+      "isoDate": "2022-12-19T05:45:44.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "DALL-E: \"Twitter hires Earth-born John Smith chief as new CEO\" https://t.co/Q4ZcAHgXq0",
+      "link": "https://twitter.com/ognis1205/status/1604712421587038208",
+      "pubDate": "Mon, 19 Dec 2022 05:37:10 GMT",
+      "creator": "ognis1205",
+      "content": "DALL-E: \"Twitter hires Earth-born John Smith chief as new CEO\" https://t.co/Q4ZcAHgXq0",
+      "contentSnippet": "DALL-E:\n\"Twitter hires Earth-born John Smith chief as new CEO\" https://t.co/Q4ZcAHgXq0",
+      "guid": "1604712421587038208",
+      "isoDate": "2022-12-19T05:37:10.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/dhNbuxgbmh",
+      "link": "https://twitter.com/ognis1205/status/1604704888730308608",
+      "pubDate": "Mon, 19 Dec 2022 05:07:14 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/dhNbuxgbmh",
+      "contentSnippet": "https://t.co/dhNbuxgbmh",
+      "guid": "1604704888730308608",
+      "isoDate": "2022-12-19T05:07:14.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "What would have happened if Twitter was developed in a country of nepotism by a shared territorial bond",
       "link": "https://twitter.com/ognis1205/status/1604560641968074752",
