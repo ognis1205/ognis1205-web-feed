@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671390462077",
+  "timestamp": "1671415828865",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "What would have happened if Twitter was developed in a country of nepotism by a shared territorial bond",
+      "link": "https://twitter.com/ognis1205/status/1604560641968074752",
+      "pubDate": "Sun, 18 Dec 2022 19:34:02 GMT",
+      "creator": "ognis1205",
+      "content": "What would have happened if Twitter was developed in a country of nepotism by a shared territorial bond",
+      "contentSnippet": "What would have happened if Twitter was developed in a country of nepotism by a shared territorial bond🤔",
+      "guid": "1604560641968074752",
+      "isoDate": "2022-12-18T19:34:02.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/7EZDrFYeLI",
       "link": "https://twitter.com/ognis1205/status/1604416497543061504",
