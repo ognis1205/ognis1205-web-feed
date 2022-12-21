@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671606660231",
+  "timestamp": "1671628864334",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @ylecun: @drjwrae @francoisfleuret @srush_nlp Yup. https://t.co/zGQjALZDbT",
+      "link": "https://twitter.com/ognis1205/status/1605488772065501184",
+      "pubDate": "Wed, 21 Dec 2022 09:02:06 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: @drjwrae @francoisfleuret @srush_nlp Yup. https://t.co/zGQjALZDbT",
+      "contentSnippet": "RT @ylecun: @drjwrae @francoisfleuret @srush_nlp Yup.\nhttps://t.co/zGQjALZDbT",
+      "guid": "1605488772065501184",
+      "isoDate": "2022-12-21T09:02:06.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "I see the same philosophy as Peter Thiel has (or once had) in the recent events and tweets of @elonmusk . I don't know it's good or bad and care about it either.",
       "link": "https://twitter.com/ognis1205/status/1605433490174283776",
