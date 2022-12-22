@@ -1,9 +1,64 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671675250632",
+  "timestamp": "1671693043406",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "I'm not a big fan of city pop though, this brings me back to my childhood memories.",
+      "link": "https://twitter.com/ognis1205/status/1605811774984704001",
+      "pubDate": "Thu, 22 Dec 2022 06:25:36 GMT",
+      "creator": "ognis1205",
+      "content": "I'm not a big fan of city pop though, this brings me back to my childhood memories.",
+      "contentSnippet": "I'm not a big fan of city pop though, this brings me back to my childhood memories.",
+      "guid": "1605811774984704001",
+      "isoDate": "2022-12-22T06:25:36.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "City pop, guys Yamashita Tatsuro - Christmas Eve (English Version + Lyrics) https://t.co/hk6J6LP4Bd via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1605809685705023488",
+      "pubDate": "Thu, 22 Dec 2022 06:17:18 GMT",
+      "creator": "ognis1205",
+      "content": "City pop, guys Yamashita Tatsuro - Christmas Eve (English Version + Lyrics) https://t.co/hk6J6LP4Bd via @YouTube",
+      "contentSnippet": "City pop, guys😀\n\nYamashita Tatsuro - Christmas Eve (English Version + Lyrics) https://t.co/hk6J6LP4Bd via @YouTube",
+      "guid": "1605809685705023488",
+      "isoDate": "2022-12-22T06:17:18.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @dbworld_: https://t.co/z7uUZNe44Y Resource Utilization Monitoring for Raw Data Query Processing. (arXiv:2212.10793v1 [cs.DB])",
+      "link": "https://twitter.com/ognis1205/status/1605771167452856322",
+      "pubDate": "Thu, 22 Dec 2022 03:44:14 GMT",
+      "creator": "ognis1205",
+      "content": "RT @dbworld_: https://t.co/z7uUZNe44Y Resource Utilization Monitoring for Raw Data Query Processing. (arXiv:2212.10793v1 [cs.DB])",
+      "contentSnippet": "RT @dbworld_: https://t.co/z7uUZNe44Y Resource Utilization Monitoring for Raw Data Query Processing. (arXiv:2212.10793v1 [cs.DB]) #databases",
+      "guid": "1605771167452856322",
+      "isoDate": "2022-12-22T03:44:14.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/8HkkAZb5zc",
+      "link": "https://twitter.com/ognis1205/status/1605768661393846272",
+      "pubDate": "Thu, 22 Dec 2022 03:34:17 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/8HkkAZb5zc",
+      "contentSnippet": "https://t.co/8HkkAZb5zc",
+      "guid": "1605768661393846272",
+      "isoDate": "2022-12-22T03:34:17.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @MindsDB: Jorge Torres, MindsDB CEO, speaks about data-centric machine learning at Slush conference https://t.co/AEYMrGJwyS @MindsDB",
+      "link": "https://twitter.com/ognis1205/status/1605761417340227585",
+      "pubDate": "Thu, 22 Dec 2022 03:05:30 GMT",
+      "creator": "ognis1205",
+      "content": "RT @MindsDB: Jorge Torres, MindsDB CEO, speaks about data-centric machine learning at Slush conference https://t.co/AEYMrGJwyS @MindsDB",
+      "contentSnippet": "RT @MindsDB: Jorge Torres, MindsDB CEO, speaks about data-centric machine learning at Slush conference\nhttps://t.co/AEYMrGJwyS\n@MindsDB #Sl…",
+      "guid": "1605761417340227585",
+      "isoDate": "2022-12-22T03:05:30.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @ylecun: @drjwrae @francoisfleuret @srush_nlp Yup. https://t.co/zGQjALZDbT",
       "link": "https://twitter.com/ognis1205/status/1605488772065501184",
