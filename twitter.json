@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671801632859",
+  "timestamp": "1671822515599",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @gdb: ML engineering productivity hack: write small self-contained files testing your understanding of any semantics you're fuzzy about…",
+      "link": "https://twitter.com/ognis1205/status/1606340983167209472",
+      "pubDate": "Fri, 23 Dec 2022 17:28:29 GMT",
+      "creator": "ognis1205",
+      "content": "RT @gdb: ML engineering productivity hack: write small self-contained files testing your understanding of any semantics you're fuzzy about…",
+      "contentSnippet": "RT @gdb: ML engineering productivity hack: write small self-contained files testing your understanding of any semantics you're fuzzy about…",
+      "guid": "1606340983167209472",
+      "isoDate": "2022-12-23T17:28:29.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @HirofumiInaguma: The first paper since I joined FAIR is out! We propose a new speech-to-speech translation architecture, UnitY. UnitY t…",
+      "link": "https://twitter.com/ognis1205/status/1606330790664876032",
+      "pubDate": "Fri, 23 Dec 2022 16:47:59 GMT",
+      "creator": "ognis1205",
+      "content": "RT @HirofumiInaguma: The first paper since I joined FAIR is out! We propose a new speech-to-speech translation architecture, UnitY. UnitY t…",
+      "contentSnippet": "RT @HirofumiInaguma: The first paper since I joined FAIR is out! We propose a new speech-to-speech translation architecture, UnitY. UnitY t…",
+      "guid": "1606330790664876032",
+      "isoDate": "2022-12-23T16:47:59.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Definitely right. https://t.co/0QBBvYB6yh",
       "link": "https://twitter.com/ognis1205/status/1606239346834771968",
