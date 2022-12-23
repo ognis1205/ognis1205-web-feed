@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671761659797",
+  "timestamp": "1671779438267",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/bMSUoRwBVs",
+      "link": "https://twitter.com/ognis1205/status/1606136373949390848",
+      "pubDate": "Fri, 23 Dec 2022 03:55:26 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/bMSUoRwBVs",
+      "contentSnippet": "https://t.co/bMSUoRwBVs",
+      "guid": "1606136373949390848",
+      "isoDate": "2022-12-23T03:55:26.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @ylecun: Two new papers on BioRxiv with *amazing* results on protein design/generation by the FAIR Protein Group. The system uses simula…",
+      "link": "https://twitter.com/ognis1205/status/1606113518779920385",
+      "pubDate": "Fri, 23 Dec 2022 02:24:37 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: Two new papers on BioRxiv with *amazing* results on protein design/generation by the FAIR Protein Group. The system uses simula…",
+      "contentSnippet": "RT @ylecun: Two new papers on BioRxiv with *amazing* results on protein design/generation by the FAIR Protein Group.\nThe system uses simula…",
+      "guid": "1606113518779920385",
+      "isoDate": "2022-12-23T02:24:37.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/f3hcVIIhaj",
       "link": "https://twitter.com/ognis1205/status/1605981444371025920",
