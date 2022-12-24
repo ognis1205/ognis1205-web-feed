@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671887923611",
+  "timestamp": "1671908859490",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @ylecun: Interesting indeed. Lots of factors: Anglocentricity publication culture research funding levels (non-)competitive funding mode…",
+      "link": "https://twitter.com/ognis1205/status/1606724720820617217",
+      "pubDate": "Sat, 24 Dec 2022 18:53:19 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: Interesting indeed. Lots of factors: Anglocentricity publication culture research funding levels (non-)competitive funding mode…",
+      "contentSnippet": "RT @ylecun: Interesting indeed.\nLots of factors:\nAnglocentricity\npublication culture\nresearch funding levels\n(non-)competitive funding mode…",
+      "guid": "1606724720820617217",
+      "isoDate": "2022-12-24T18:53:19.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "The 25th MIURA Jun award was announced! Congratulations to Pablo Piccaso! 2022年 第25回みうらじゅん賞 発表！ https://t.co/lI8Ty6DvJ4 via @YouTube",
       "link": "https://twitter.com/ognis1205/status/1606607782249385984",
