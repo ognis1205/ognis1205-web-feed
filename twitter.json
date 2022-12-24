@@ -1,9 +1,75 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671822515599",
+  "timestamp": "1671887923611",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "The 25th MIURA Jun award was announced! Congratulations to Pablo Piccaso! 2022年 第25回みうらじゅん賞 発表！ https://t.co/lI8Ty6DvJ4 via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1606607782249385984",
+      "pubDate": "Sat, 24 Dec 2022 11:08:39 GMT",
+      "creator": "ognis1205",
+      "content": "The 25th MIURA Jun award was announced! Congratulations to Pablo Piccaso! 2022年 第25回みうらじゅん賞 発表！ https://t.co/lI8Ty6DvJ4 via @YouTube",
+      "contentSnippet": "The 25th MIURA Jun award was announced! Congratulations to Pablo Piccaso!\n\n2022年 第25回みうらじゅん賞 発表！ https://t.co/lI8Ty6DvJ4 via @YouTube",
+      "guid": "1606607782249385984",
+      "isoDate": "2022-12-24T11:08:39.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "After finishing the implementation, I will try to downsize the system which is the most exciting phase of engineering for me. The resulting code is not an asset but a liability.",
+      "link": "https://twitter.com/ognis1205/status/1606519703694110720",
+      "pubDate": "Sat, 24 Dec 2022 05:18:39 GMT",
+      "creator": "ognis1205",
+      "content": "After finishing the implementation, I will try to downsize the system which is the most exciting phase of engineering for me. The resulting code is not an asset but a liability.",
+      "contentSnippet": "After finishing the implementation, I will try to downsize the system which is the most exciting phase of engineering for me. The resulting code is not an asset but a liability.",
+      "guid": "1606519703694110720",
+      "isoDate": "2022-12-24T05:18:39.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I'm simulating a possible solution for a data management system of a manufacturing company. The solution is a huge than I expected but it is worthwhile to have a try at it. Now I'm going to implement the PoC toy system of the CDC platform while I'm learning the Rust language",
+      "link": "https://twitter.com/ognis1205/status/1606519125140180992",
+      "pubDate": "Sat, 24 Dec 2022 05:16:21 GMT",
+      "creator": "ognis1205",
+      "content": "I'm simulating a possible solution for a data management system of a manufacturing company. The solution is a huge than I expected but it is worthwhile to have a try at it. Now I'm going to implement the PoC toy system of the CDC platform while I'm learning the Rust language",
+      "contentSnippet": "I'm simulating a possible solution for a data management system of a manufacturing company. The solution is a huge than I expected but it is worthwhile to have a try at it. Now I'm going to implement the PoC toy system of the CDC platform while I'm learning the Rust language😀",
+      "guid": "1606519125140180992",
+      "isoDate": "2022-12-24T05:16:21.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/7qOwrlC4FC",
+      "link": "https://twitter.com/ognis1205/status/1606517351280963585",
+      "pubDate": "Sat, 24 Dec 2022 05:09:18 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/7qOwrlC4FC",
+      "contentSnippet": "https://t.co/7qOwrlC4FC",
+      "guid": "1606517351280963585",
+      "isoDate": "2022-12-24T05:09:18.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/vOMAXmTK99",
+      "link": "https://twitter.com/ognis1205/status/1606516782017441793",
+      "pubDate": "Sat, 24 Dec 2022 05:07:03 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/vOMAXmTK99",
+      "contentSnippet": "https://t.co/vOMAXmTK99",
+      "guid": "1606516782017441793",
+      "isoDate": "2022-12-24T05:07:03.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/BcthNIkmbu",
+      "link": "https://twitter.com/ognis1205/status/1606499724240248833",
+      "pubDate": "Sat, 24 Dec 2022 03:59:16 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/BcthNIkmbu",
+      "contentSnippet": "https://t.co/BcthNIkmbu",
+      "guid": "1606499724240248833",
+      "isoDate": "2022-12-24T03:59:16.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @gdb: ML engineering productivity hack: write small self-contained files testing your understanding of any semantics you're fuzzy about…",
       "link": "https://twitter.com/ognis1205/status/1606340983167209472",
