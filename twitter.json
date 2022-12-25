@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671952201188",
+  "timestamp": "1671974315825",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @manuel__carro: This very nice article by @ylecun and @Jake_Browning00 was published before ChatGPT was presented in society. It deserve…",
+      "link": "https://twitter.com/ognis1205/status/1606975492997132288",
+      "pubDate": "Sun, 25 Dec 2022 11:29:48 GMT",
+      "creator": "ognis1205",
+      "content": "RT @manuel__carro: This very nice article by @ylecun and @Jake_Browning00 was published before ChatGPT was presented in society. It deserve…",
+      "contentSnippet": "RT @manuel__carro: This very nice article by @ylecun and @Jake_Browning00 was published before ChatGPT was presented in society. It deserve…",
+      "guid": "1606975492997132288",
+      "isoDate": "2022-12-25T11:29:48.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "I have a physicist friend from Ukraine so watching video footages of Bucha is really unpleasant for me but I know we must not look away. These atrocious and brutal things can happen anywhere in the world in this day and age.",
       "link": "https://twitter.com/ognis1205/status/1606751329711714304",
