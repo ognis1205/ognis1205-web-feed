@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1671908859490",
+  "timestamp": "1671934606900",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "I have a physicist friend from Ukraine so watching video footages of Bucha is really unpleasant for me but I know we must not look away. These atrocious and brutal things can happen anywhere in the world in this day and age.",
+      "link": "https://twitter.com/ognis1205/status/1606751329711714304",
+      "pubDate": "Sat, 24 Dec 2022 20:39:03 GMT",
+      "creator": "ognis1205",
+      "content": "I have a physicist friend from Ukraine so watching video footages of Bucha is really unpleasant for me but I know we must not look away. These atrocious and brutal things can happen anywhere in the world in this day and age.",
+      "contentSnippet": "I have a physicist friend from Ukraine so watching video footages of Bucha is really unpleasant for me but I know we must not look away. These atrocious and brutal things can happen anywhere in the world in this day and age.",
+      "guid": "1606751329711714304",
+      "isoDate": "2022-12-24T20:39:03.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/rDsb3KAyp0",
+      "link": "https://twitter.com/ognis1205/status/1606740747314954240",
+      "pubDate": "Sat, 24 Dec 2022 19:57:00 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/rDsb3KAyp0",
+      "contentSnippet": "https://t.co/rDsb3KAyp0",
+      "guid": "1606740747314954240",
+      "isoDate": "2022-12-24T19:57:00.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @ylecun: Interesting indeed. Lots of factors: Anglocentricity publication culture research funding levels (non-)competitive funding mode…",
       "link": "https://twitter.com/ognis1205/status/1606724720820617217",
