@@ -1,9 +1,53 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1672020892767",
+  "timestamp": "1672038648940",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "What defines/causes the hemispheric functional asymmetry between the left and the right side of the brain?",
+      "link": "https://twitter.com/ognis1205/status/1607263983140237319",
+      "pubDate": "Mon, 26 Dec 2022 06:36:09 GMT",
+      "creator": "ognis1205",
+      "content": "What defines/causes the hemispheric functional asymmetry between the left and the right side of the brain?",
+      "contentSnippet": "What defines/causes the hemispheric functional asymmetry between the left and the right side of the brain?",
+      "guid": "1607263983140237319",
+      "isoDate": "2022-12-26T06:36:09.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I am not a big fan of JVM languages since they are not totally free to use beside using IDEs is the de-facto standard in Enterprise Java Programming although I once used Eamcs + LSP years ago. With that all being said though, The ecosystem is attractive for data engineering.",
+      "link": "https://twitter.com/ognis1205/status/1607231539523506179",
+      "pubDate": "Mon, 26 Dec 2022 04:27:14 GMT",
+      "creator": "ognis1205",
+      "content": "I am not a big fan of JVM languages since they are not totally free to use beside using IDEs is the de-facto standard in Enterprise Java Programming although I once used Eamcs + LSP years ago. With that all being said though, The ecosystem is attractive for data engineering.",
+      "contentSnippet": "I am not a big fan of JVM languages since they are not totally free to use beside using IDEs is the de-facto standard in Enterprise Java Programming although I once used Eamcs + LSP years ago. With that all being said though, The ecosystem is attractive for data engineering.",
+      "guid": "1607231539523506179",
+      "isoDate": "2022-12-26T04:27:14.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/LTqVsStklO",
+      "link": "https://twitter.com/ognis1205/status/1607224404630700032",
+      "pubDate": "Mon, 26 Dec 2022 03:58:53 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/LTqVsStklO",
+      "contentSnippet": "https://t.co/LTqVsStklO",
+      "guid": "1607224404630700032",
+      "isoDate": "2022-12-26T03:58:53.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/z5KglsWXA7",
+      "link": "https://twitter.com/ognis1205/status/1607221165495578624",
+      "pubDate": "Mon, 26 Dec 2022 03:46:01 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/z5KglsWXA7",
+      "contentSnippet": "https://t.co/z5KglsWXA7",
+      "guid": "1607221165495578624",
+      "isoDate": "2022-12-26T03:46:01.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @manuel__carro: This very nice article by @ylecun and @Jake_Browning00 was published before ChatGPT was presented in society. It deserve…",
       "link": "https://twitter.com/ognis1205/status/1606975492997132288",
