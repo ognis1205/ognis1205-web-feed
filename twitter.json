@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1672147167190",
+  "timestamp": "1672168097829",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @zebrack_comic: 『HUNTER×HUNTER』カラー版318話まで今だけ無料！ 12/9～12/15ハンター試験編 12/16～12/22天空闘技場編～ヨークシンシティ編 12/23～12/29グリードアイランド編 12/30～1/12キメラ=アント編…",
+      "link": "https://twitter.com/ognis1205/status/1607781213884018688",
+      "pubDate": "Tue, 27 Dec 2022 16:51:27 GMT",
+      "creator": "ognis1205",
+      "content": "RT @zebrack_comic: 『HUNTER×HUNTER』カラー版318話まで今だけ無料！ 12/9～12/15ハンター試験編 12/16～12/22天空闘技場編～ヨークシンシティ編 12/23～12/29グリードアイランド編 12/30～1/12キメラ=アント編…",
+      "contentSnippet": "RT @zebrack_comic: 『HUNTER×HUNTER』カラー版318話まで今だけ無料！\n\n12/9～12/15ハンター試験編 \n12/16～12/22天空闘技場編～ヨークシンシティ編\n12/23～12/29グリードアイランド編\n12/30～1/12キメラ=アント編…",
+      "guid": "1607781213884018688",
+      "isoDate": "2022-12-27T16:51:27.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @ylecun: @grbradsk There are tons of packages for that. The most popular one is PixInsight. There is no DL there AFAICT, though it uses…",
       "link": "https://twitter.com/ognis1205/status/1607577711756849153",
