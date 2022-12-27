@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1672107105454",
+  "timestamp": "1672125043901",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @ylecun: @grbradsk There are tons of packages for that. The most popular one is PixInsight. There is no DL there AFAICT, though it uses…",
+      "link": "https://twitter.com/ognis1205/status/1607577711756849153",
+      "pubDate": "Tue, 27 Dec 2022 03:22:48 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: @grbradsk There are tons of packages for that. The most popular one is PixInsight. There is no DL there AFAICT, though it uses…",
+      "contentSnippet": "RT @ylecun: @grbradsk There are tons of packages for that.\nThe most popular one is PixInsight.\nThere is no DL there AFAICT, though it uses…",
+      "guid": "1607577711756849153",
+      "isoDate": "2022-12-27T03:22:48.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @ylecun: MoDem: accelerated Model-Based RL. The world model is a JEPA-like architecture, which makes predictions in representation space…",
+      "link": "https://twitter.com/ognis1205/status/1607570515727912960",
+      "pubDate": "Tue, 27 Dec 2022 02:54:12 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: MoDem: accelerated Model-Based RL. The world model is a JEPA-like architecture, which makes predictions in representation space…",
+      "contentSnippet": "RT @ylecun: MoDem: accelerated Model-Based RL.\nThe world model is a JEPA-like architecture, which makes predictions in representation space…",
+      "guid": "1607570515727912960",
+      "isoDate": "2022-12-27T02:54:12.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @rui314: Here is a late holiday gift for the retro-computing community. mold now supports the SH-4 CPU! Why? Because I can do it. It's t…",
+      "link": "https://twitter.com/ognis1205/status/1607570395036807168",
+      "pubDate": "Tue, 27 Dec 2022 02:53:44 GMT",
+      "creator": "ognis1205",
+      "content": "RT @rui314: Here is a late holiday gift for the retro-computing community. mold now supports the SH-4 CPU! Why? Because I can do it. It's t…",
+      "contentSnippet": "RT @rui314: Here is a late holiday gift for the retro-computing community. mold now supports the SH-4 CPU! Why? Because I can do it. It's t…",
+      "guid": "1607570395036807168",
+      "isoDate": "2022-12-27T02:53:44.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "How many times do I have to tell you to come when called?!? | BilliSpeaks https://t.co/Zh8FuhayS8 via @YouTube",
       "link": "https://twitter.com/ognis1205/status/1607358200533352448",
