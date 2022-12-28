@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1672211436727",
+  "timestamp": "1672233593333",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @bkhmsi: Hi everyone! This year I am thankful for many things I started my AI residency at Facebook/Meta in Nov 2021 after rejectin…",
+      "link": "https://twitter.com/ognis1205/status/1608031343140798470",
+      "pubDate": "Wed, 28 Dec 2022 09:25:22 GMT",
+      "creator": "ognis1205",
+      "content": "RT @bkhmsi: Hi everyone! This year I am thankful for many things I started my AI residency at Facebook/Meta in Nov 2021 after rejectin…",
+      "contentSnippet": "RT @bkhmsi: Hi everyone! \n\nThis year I am thankful for many things👇 \n\nI started my AI residency at Facebook/Meta in Nov 2021 after rejectin…",
+      "guid": "1608031343140798470",
+      "isoDate": "2022-12-28T09:25:22.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @metalunk: 10X で作った ML 基盤について書きました！ 最初のプロダクトのレジ前推薦がこの上で元気に稼働中です たくさん書いたので，MLOps 好きな人は一万文字読んでください そうでもない人は最初と最後だけサクッと読んでください 10X のコスパ重視…",
+      "link": "https://twitter.com/ognis1205/status/1608020420749594624",
+      "pubDate": "Wed, 28 Dec 2022 08:41:58 GMT",
+      "creator": "ognis1205",
+      "content": "RT @metalunk: 10X で作った ML 基盤について書きました！ 最初のプロダクトのレジ前推薦がこの上で元気に稼働中です たくさん書いたので，MLOps 好きな人は一万文字読んでください そうでもない人は最初と最後だけサクッと読んでください 10X のコスパ重視…",
+      "contentSnippet": "RT @metalunk: 10X で作った ML 基盤について書きました！\n最初のプロダクトのレジ前推薦がこの上で元気に稼働中です\n\nたくさん書いたので，MLOps 好きな人は一万文字読んでください\nそうでもない人は最初と最後だけサクッと読んでください\n\n10X のコスパ重視…",
+      "guid": "1608020420749594624",
+      "isoDate": "2022-12-28T08:41:58.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/YCuM8VpFOd",
+      "link": "https://twitter.com/ognis1205/status/1608000134427860993",
+      "pubDate": "Wed, 28 Dec 2022 07:21:21 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/YCuM8VpFOd",
+      "contentSnippet": "https://t.co/YCuM8VpFOd",
+      "guid": "1608000134427860993",
+      "isoDate": "2022-12-28T07:21:21.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @zebrack_comic: 『HUNTER×HUNTER』カラー版318話まで今だけ無料！ 12/9～12/15ハンター試験編 12/16～12/22天空闘技場編～ヨークシンシティ編 12/23～12/29グリードアイランド編 12/30～1/12キメラ=アント編…",
       "link": "https://twitter.com/ognis1205/status/1607781213884018688",
