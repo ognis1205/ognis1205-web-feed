@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1672280103731",
+  "timestamp": "1672297822704",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @_akhaliq: Cramming: Training a Language Model on a Single GPU in One Day abs: https://t.co/2xBjI4yyKu https://t.co/VNtoc9aQaS",
+      "link": "https://twitter.com/ognis1205/status/1608346899182145536",
+      "pubDate": "Thu, 29 Dec 2022 06:19:17 GMT",
+      "creator": "ognis1205",
+      "content": "RT @_akhaliq: Cramming: Training a Language Model on a Single GPU in One Day abs: https://t.co/2xBjI4yyKu https://t.co/VNtoc9aQaS",
+      "contentSnippet": "RT @_akhaliq: Cramming: Training a Language Model on a Single GPU in One Day\nabs: https://t.co/2xBjI4yyKu https://t.co/VNtoc9aQaS",
+      "guid": "1608346899182145536",
+      "isoDate": "2022-12-29T06:19:17.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "The recent astonishing progress of LLMs is enough to convince me to come up with the idea that we follow \"patterns\", i.e., fit the mould unconsciously.",
       "link": "https://twitter.com/ognis1205/status/1608189067019325440",
