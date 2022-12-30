@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1672406388918",
+  "timestamp": "1672427304160",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @yujitach: 著者によると何か世界をかえる論文で、前から噂を聞いていたのですが、とうとう出たようです: https://t.co/FnF1U8IFqq Letter では全貌が掴みづらいので、full paper が待ち遠しいところですが...",
+      "link": "https://twitter.com/ognis1205/status/1608873636328542209",
+      "pubDate": "Fri, 30 Dec 2022 17:12:20 GMT",
+      "creator": "ognis1205",
+      "content": "RT @yujitach: 著者によると何か世界をかえる論文で、前から噂を聞いていたのですが、とうとう出たようです: https://t.co/FnF1U8IFqq Letter では全貌が掴みづらいので、full paper が待ち遠しいところですが...",
+      "contentSnippet": "RT @yujitach: 著者によると何か世界をかえる論文で、前から噂を聞いていたのですが、とうとう出たようです: https://t.co/FnF1U8IFqq  Letter では全貌が掴みづらいので、full paper が待ち遠しいところですが...",
+      "guid": "1608873636328542209",
+      "isoDate": "2022-12-30T17:12:20.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @_akhaliq: Cramming: Training a Language Model on a Single GPU in One Day abs: https://t.co/2xBjI4yyKu https://t.co/VNtoc9aQaS",
       "link": "https://twitter.com/ognis1205/status/1608346899182145536",
