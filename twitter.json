@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1672513655088",
+  "timestamp": "1672579154400",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @LorenaABarba: @CathyNDavidson @emilymbender LLMs are getting exponentially better: the pace of innovation is exciting! But let's rememb…",
+      "link": "https://twitter.com/ognis1205/status/1609465569706926081",
+      "pubDate": "Sun, 01 Jan 2023 08:24:28 GMT",
+      "creator": "ognis1205",
+      "content": "RT @LorenaABarba: @CathyNDavidson @emilymbender LLMs are getting exponentially better: the pace of innovation is exciting! But let's rememb…",
+      "contentSnippet": "RT @LorenaABarba: @CathyNDavidson @emilymbender LLMs are getting exponentially better: the pace of innovation is exciting! But let's rememb…",
+      "guid": "1609465569706926081",
+      "isoDate": "2023-01-01T08:24:28.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @yujitach: 著者によると何か世界をかえる論文で、前から噂を聞いていたのですが、とうとう出たようです: https://t.co/FnF1U8IFqq Letter では全貌が掴みづらいので、full paper が待ち遠しいところですが...",
       "link": "https://twitter.com/ognis1205/status/1608873636328542209",
