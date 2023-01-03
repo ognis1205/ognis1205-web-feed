@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1672752104946",
+  "timestamp": "1672772918373",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @nixcraft: A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding https://t.co/i8dO2CZsSw https://…",
+      "link": "https://twitter.com/ognis1205/status/1610305305073811456",
+      "pubDate": "Tue, 03 Jan 2023 16:01:17 GMT",
+      "creator": "ognis1205",
+      "content": "RT @nixcraft: A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding https://t.co/i8dO2CZsSw https://…",
+      "contentSnippet": "RT @nixcraft: A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding \n\nhttps://t.co/i8dO2CZsSw \n\n#Unix #Linux #macOS #BSD https://…",
+      "guid": "1610305305073811456",
+      "isoDate": "2023-01-03T16:01:17.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @deepcohen: This is an interesting new paper on the topic of feature learning. They show that several aspects of feature learning in ne…",
+      "link": "https://twitter.com/ognis1205/status/1610292769947541506",
+      "pubDate": "Tue, 03 Jan 2023 15:11:28 GMT",
+      "creator": "ognis1205",
+      "content": "RT @deepcohen: This is an interesting new paper on the topic of feature learning. They show that several aspects of feature learning in ne…",
+      "contentSnippet": "RT @deepcohen: This is an interesting new paper on the topic of feature learning.  They show that several aspects of feature learning in ne…",
+      "guid": "1610292769947541506",
+      "isoDate": "2023-01-03T15:11:28.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/7w2BflIjns",
+      "link": "https://twitter.com/ognis1205/status/1610272351182290944",
+      "pubDate": "Tue, 03 Jan 2023 13:50:20 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/7w2BflIjns",
+      "contentSnippet": "https://t.co/7w2BflIjns",
+      "guid": "1610272351182290944",
+      "isoDate": "2023-01-03T13:50:20.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @LorenaABarba: @CathyNDavidson @emilymbender LLMs are getting exponentially better: the pace of innovation is exciting! But let's rememb…",
       "link": "https://twitter.com/ognis1205/status/1609465569706926081",
