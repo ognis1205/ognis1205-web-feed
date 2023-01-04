@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1672798669492",
+  "timestamp": "1672816248982",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @dbworld_: https://t.co/yV8WcdOcRx Popularity Ranking of Database Management Systems. (arXiv:2301.00847v1 [cs.DB])",
+      "link": "https://twitter.com/ognis1205/status/1610487595238293505",
+      "pubDate": "Wed, 04 Jan 2023 04:05:38 GMT",
+      "creator": "ognis1205",
+      "content": "RT @dbworld_: https://t.co/yV8WcdOcRx Popularity Ranking of Database Management Systems. (arXiv:2301.00847v1 [cs.DB])",
+      "contentSnippet": "RT @dbworld_: https://t.co/yV8WcdOcRx Popularity Ranking of Database Management Systems. (arXiv:2301.00847v1 [cs.DB]) #databases",
+      "guid": "1610487595238293505",
+      "isoDate": "2023-01-04T04:05:38.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/68ug7fMdaS",
+      "link": "https://twitter.com/ognis1205/status/1610482186595225600",
+      "pubDate": "Wed, 04 Jan 2023 03:44:09 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/68ug7fMdaS",
+      "contentSnippet": "https://t.co/68ug7fMdaS",
+      "guid": "1610482186595225600",
+      "isoDate": "2023-01-04T03:44:09.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @nixcraft: A Visual Guide to SSH Tunnels: Local and Remote Port Forwarding https://t.co/i8dO2CZsSw https://…",
       "link": "https://twitter.com/ognis1205/status/1610305305073811456",
