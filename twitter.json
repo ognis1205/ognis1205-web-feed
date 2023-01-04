@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1672838546418",
+  "timestamp": "1672859418943",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @ylecun: I've been making that point in all of my recent talks. Current LLMs are reactive, like Kahneman's \"system 1\". We need new archi…",
+      "link": "https://twitter.com/ognis1205/status/1610654354725572608",
+      "pubDate": "Wed, 04 Jan 2023 15:08:17 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: I've been making that point in all of my recent talks. Current LLMs are reactive, like Kahneman's \"system 1\". We need new archi…",
+      "contentSnippet": "RT @ylecun: I've been making that point in all of my recent talks.\nCurrent LLMs are reactive, like Kahneman's \"system 1\".\nWe need new archi…",
+      "guid": "1610654354725572608",
+      "isoDate": "2023-01-04T15:08:17.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @ifesdjeen: Database Internals @therealdatabass is now also available in audio format, from https://t.co/9mzmCksRfN as well as Audible.…",
       "link": "https://twitter.com/ognis1205/status/1610616055722020864",
