@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1672925087928",
+  "timestamp": "1672945722122",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @DeltaLakeOSS: Learn how is deployed and enhanced at the United States Citizenship and Immigration Services (USCIS) to sat…",
+      "link": "https://twitter.com/ognis1205/status/1611052179472932865",
+      "pubDate": "Thu, 05 Jan 2023 17:29:06 GMT",
+      "creator": "ognis1205",
+      "content": "RT @DeltaLakeOSS: Learn how is deployed and enhanced at the United States Citizenship and Immigration Services (USCIS) to sat…",
+      "contentSnippet": "RT @DeltaLakeOSS: Learn how #DeltaSharing is deployed and enhanced at the United States Citizenship and Immigration Services (USCIS) to sat…",
+      "guid": "1611052179472932865",
+      "isoDate": "2023-01-05T17:29:06.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Broken spiderman zipper https://t.co/BcWp6YKAtG via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1611030571467296770",
+      "pubDate": "Thu, 05 Jan 2023 16:03:14 GMT",
+      "creator": "ognis1205",
+      "content": "Broken spiderman zipper https://t.co/BcWp6YKAtG via @YouTube",
+      "contentSnippet": "Broken spiderman zipper https://t.co/BcWp6YKAtG via @YouTube",
+      "guid": "1611030571467296770",
+      "isoDate": "2023-01-05T16:03:14.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I strongly believe there exists a \"differential trinity\" between differential lambda calculus, cartesian differential categories and differential logics(there is no such term so far, but this corresponds ANNs?) like Curry-Howard-Lambek correspondence does.",
+      "link": "https://twitter.com/ognis1205/status/1611021192563163136",
+      "pubDate": "Thu, 05 Jan 2023 15:25:58 GMT",
+      "creator": "ognis1205",
+      "content": "I strongly believe there exists a \"differential trinity\" between differential lambda calculus, cartesian differential categories and differential logics(there is no such term so far, but this corresponds ANNs?) like Curry-Howard-Lambek correspondence does.",
+      "contentSnippet": "I strongly believe there exists a \"differential trinity\" between differential lambda calculus, cartesian differential categories and differential logics(there is no such term so far, but this corresponds ANNs?) like Curry-Howard-Lambek correspondence does.",
+      "guid": "1611021192563163136",
+      "isoDate": "2023-01-05T15:25:58.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/F09Zsb5dej",
       "link": "https://twitter.com/ognis1205/status/1610875326149853186",
