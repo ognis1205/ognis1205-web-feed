@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1672989052593",
+  "timestamp": "1673011305965",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "Is coding in Rust as bad as in C++? https://t.co/Xu01Xdyfvo",
+      "link": "https://twitter.com/ognis1205/status/1611331629515165697",
+      "pubDate": "Fri, 06 Jan 2023 11:59:32 GMT",
+      "creator": "ognis1205",
+      "content": "Is coding in Rust as bad as in C++? https://t.co/Xu01Xdyfvo",
+      "contentSnippet": "Is coding in Rust as bad as in C++? https://t.co/Xu01Xdyfvo",
+      "guid": "1611331629515165697",
+      "isoDate": "2023-01-06T11:59:32.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/Blilw3f5Xa",
+      "link": "https://twitter.com/ognis1205/status/1611260969753382912",
+      "pubDate": "Fri, 06 Jan 2023 07:18:45 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/Blilw3f5Xa",
+      "contentSnippet": "https://t.co/Blilw3f5Xa",
+      "guid": "1611260969753382912",
+      "isoDate": "2023-01-06T07:18:45.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @DeltaLakeOSS: Learn how is deployed and enhanced at the United States Citizenship and Immigration Services (USCIS) to sat…",
       "link": "https://twitter.com/ognis1205/status/1611052179472932865",
