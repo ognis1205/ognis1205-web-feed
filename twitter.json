@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1673183943111",
+  "timestamp": "1673204886818",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @DrJimFan: New work from @MetaAI: HyperReel. Looks like VR will get a new killer app: Capture videos with multiple cameras set up at di…",
+      "link": "https://twitter.com/ognis1205/status/1612129906154176512",
+      "pubDate": "Sun, 08 Jan 2023 16:51:36 GMT",
+      "creator": "ognis1205",
+      "content": "RT @DrJimFan: New work from @MetaAI: HyperReel. Looks like VR will get a new killer app: Capture videos with multiple cameras set up at di…",
+      "contentSnippet": "RT @DrJimFan: New work from @MetaAI: HyperReel. Looks like VR will get a new killer app:\n\nCapture videos with multiple cameras set up at di…",
+      "guid": "1612129906154176512",
+      "isoDate": "2023-01-08T16:51:36.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @rui314: 2画面PCいいな。2画面AndroidのMicrosoft Surface Duoも持ってるし、こういう製品に弱いのかもしれない。 https://t.co/D2eRX8sI7p",
+      "link": "https://twitter.com/ognis1205/status/1612090603835379717",
+      "pubDate": "Sun, 08 Jan 2023 14:15:25 GMT",
+      "creator": "ognis1205",
+      "content": "RT @rui314: 2画面PCいいな。2画面AndroidのMicrosoft Surface Duoも持ってるし、こういう製品に弱いのかもしれない。 https://t.co/D2eRX8sI7p",
+      "contentSnippet": "RT @rui314: 2画面PCいいな。2画面AndroidのMicrosoft Surface Duoも持ってるし、こういう製品に弱いのかもしれない。 https://t.co/D2eRX8sI7p",
+      "guid": "1612090603835379717",
+      "isoDate": "2023-01-08T14:15:25.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @elonmusk: Easy swipe right/left to move between recommended vs followed tweets rolls out later this week. First part of a much larger…",
       "link": "https://twitter.com/ognis1205/status/1612013562490400771",
