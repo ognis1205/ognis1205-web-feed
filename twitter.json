@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1673075435422",
+  "timestamp": "1673183943111",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @elonmusk: Easy swipe right/left to move between recommended vs followed tweets rolls out later this week. First part of a much larger…",
+      "link": "https://twitter.com/ognis1205/status/1612013562490400771",
+      "pubDate": "Sun, 08 Jan 2023 09:09:17 GMT",
+      "creator": "ognis1205",
+      "content": "RT @elonmusk: Easy swipe right/left to move between recommended vs followed tweets rolls out later this week. First part of a much larger…",
+      "contentSnippet": "RT @elonmusk: Easy swipe right/left to move between recommended vs followed tweets rolls out later this week.\n\nFirst part of a much larger…",
+      "guid": "1612013562490400771",
+      "isoDate": "2023-01-08T09:09:17.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Writing Rust code is now getting interesting and fun to me. For my learning purpose, I am going to implement a could native data platform.",
+      "link": "https://twitter.com/ognis1205/status/1612013190162026496",
+      "pubDate": "Sun, 08 Jan 2023 09:07:48 GMT",
+      "creator": "ognis1205",
+      "content": "Writing Rust code is now getting interesting and fun to me. For my learning purpose, I am going to implement a could native data platform.",
+      "contentSnippet": "Writing Rust code is now getting interesting and fun to me. For my learning purpose, I am going to implement a could native data platform.",
+      "guid": "1612013190162026496",
+      "isoDate": "2023-01-08T09:07:48.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @engineers_feed: log() =log()",
+      "link": "https://twitter.com/ognis1205/status/1611744329508478977",
+      "pubDate": "Sat, 07 Jan 2023 15:19:27 GMT",
+      "creator": "ognis1205",
+      "content": "RT @engineers_feed: log() =log()",
+      "contentSnippet": "RT @engineers_feed: log(😅) =💧log(😄)",
+      "guid": "1611744329508478977",
+      "isoDate": "2023-01-07T15:19:27.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/cjOElyZXn0",
       "link": "https://twitter.com/ognis1205/status/1611583503078133760",
