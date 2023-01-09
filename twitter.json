@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1673248294010",
+  "timestamp": "1673270643825",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @DeltaLakeOSS: Did you know you can query a table using and queries? Check out which autom…",
+      "link": "https://twitter.com/ognis1205/status/1612412700101083136",
+      "pubDate": "Mon, 09 Jan 2023 11:35:19 GMT",
+      "creator": "ognis1205",
+      "content": "RT @DeltaLakeOSS: Did you know you can query a table using and queries? Check out which autom…",
+      "contentSnippet": "RT @DeltaLakeOSS: Did you know you can query a #DeltaLake table using #SQL, #GraphQL, and #REST #API queries? Check out #roapi, which autom…",
+      "guid": "1612412700101083136",
+      "isoDate": "2023-01-09T11:35:19.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @DrJimFan: New work from @MetaAI: HyperReel. Looks like VR will get a new killer app: Capture videos with multiple cameras set up at di…",
       "link": "https://twitter.com/ognis1205/status/1612129906154176512",
