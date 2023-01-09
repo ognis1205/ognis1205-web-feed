@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1673270643825",
+  "timestamp": "1673291345135",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/BbvuuLezh2",
+      "link": "https://twitter.com/ognis1205/status/1612494779010682881",
+      "pubDate": "Mon, 09 Jan 2023 17:01:28 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/BbvuuLezh2",
+      "contentSnippet": "https://t.co/BbvuuLezh2",
+      "guid": "1612494779010682881",
+      "isoDate": "2023-01-09T17:01:28.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @shikishinobu: 郡山市の大安場史跡公園が「ねこ頭形土製品」の愛称を募集中。 「ねこにとらわれない、自由な発想での愛称をお待ちしております」とのこと。 大事なことなのでもう一度。 「ねこにとらわれない、自由な発想での愛称をお待ちしております」 https:/…",
+      "link": "https://twitter.com/ognis1205/status/1612490639308128258",
+      "pubDate": "Mon, 09 Jan 2023 16:45:01 GMT",
+      "creator": "ognis1205",
+      "content": "RT @shikishinobu: 郡山市の大安場史跡公園が「ねこ頭形土製品」の愛称を募集中。 「ねこにとらわれない、自由な発想での愛称をお待ちしております」とのこと。 大事なことなのでもう一度。 「ねこにとらわれない、自由な発想での愛称をお待ちしております」 https:/…",
+      "contentSnippet": "RT @shikishinobu: 郡山市の大安場史跡公園が「ねこ頭形土製品」の愛称を募集中。\n「ねこにとらわれない、自由な発想での愛称をお待ちしております」とのこと。\n\n大事なことなのでもう一度。\n「ねこにとらわれない、自由な発想での愛称をお待ちしております」 https:/…",
+      "guid": "1612490639308128258",
+      "isoDate": "2023-01-09T16:45:01.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @ylecun: @datafoolYT Memorization doesn't work for arithmetic. Even less for mathematics. All the latest AI systems that can do math hav…",
+      "link": "https://twitter.com/ognis1205/status/1612485554737926144",
+      "pubDate": "Mon, 09 Jan 2023 16:24:49 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: @datafoolYT Memorization doesn't work for arithmetic. Even less for mathematics. All the latest AI systems that can do math hav…",
+      "contentSnippet": "RT @ylecun: @datafoolYT Memorization doesn't work for arithmetic. Even less for mathematics.\nAll the latest AI systems that can do math hav…",
+      "guid": "1612485554737926144",
+      "isoDate": "2023-01-09T16:24:49.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @DeltaLakeOSS: Did you know you can query a table using and queries? Check out which autom…",
       "link": "https://twitter.com/ognis1205/status/1612412700101083136",
