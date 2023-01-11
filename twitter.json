@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1673443572774",
+  "timestamp": "1673464169624",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @fchollet: New tutorial on https://t.co/m6mT8SaHBD: implementing the Forward-Forward algorithm, a new learning mechanism proposed by Geo…",
+      "link": "https://twitter.com/ognis1205/status/1613185982622498816",
+      "pubDate": "Wed, 11 Jan 2023 14:48:04 GMT",
+      "creator": "ognis1205",
+      "content": "RT @fchollet: New tutorial on https://t.co/m6mT8SaHBD: implementing the Forward-Forward algorithm, a new learning mechanism proposed by Geo…",
+      "contentSnippet": "RT @fchollet: New tutorial on https://t.co/m6mT8SaHBD: implementing the Forward-Forward algorithm, a new learning mechanism proposed by Geo…",
+      "guid": "1613185982622498816",
+      "isoDate": "2023-01-11T14:48:04.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "@ylecun Can current ANNs switch the context of \"what to see\" while they see pictures as follow? - an old woman v.s. a young woman - a rabbit v.s. a bird https://t.co/tdn4DwqwDw",
       "link": "https://twitter.com/ognis1205/status/1613122298395131905",
