@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1673421079865",
+  "timestamp": "1673443572774",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "@ylecun Can current ANNs switch the context of \"what to see\" while they see pictures as follow? - an old woman v.s. a young woman - a rabbit v.s. a bird https://t.co/tdn4DwqwDw",
+      "link": "https://twitter.com/ognis1205/status/1613122298395131905",
+      "pubDate": "Wed, 11 Jan 2023 10:35:00 GMT",
+      "creator": "ognis1205",
+      "content": "@ylecun Can current ANNs switch the context of \"what to see\" while they see pictures as follow? - an old woman v.s. a young woman - a rabbit v.s. a bird https://t.co/tdn4DwqwDw",
+      "contentSnippet": "@ylecun Can current ANNs switch the context of \"what to see\" while they see pictures as follow?🤔\n - an old woman v.s. a young woman\n - a rabbit v.s. a bird https://t.co/tdn4DwqwDw",
+      "guid": "1613122298395131905",
+      "isoDate": "2023-01-11T10:35:00.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @rustlang: CVE-2022-46176: Cargo didn't verify the host keys when downloading dependencies or registries with SSH, exposing users to MIT…",
+      "link": "https://twitter.com/ognis1205/status/1613096456210247680",
+      "pubDate": "Wed, 11 Jan 2023 08:52:19 GMT",
+      "creator": "ognis1205",
+      "content": "RT @rustlang: CVE-2022-46176: Cargo didn't verify the host keys when downloading dependencies or registries with SSH, exposing users to MIT…",
+      "contentSnippet": "RT @rustlang: CVE-2022-46176: Cargo didn't verify the host keys when downloading dependencies or registries with SSH, exposing users to MIT…",
+      "guid": "1613096456210247680",
+      "isoDate": "2023-01-11T08:52:19.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/N1z4qDDvlI",
+      "link": "https://twitter.com/ognis1205/status/1613074918098501632",
+      "pubDate": "Wed, 11 Jan 2023 07:26:44 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/N1z4qDDvlI",
+      "contentSnippet": "https://t.co/N1z4qDDvlI",
+      "guid": "1613074918098501632",
+      "isoDate": "2023-01-11T07:26:44.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/FMV3Jdozc0",
       "link": "https://twitter.com/ognis1205/status/1612722041383424002",
