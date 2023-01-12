@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1673489917528",
+  "timestamp": "1673507455157",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/h2uIPAxZsK",
+      "link": "https://twitter.com/ognis1205/status/1613403649191055361",
+      "pubDate": "Thu, 12 Jan 2023 05:13:00 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/h2uIPAxZsK",
+      "contentSnippet": "https://t.co/h2uIPAxZsK",
+      "guid": "1613403649191055361",
+      "isoDate": "2023-01-12T05:13:00.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @fchollet: New tutorial on https://t.co/m6mT8SaHBD: implementing the Forward-Forward algorithm, a new learning mechanism proposed by Geo…",
       "link": "https://twitter.com/ognis1205/status/1613185982622498816",
