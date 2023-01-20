@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1674198703433",
+  "timestamp": "1674220990403",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/78QzzURUDD",
+      "link": "https://twitter.com/ognis1205/status/1616395369986031617",
+      "pubDate": "Fri, 20 Jan 2023 11:21:02 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/78QzzURUDD",
+      "contentSnippet": "https://t.co/78QzzURUDD",
+      "guid": "1616395369986031617",
+      "isoDate": "2023-01-20T11:21:02.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/UDYMkChOe8",
       "link": "https://twitter.com/ognis1205/status/1616323010176372738",
