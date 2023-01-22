@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1674393543657",
+  "timestamp": "1674414496399",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @ylecun: I made that point in a talk at the Institute for Advanced Studies in 2019 entitled \"The epistemology of deep learning.\" The re…",
+      "link": "https://twitter.com/ognis1205/status/1617189739957989377",
+      "pubDate": "Sun, 22 Jan 2023 15:57:34 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: I made that point in a talk at the Institute for Advanced Studies in 2019 entitled \"The epistemology of deep learning.\" The re…",
+      "contentSnippet": "RT @ylecun: I made that point in a talk at the Institute for Advanced Studies in 2019 entitled \"The epistemology of deep learning.\"\n\nThe re…",
+      "guid": "1617189739957989377",
+      "isoDate": "2023-01-22T15:57:34.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/j6E37ZOTsW",
       "link": "https://twitter.com/ognis1205/status/1617123191075504129",
