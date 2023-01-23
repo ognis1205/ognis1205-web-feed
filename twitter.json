@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1674457880478",
+  "timestamp": "1674480208798",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @WillettNeuro: Our new pre-print is out today! We demonstrate a brain-computer interface that turns speech-related neural activity into…",
+      "link": "https://twitter.com/ognis1205/status/1617507321076408320",
+      "pubDate": "Mon, 23 Jan 2023 12:59:31 GMT",
+      "creator": "ognis1205",
+      "content": "RT @WillettNeuro: Our new pre-print is out today! We demonstrate a brain-computer interface that turns speech-related neural activity into…",
+      "contentSnippet": "RT @WillettNeuro: Our new pre-print is out today! We demonstrate a brain-computer interface that turns speech-related neural activity into…",
+      "guid": "1617507321076408320",
+      "isoDate": "2023-01-23T12:59:31.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "something useful for teaching fundamentals of quantum mechanics to my niece :)",
+      "link": "https://twitter.com/ognis1205/status/1617495167900213248",
+      "pubDate": "Mon, 23 Jan 2023 12:11:14 GMT",
+      "creator": "ognis1205",
+      "content": "something useful for teaching fundamentals of quantum mechanics to my niece :)",
+      "contentSnippet": "something useful for teaching fundamentals of quantum mechanics to my niece :)",
+      "guid": "1617495167900213248",
+      "isoDate": "2023-01-23T12:11:14.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "One of the most handy derivations of the Hermite differential equation is the asymptotic behavior of the diatomic system’s Schroedinger equation. My physicist friend from Ukraine always use asymptotic techniques when we talk about math Olympiad problems and it reminds me of",
+      "link": "https://twitter.com/ognis1205/status/1617494925960175616",
+      "pubDate": "Mon, 23 Jan 2023 12:10:16 GMT",
+      "creator": "ognis1205",
+      "content": "One of the most handy derivations of the Hermite differential equation is the asymptotic behavior of the diatomic system’s Schroedinger equation. My physicist friend from Ukraine always use asymptotic techniques when we talk about math Olympiad problems and it reminds me of",
+      "contentSnippet": "One of the most handy derivations of the Hermite differential equation is the asymptotic behavior of the diatomic system’s Schroedinger equation. My physicist friend from Ukraine always use asymptotic techniques when we talk about math Olympiad problems and it reminds me of",
+      "guid": "1617494925960175616",
+      "isoDate": "2023-01-23T12:10:16.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Why the harmonic oscillator approximation for a diatomic system around the stable point is legit is due to the fact that all potential energies must be convex downward around there. Am I correct?",
       "link": "https://twitter.com/ognis1205/status/1617412772698132482",
