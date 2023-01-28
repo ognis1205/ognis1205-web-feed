@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1674889805679",
+  "timestamp": "1674912001967",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @yujitach: 今日三十分うまくつかえない時間があったので「理論物理と決定不能性、不完全性」というビデオをとってみました: https://t.co/H4auYgBD0u",
+      "link": "https://twitter.com/ognis1205/status/1619301873122709505",
+      "pubDate": "Sat, 28 Jan 2023 11:50:26 GMT",
+      "creator": "ognis1205",
+      "content": "RT @yujitach: 今日三十分うまくつかえない時間があったので「理論物理と決定不能性、不完全性」というビデオをとってみました: https://t.co/H4auYgBD0u",
+      "contentSnippet": "RT @yujitach: 今日三十分うまくつかえない時間があったので「理論物理と決定不能性、不完全性」というビデオをとってみました: https://t.co/H4auYgBD0u",
+      "guid": "1619301873122709505",
+      "isoDate": "2023-01-28T11:50:26.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/irm2eV45Wy",
       "link": "https://twitter.com/ognis1205/status/1619182095192178688",
