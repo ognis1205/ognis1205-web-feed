@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1675219043406",
+  "timestamp": "1675235484807",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/xDxlo9DOzd",
+      "link": "https://twitter.com/ognis1205/status/1620657383256244226",
+      "pubDate": "Wed, 01 Feb 2023 05:36:45 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/xDxlo9DOzd",
+      "contentSnippet": "https://t.co/xDxlo9DOzd",
+      "guid": "1620657383256244226",
+      "isoDate": "2023-02-01T05:36:45.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @arankomatsuzaki: REPLUG: Retrieval-Augmented Black-Box Language Models REPLUG with the tuned retriever significantly improves the perf…",
+      "link": "https://twitter.com/ognis1205/status/1620639035281780737",
+      "pubDate": "Wed, 01 Feb 2023 04:23:50 GMT",
+      "creator": "ognis1205",
+      "content": "RT @arankomatsuzaki: REPLUG: Retrieval-Augmented Black-Box Language Models REPLUG with the tuned retriever significantly improves the perf…",
+      "contentSnippet": "RT @arankomatsuzaki: REPLUG: Retrieval-Augmented Black-Box Language Models\n\nREPLUG with the tuned retriever significantly improves the perf…",
+      "guid": "1620639035281780737",
+      "isoDate": "2023-02-01T04:23:50.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @Fraser: After leading product at OpenAI for two and a half years I’ve made the decision to move on. I’ll be telling the story of modern…",
+      "link": "https://twitter.com/ognis1205/status/1620636921889439744",
+      "pubDate": "Wed, 01 Feb 2023 04:15:26 GMT",
+      "creator": "ognis1205",
+      "content": "RT @Fraser: After leading product at OpenAI for two and a half years I’ve made the decision to move on. I’ll be telling the story of modern…",
+      "contentSnippet": "RT @Fraser: After leading product at OpenAI for two and a half years I’ve made the decision to move on. I’ll be telling the story of modern…",
+      "guid": "1620636921889439744",
+      "isoDate": "2023-02-01T04:15:26.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/zOigMqq1gu",
       "link": "https://twitter.com/ognis1205/status/1620384562005307392",
@@ -772,17 +805,6 @@
       "contentSnippet": "RT @rui314: 2画面PCいいな。2画面AndroidのMicrosoft Surface Duoも持ってるし、こういう製品に弱いのかもしれない。 https://t.co/D2eRX8sI7p",
       "guid": "1612090603835379717",
       "isoDate": "2023-01-08T14:15:25.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "RT @elonmusk: Easy swipe right/left to move between recommended vs followed tweets rolls out later this week. First part of a much larger…",
-      "link": "https://twitter.com/ognis1205/status/1612013562490400771",
-      "pubDate": "Sun, 08 Jan 2023 09:09:17 GMT",
-      "creator": "ognis1205",
-      "content": "RT @elonmusk: Easy swipe right/left to move between recommended vs followed tweets rolls out later this week. First part of a much larger…",
-      "contentSnippet": "RT @elonmusk: Easy swipe right/left to move between recommended vs followed tweets rolls out later this week.\n\nFirst part of a much larger…",
-      "guid": "1612013562490400771",
-      "isoDate": "2023-01-08T09:09:17.000Z",
       "imgSrc": ""
     },
     {
@@ -2315,17 +2337,6 @@
       "imgSrc": ""
     },
     {
-      "title": "RT @elonmusk: Microservices … https://t.co/w6K0t1SRRs",
-      "link": "https://twitter.com/ognis1205/status/1597869681020661761",
-      "pubDate": "Wed, 30 Nov 2022 08:26:33 GMT",
-      "creator": "ognis1205",
-      "content": "RT @elonmusk: Microservices … https://t.co/w6K0t1SRRs",
-      "contentSnippet": "RT @elonmusk: Microservices …\n https://t.co/w6K0t1SRRs",
-      "guid": "1597869681020661761",
-      "isoDate": "2022-11-30T08:26:33.000Z",
-      "imgSrc": ""
-    },
-    {
       "title": "RT @ylecun: But here is a funny fact: given an NxN symmetric matrix of dissimilarities between N objects that satisfies triangular inequali…",
       "link": "https://twitter.com/ognis1205/status/1597785184665210880",
       "pubDate": "Wed, 30 Nov 2022 02:50:48 GMT",
@@ -2554,17 +2565,6 @@
       "contentSnippet": "RT @alexxubyte: I hope you've found this thread helpful.\n\nFollow me @alexxubyte for more.\n\nLike/Retweet the first tweet below if you can:…",
       "guid": "1594206992754970624",
       "isoDate": "2022-11-20T05:52:20.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "RT @elonmusk: Twitter is ALIVE",
-      "link": "https://twitter.com/ognis1205/status/1594197442706419713",
-      "pubDate": "Sun, 20 Nov 2022 05:14:23 GMT",
-      "creator": "ognis1205",
-      "content": "RT @elonmusk: Twitter is ALIVE",
-      "contentSnippet": "RT @elonmusk: Twitter is ALIVE",
-      "guid": "1594197442706419713",
-      "isoDate": "2022-11-20T05:14:23.000Z",
       "imgSrc": ""
     },
     {
