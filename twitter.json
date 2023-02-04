@@ -1,9 +1,53 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1675516738000",
+  "timestamp": "1675537716364",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "The best explanation of the application of monoids to the program semantics that I have ever seen so far is still the original paper of Moggi.",
+      "link": "https://twitter.com/ognis1205/status/1621925272416288773",
+      "pubDate": "Sat, 04 Feb 2023 17:34:53 GMT",
+      "creator": "ognis1205",
+      "content": "The best explanation of the application of monoids to the program semantics that I have ever seen so far is still the original paper of Moggi.",
+      "contentSnippet": "The best explanation of the application of monoids to the program semantics that I have ever seen so far is still the original paper of Moggi.",
+      "guid": "1621925272416288773",
+      "isoDate": "2023-02-04T17:34:53.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @serokell: In our latest video, we cover Monoid – a simple yet useful typeclass that abstracts the notion of \"smashing things together\".…",
+      "link": "https://twitter.com/ognis1205/status/1621924687013097472",
+      "pubDate": "Sat, 04 Feb 2023 17:32:33 GMT",
+      "creator": "ognis1205",
+      "content": "RT @serokell: In our latest video, we cover Monoid – a simple yet useful typeclass that abstracts the notion of \"smashing things together\".…",
+      "contentSnippet": "RT @serokell: In our latest video, we cover Monoid – a simple yet useful typeclass that abstracts the notion of \"smashing things together\".…",
+      "guid": "1621924687013097472",
+      "isoDate": "2023-02-04T17:32:33.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @FunctorFact: \"A comathematician is a device for turning cotheorems into ffee.\"",
+      "link": "https://twitter.com/ognis1205/status/1621924573360041984",
+      "pubDate": "Sat, 04 Feb 2023 17:32:06 GMT",
+      "creator": "ognis1205",
+      "content": "RT @FunctorFact: \"A comathematician is a device for turning cotheorems into ffee.\"",
+      "contentSnippet": "RT @FunctorFact: \"A comathematician is a device for turning cotheorems into ffee.\"",
+      "guid": "1621924573360041984",
+      "isoDate": "2023-02-04T17:32:06.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "My ex-boss was from Israeli Unit 8200. One of my current cohorts is a former Navy Seal’s. What’s next?",
+      "link": "https://twitter.com/ognis1205/status/1621899574511304705",
+      "pubDate": "Sat, 04 Feb 2023 15:52:46 GMT",
+      "creator": "ognis1205",
+      "content": "My ex-boss was from Israeli Unit 8200. One of my current cohorts is a former Navy Seal’s. What’s next?",
+      "contentSnippet": "My ex-boss was from Israeli Unit 8200. One of my current cohorts is a former Navy Seal’s. What’s next?🤔",
+      "guid": "1621899574511304705",
+      "isoDate": "2023-02-04T15:52:46.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @gabrielpeyre: Oldies but goldies: F Kubo and T Ando, Means of Positive Linear Operators, 1980, The Kubo-Ando mean generalizes geometric…",
       "link": "https://twitter.com/ognis1205/status/1621791662380027904",
