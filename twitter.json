@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1675494614838",
+  "timestamp": "1675516738000",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @gabrielpeyre: Oldies but goldies: F Kubo and T Ando, Means of Positive Linear Operators, 1980, The Kubo-Ando mean generalizes geometric…",
+      "link": "https://twitter.com/ognis1205/status/1621791662380027904",
+      "pubDate": "Sat, 04 Feb 2023 08:43:58 GMT",
+      "creator": "ognis1205",
+      "content": "RT @gabrielpeyre: Oldies but goldies: F Kubo and T Ando, Means of Positive Linear Operators, 1980, The Kubo-Ando mean generalizes geometric…",
+      "contentSnippet": "RT @gabrielpeyre: Oldies but goldies: F Kubo and T Ando, Means of Positive Linear Operators, 1980, The Kubo-Ando mean generalizes geometric…",
+      "guid": "1621791662380027904",
+      "isoDate": "2023-02-04T08:43:58.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/BjYl94DB47",
       "link": "https://twitter.com/ognis1205/status/1621200666848018432",
