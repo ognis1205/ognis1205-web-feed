@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1675690174776",
+  "timestamp": "1675710794296",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "Heartbreaking news from Turkey and Syria.",
+      "link": "https://twitter.com/ognis1205/status/1622649550073921536",
+      "pubDate": "Mon, 06 Feb 2023 17:32:54 GMT",
+      "creator": "ognis1205",
+      "content": "Heartbreaking news from Turkey and Syria.",
+      "contentSnippet": "Heartbreaking news from Turkey and Syria.",
+      "guid": "1622649550073921536",
+      "isoDate": "2023-02-06T17:32:54.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Debbie Deb - Lookout Weekend (1984) https://t.co/xtwyfODDI7 via @YouTube",
       "link": "https://twitter.com/ognis1205/status/1622585033080078336",
