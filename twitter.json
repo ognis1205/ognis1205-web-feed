@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1675823043918",
+  "timestamp": "1675840292474",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/eCVVAYf8LU",
+      "link": "https://twitter.com/ognis1205/status/1623175687833284609",
+      "pubDate": "Wed, 08 Feb 2023 04:23:35 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/eCVVAYf8LU",
+      "contentSnippet": "https://t.co/eCVVAYf8LU",
+      "guid": "1623175687833284609",
+      "isoDate": "2023-02-08T04:23:35.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @alfcnz: If you're ‘normalising over the queries instead of the keys’ aren’t you simply swapping the source of your queries and keys?! …",
+      "link": "https://twitter.com/ognis1205/status/1623167294611521536",
+      "pubDate": "Wed, 08 Feb 2023 03:50:14 GMT",
+      "creator": "ognis1205",
+      "content": "RT @alfcnz: If you're ‘normalising over the queries instead of the keys’ aren’t you simply swapping the source of your queries and keys?! …",
+      "contentSnippet": "RT @alfcnz: If you're ‘normalising over the queries instead of the keys’ aren’t you simply swapping the source of your queries and keys?! 🤔…",
+      "guid": "1623167294611521536",
+      "isoDate": "2023-02-08T03:50:14.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @MIT_CSAIL: MIT researchers found that massive neural nets (e.g. large language models) are capable of storing and simulating other neur…",
       "link": "https://twitter.com/ognis1205/status/1623044580856963072",
