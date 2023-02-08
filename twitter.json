@@ -1,9 +1,64 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1675796957011",
+  "timestamp": "1675823043918",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @MIT_CSAIL: MIT researchers found that massive neural nets (e.g. large language models) are capable of storing and simulating other neur…",
+      "link": "https://twitter.com/ognis1205/status/1623044580856963072",
+      "pubDate": "Tue, 07 Feb 2023 19:42:37 GMT",
+      "creator": "ognis1205",
+      "content": "RT @MIT_CSAIL: MIT researchers found that massive neural nets (e.g. large language models) are capable of storing and simulating other neur…",
+      "contentSnippet": "RT @MIT_CSAIL: MIT researchers found that massive neural nets (e.g. large language models) are capable of storing and simulating other neur…",
+      "guid": "1623044580856963072",
+      "isoDate": "2023-02-07T19:42:37.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/K0F0CMsxx3",
+      "link": "https://twitter.com/ognis1205/status/1623043922305122305",
+      "pubDate": "Tue, 07 Feb 2023 19:40:00 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/K0F0CMsxx3",
+      "contentSnippet": "https://t.co/K0F0CMsxx3",
+      "guid": "1623043922305122305",
+      "isoDate": "2023-02-07T19:40:00.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "a few pleasant moments in my life.",
+      "link": "https://twitter.com/ognis1205/status/1623042122864816130",
+      "pubDate": "Tue, 07 Feb 2023 19:32:51 GMT",
+      "creator": "ognis1205",
+      "content": "a few pleasant moments in my life.",
+      "contentSnippet": "a few pleasant moments in my life.",
+      "guid": "1623042122864816130",
+      "isoDate": "2023-02-07T19:32:51.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I'm completely positive to those tech giants but hearing such negative experiences from the former employees makes me a bit sad and awkward to apply an open position in the companies. All that being said though, sharing any insights from a truly talented person is one of",
+      "link": "https://twitter.com/ognis1205/status/1623041965511290882",
+      "pubDate": "Tue, 07 Feb 2023 19:32:13 GMT",
+      "creator": "ognis1205",
+      "content": "I'm completely positive to those tech giants but hearing such negative experiences from the former employees makes me a bit sad and awkward to apply an open position in the companies. All that being said though, sharing any insights from a truly talented person is one of",
+      "contentSnippet": "I'm completely positive to those tech giants but hearing such negative experiences from the former employees makes me a bit sad and awkward to apply an open position in the companies. All that being said though, sharing any insights from a truly talented person is one of",
+      "guid": "1623041965511290882",
+      "isoDate": "2023-02-07T19:32:13.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Had a chat with one of my cohorts who was a former Navy Seal's and an ex-LANL researcher (not kidding, his CV is credible). He completely lost his faith to the tech industry and tried to convince me not to work for Big Tech where he used to work.",
+      "link": "https://twitter.com/ognis1205/status/1623037892879847425",
+      "pubDate": "Tue, 07 Feb 2023 19:16:02 GMT",
+      "creator": "ognis1205",
+      "content": "Had a chat with one of my cohorts who was a former Navy Seal's and an ex-LANL researcher (not kidding, his CV is credible). He completely lost his faith to the tech industry and tried to convince me not to work for Big Tech where he used to work.",
+      "contentSnippet": "Had a chat with one of my cohorts who was a former Navy Seal's and an ex-LANL researcher (not kidding, his CV is credible). He completely lost his faith to the tech industry and tried to convince me not to work for Big Tech where he used to work.",
+      "guid": "1623037892879847425",
+      "isoDate": "2023-02-07T19:16:02.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/VHaBweRm1t",
       "link": "https://twitter.com/ognis1205/status/1622919579067625472",
