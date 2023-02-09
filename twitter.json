@@ -1,9 +1,64 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1675949423517",
+  "timestamp": "1675969736140",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "According to the spy balloons, some say it reminds them of Cuban Missile Crisis because of the chronological resemblance between the situations of these two incidents.",
+      "link": "https://twitter.com/ognis1205/status/1623759122129907713",
+      "pubDate": "Thu, 09 Feb 2023 19:01:57 GMT",
+      "creator": "ognis1205",
+      "content": "According to the spy balloons, some say it reminds them of Cuban Missile Crisis because of the chronological resemblance between the situations of these two incidents.",
+      "contentSnippet": "According to the spy balloons, some say it reminds them of Cuban Missile Crisis because of the chronological resemblance between the situations of these two incidents.",
+      "guid": "1623759122129907713",
+      "isoDate": "2023-02-09T19:01:57.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Sadistic Mika Band - Time Machine (Japanese Junkshop Glam 73) https://t.co/z6Lu1fIxa5 via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1623732788892688386",
+      "pubDate": "Thu, 09 Feb 2023 17:17:19 GMT",
+      "creator": "ognis1205",
+      "content": "Sadistic Mika Band - Time Machine (Japanese Junkshop Glam 73) https://t.co/z6Lu1fIxa5 via @YouTube",
+      "contentSnippet": "Sadistic Mika Band - Time Machine (Japanese Junkshop Glam 73) https://t.co/z6Lu1fIxa5 via @YouTube",
+      "guid": "1623732788892688386",
+      "isoDate": "2023-02-09T17:17:19.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "さすがコカコーラのCM！お姉様達が素敵すぎる。バブル時代に憧れた女性達が出て来ますよ(^_^)v https://t.co/S4ajzsJMM1 via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1623731577351208960",
+      "pubDate": "Thu, 09 Feb 2023 17:12:30 GMT",
+      "creator": "ognis1205",
+      "content": "さすがコカコーラのCM！お姉様達が素敵すぎる。バブル時代に憧れた女性達が出て来ますよ(^_^)v https://t.co/S4ajzsJMM1 via @YouTube",
+      "contentSnippet": "さすがコカコーラのCM！お姉様達が素敵すぎる。バブル時代に憧れた女性達が出て来ますよ(^_^)v https://t.co/S4ajzsJMM1 via @YouTube",
+      "guid": "1623731577351208960",
+      "isoDate": "2023-02-09T17:12:30.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @haskellfound: HF is establishing a database of security advisories for Hackage, to aid both automated and manual audits. If you'd like…",
+      "link": "https://twitter.com/ognis1205/status/1623728431719677952",
+      "pubDate": "Thu, 09 Feb 2023 17:00:00 GMT",
+      "creator": "ognis1205",
+      "content": "RT @haskellfound: HF is establishing a database of security advisories for Hackage, to aid both automated and manual audits. If you'd like…",
+      "contentSnippet": "RT @haskellfound: HF is establishing a database of security advisories for Hackage, to aid both automated and manual audits. If you'd like…",
+      "guid": "1623728431719677952",
+      "isoDate": "2023-02-09T17:00:00.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @DeltaLakeOSS: The latest blog post explains how you can configure your Delta Lake to allow for a schema that evolves over ti…",
+      "link": "https://twitter.com/ognis1205/status/1623728216514129920",
+      "pubDate": "Thu, 09 Feb 2023 16:59:08 GMT",
+      "creator": "ognis1205",
+      "content": "RT @DeltaLakeOSS: The latest blog post explains how you can configure your Delta Lake to allow for a schema that evolves over ti…",
+      "contentSnippet": "RT @DeltaLakeOSS: The latest #DeltaLake blog post explains how you can configure your Delta Lake to allow for a schema that evolves over ti…",
+      "guid": "1623728216514129920",
+      "isoDate": "2023-02-09T16:59:08.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @dbworld_: https://t.co/zRjsVwL1tu Detecting Data Type Inconsistencies in a Property Graph Database. (arXiv:2302.04106v1 [cs.DB])",
       "link": "https://twitter.com/ognis1205/status/1623571013706342404",
