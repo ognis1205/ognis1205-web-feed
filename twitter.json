@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1675909475458",
+  "timestamp": "1675926681860",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @dbworld_: https://t.co/zRjsVwL1tu Detecting Data Type Inconsistencies in a Property Graph Database. (arXiv:2302.04106v1 [cs.DB])",
+      "link": "https://twitter.com/ognis1205/status/1623571013706342404",
+      "pubDate": "Thu, 09 Feb 2023 06:34:28 GMT",
+      "creator": "ognis1205",
+      "content": "RT @dbworld_: https://t.co/zRjsVwL1tu Detecting Data Type Inconsistencies in a Property Graph Database. (arXiv:2302.04106v1 [cs.DB])",
+      "contentSnippet": "RT @dbworld_: https://t.co/zRjsVwL1tu Detecting Data Type Inconsistencies in a Property Graph Database. (arXiv:2302.04106v1 [cs.DB]) #datab…",
+      "guid": "1623571013706342404",
+      "isoDate": "2023-02-09T06:34:28.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I'm really curious to know what hardware development looks like. Where should I start with it? What are the largest open source hardware communities in the world?",
+      "link": "https://twitter.com/ognis1205/status/1623556521446756352",
+      "pubDate": "Thu, 09 Feb 2023 05:36:53 GMT",
+      "creator": "ognis1205",
+      "content": "I'm really curious to know what hardware development looks like. Where should I start with it? What are the largest open source hardware communities in the world?",
+      "contentSnippet": "I'm really curious to know what hardware development looks like. Where should I start with it? What are the largest open source hardware communities in the world?",
+      "guid": "1623556521446756352",
+      "isoDate": "2023-02-09T05:36:53.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Holst: The Planets, 'Mars' - BBC Proms https://t.co/kJVt8hOGnj via @YouTube",
       "link": "https://twitter.com/ognis1205/status/1623343943974023168",
