@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1675969736140",
+  "timestamp": "1675996390810",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "\"More is Different\" is the title of an article by P.W. Anderson, published in Science in 1972. The Izing model is about the phase transitions of matters though, if the analogy holds, DNNs is about the phase transitions of informations?",
+      "link": "https://twitter.com/ognis1205/status/1623786735217016832",
+      "pubDate": "Thu, 09 Feb 2023 20:51:40 GMT",
+      "creator": "ognis1205",
+      "content": "\"More is Different\" is the title of an article by P.W. Anderson, published in Science in 1972. The Izing model is about the phase transitions of matters though, if the analogy holds, DNNs is about the phase transitions of informations?",
+      "contentSnippet": "\"More is Different\" is the title of an article by P.W. Anderson, published in Science in 1972. The Izing model is about the phase transitions of matters though, if the analogy holds, DNNs is about the phase transitions of informations?🤔",
+      "guid": "1623786735217016832",
+      "isoDate": "2023-02-09T20:51:40.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "According to the spy balloons, some say it reminds them of Cuban Missile Crisis because of the chronological resemblance between the situations of these two incidents.",
       "link": "https://twitter.com/ognis1205/status/1623759122129907713",
