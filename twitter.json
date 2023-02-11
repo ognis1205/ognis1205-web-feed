@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1676056139801",
+  "timestamp": "1676081890418",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @DeltaLakeOSS: In 2022, had 1.86K total contributors and 3.64K total commits (source: LFX Insights). Together, we have made D…",
+      "link": "https://twitter.com/ognis1205/status/1624177248260726789",
+      "pubDate": "Fri, 10 Feb 2023 22:43:26 GMT",
+      "creator": "ognis1205",
+      "content": "RT @DeltaLakeOSS: In 2022, had 1.86K total contributors and 3.64K total commits (source: LFX Insights). Together, we have made D…",
+      "contentSnippet": "RT @DeltaLakeOSS: In 2022, #DeltaLake had 1.86K total contributors and 3.64K total commits (source: LFX Insights). Together, we have made D…",
+      "guid": "1624177248260726789",
+      "isoDate": "2023-02-10T22:43:26.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @haharrington: Knowledge gaps studied with persistent homology using H2! @DaniSBassett @OxUniMaths https://t.co/jhyD2a6YMi",
+      "link": "https://twitter.com/ognis1205/status/1624139184545087488",
+      "pubDate": "Fri, 10 Feb 2023 20:12:11 GMT",
+      "creator": "ognis1205",
+      "content": "RT @haharrington: Knowledge gaps studied with persistent homology using H2! @DaniSBassett @OxUniMaths https://t.co/jhyD2a6YMi",
+      "contentSnippet": "RT @haharrington: Knowledge gaps studied with persistent homology using H2! @DaniSBassett @OxUniMaths https://t.co/jhyD2a6YMi",
+      "guid": "1624139184545087488",
+      "isoDate": "2023-02-10T20:12:11.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Realized that I made a stupid typo on my personal OSS project name lately. Kinda fun though.",
       "link": "https://twitter.com/ognis1205/status/1624113871765250050",
