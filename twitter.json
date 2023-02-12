@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1676185823340",
+  "timestamp": "1676208001811",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "浜までは海女も蓑着る時雨かな",
+      "link": "https://twitter.com/ognis1205/status/1624674105084751875",
+      "pubDate": "Sun, 12 Feb 2023 07:37:46 GMT",
+      "creator": "ognis1205",
+      "content": "浜までは海女も蓑着る時雨かな",
+      "contentSnippet": "浜までは海女も蓑着る時雨かな",
+      "guid": "1624674105084751875",
+      "isoDate": "2023-02-12T07:37:46.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @ylecun: ToolFormer: LLMs that can teach themselves to use tools, like calculators, database queries, search engines,.... From @MetaAI -…",
       "link": "https://twitter.com/ognis1205/status/1624391277751177218",
