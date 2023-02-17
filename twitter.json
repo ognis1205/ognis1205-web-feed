@@ -1,9 +1,64 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1676600943455",
+  "timestamp": "1676617887585",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/T5q8uAIr3S",
+      "link": "https://twitter.com/ognis1205/status/1626477620778127360",
+      "pubDate": "Fri, 17 Feb 2023 07:04:17 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/T5q8uAIr3S",
+      "contentSnippet": "https://t.co/T5q8uAIr3S",
+      "guid": "1626477620778127360",
+      "isoDate": "2023-02-17T07:04:17.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/eDDa5Mm8yv",
+      "link": "https://twitter.com/ognis1205/status/1626474396083974145",
+      "pubDate": "Fri, 17 Feb 2023 06:51:29 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/eDDa5Mm8yv",
+      "contentSnippet": "https://t.co/eDDa5Mm8yv",
+      "guid": "1626474396083974145",
+      "isoDate": "2023-02-17T06:51:29.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @gabrielpeyre: The Travelling salesman problem is one of the most well known NP-hard problem. Concorde’s solver can be used to solve exa…",
+      "link": "https://twitter.com/ognis1205/status/1626471793484759040",
+      "pubDate": "Fri, 17 Feb 2023 06:41:08 GMT",
+      "creator": "ognis1205",
+      "content": "RT @gabrielpeyre: The Travelling salesman problem is one of the most well known NP-hard problem. Concorde’s solver can be used to solve exa…",
+      "contentSnippet": "RT @gabrielpeyre: The Travelling salesman problem is one of the most well known NP-hard problem. Concorde’s solver can be used to solve exa…",
+      "guid": "1626471793484759040",
+      "isoDate": "2023-02-17T06:41:08.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/Pl23SFk1XR",
+      "link": "https://twitter.com/ognis1205/status/1626444208746938368",
+      "pubDate": "Fri, 17 Feb 2023 04:51:31 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/Pl23SFk1XR",
+      "contentSnippet": "https://t.co/Pl23SFk1XR",
+      "guid": "1626444208746938368",
+      "isoDate": "2023-02-17T04:51:31.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I read a note of the hiring manager working for the company I am considering applying for. The note is well written and organized and I mostly agreed with the content. With that all being said though, there's one thing that bothers me.",
+      "link": "https://twitter.com/ognis1205/status/1626442663062011905",
+      "pubDate": "Fri, 17 Feb 2023 04:45:23 GMT",
+      "creator": "ognis1205",
+      "content": "I read a note of the hiring manager working for the company I am considering applying for. The note is well written and organized and I mostly agreed with the content. With that all being said though, there's one thing that bothers me.",
+      "contentSnippet": "I read a note of the hiring manager working for the company I am considering applying for. The note is well written and organized and I mostly agreed with the content. With that all being said though, there's one thing that bothers me.",
+      "guid": "1626442663062011905",
+      "isoDate": "2023-02-17T04:45:23.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/SYRCRnZJ7J",
       "link": "https://twitter.com/ognis1205/status/1626272608340832256",
