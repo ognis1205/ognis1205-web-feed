@@ -1,7 +1,7 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1676704230779",
+  "timestamp": "1676726396164",
   "description": "Tweets of ognis1205.",
   "items": [
     {
@@ -79,17 +79,6 @@
       "contentSnippet": "https://t.co/Pl23SFk1XR",
       "guid": "1626444208746938368",
       "isoDate": "2023-02-17T04:51:31.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "I read a note of the hiring manager working for the company I am considering applying for. The note is well written and organized and I mostly agreed with the content. With that all being said though, there's one thing that bothers me.",
-      "link": "https://twitter.com/ognis1205/status/1626442663062011905",
-      "pubDate": "Fri, 17 Feb 2023 04:45:23 GMT",
-      "creator": "ognis1205",
-      "content": "I read a note of the hiring manager working for the company I am considering applying for. The note is well written and organized and I mostly agreed with the content. With that all being said though, there's one thing that bothers me.",
-      "contentSnippet": "I read a note of the hiring manager working for the company I am considering applying for. The note is well written and organized and I mostly agreed with the content. With that all being said though, there's one thing that bothers me.",
-      "guid": "1626442663062011905",
-      "isoDate": "2023-02-17T04:45:23.000Z",
       "imgSrc": ""
     },
     {
