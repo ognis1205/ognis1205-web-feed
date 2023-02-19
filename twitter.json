@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1676812818261",
+  "timestamp": "1676833709737",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "?-operator is a kind of bind-equivalent in a sense though. Wondering if it's just because my Rust code is not well-structured.",
+      "link": "https://twitter.com/ognis1205/status/1627384231541501952",
+      "pubDate": "Sun, 19 Feb 2023 19:06:50 GMT",
+      "creator": "ognis1205",
+      "content": "?-operator is a kind of bind-equivalent in a sense though. Wondering if it's just because my Rust code is not well-structured.",
+      "contentSnippet": "?-operator is a kind of bind-equivalent in a sense though. Wondering if it's just because my Rust code is not well-structured.",
+      "guid": "1627384231541501952",
+      "isoDate": "2023-02-19T19:06:50.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Rust should have a bind operator. Writing a bunch of match operations is getting a pain in the neck for me, though, I'm not fluent in Rust yet.",
+      "link": "https://twitter.com/ognis1205/status/1627381573762031616",
+      "pubDate": "Sun, 19 Feb 2023 18:56:17 GMT",
+      "creator": "ognis1205",
+      "content": "Rust should have a bind operator. Writing a bunch of match operations is getting a pain in the neck for me, though, I'm not fluent in Rust yet.",
+      "contentSnippet": "Rust should have a bind operator. Writing a bunch of match operations is getting a pain in the neck for me, though, I'm not fluent in Rust yet.",
+      "guid": "1627381573762031616",
+      "isoDate": "2023-02-19T18:56:17.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @robertarail: Struggling to keep up with all the recent papers on Augmented Language Models? Check out our new survey on augmenting LLM…",
+      "link": "https://twitter.com/ognis1205/status/1627343645304307714",
+      "pubDate": "Sun, 19 Feb 2023 16:25:34 GMT",
+      "creator": "ognis1205",
+      "content": "RT @robertarail: Struggling to keep up with all the recent papers on Augmented Language Models? Check out our new survey on augmenting LLM…",
+      "contentSnippet": "RT @robertarail: Struggling to keep up with all the recent papers on Augmented Language Models?\n\nCheck out our new survey on augmenting LLM…",
+      "guid": "1627343645304307714",
+      "isoDate": "2023-02-19T16:25:34.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/YzwnewSrQb",
       "link": "https://twitter.com/ognis1205/status/1627206037966319617",
