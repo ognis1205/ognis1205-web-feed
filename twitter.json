@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1676833709737",
+  "timestamp": "1676859993888",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/qcnf507lX5",
+      "link": "https://twitter.com/ognis1205/status/1627426275769057280",
+      "pubDate": "Sun, 19 Feb 2023 21:53:54 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/qcnf507lX5",
+      "contentSnippet": "https://t.co/qcnf507lX5",
+      "guid": "1627426275769057280",
+      "isoDate": "2023-02-19T21:53:54.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I forgot that we have combinators: https://t.co/fpi3clnEOG",
+      "link": "https://twitter.com/ognis1205/status/1627425179818422273",
+      "pubDate": "Sun, 19 Feb 2023 21:49:33 GMT",
+      "creator": "ognis1205",
+      "content": "I forgot that we have combinators: https://t.co/fpi3clnEOG",
+      "contentSnippet": "I forgot that we have combinators:\nhttps://t.co/fpi3clnEOG",
+      "guid": "1627425179818422273",
+      "isoDate": "2023-02-19T21:49:33.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "?-operator is a kind of bind-equivalent in a sense though. Wondering if it's just because my Rust code is not well-structured.",
       "link": "https://twitter.com/ognis1205/status/1627384231541501952",
