@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1676963546965",
+  "timestamp": "1676985873626",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @rui314: ソフトウェア開発におけるチームワークとかマネジメントの大切さとかはわかるけど、単に一人で全部作ればいいだけでは？ という解決策、実はかなりスケールするし、より良いものができることが多いと思うんだよな。",
+      "link": "https://twitter.com/ognis1205/status/1627963412105011205",
+      "pubDate": "Tue, 21 Feb 2023 09:28:18 GMT",
+      "creator": "ognis1205",
+      "content": "RT @rui314: ソフトウェア開発におけるチームワークとかマネジメントの大切さとかはわかるけど、単に一人で全部作ればいいだけでは？ という解決策、実はかなりスケールするし、より良いものができることが多いと思うんだよな。",
+      "contentSnippet": "RT @rui314: ソフトウェア開発におけるチームワークとかマネジメントの大切さとかはわかるけど、単に一人で全部作ればいいだけでは？ という解決策、実はかなりスケールするし、より良いものができることが多いと思うんだよな。",
+      "guid": "1627963412105011205",
+      "isoDate": "2023-02-21T09:28:18.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Fair enough. \"Use Anyhow if you don't care what error type your functions return, you just want it to be easy. This is common in application code. Use thiserror if you are a library that wants to design your own dedicated error type(s).\"",
+      "link": "https://twitter.com/ognis1205/status/1627930045741408256",
+      "pubDate": "Tue, 21 Feb 2023 07:15:43 GMT",
+      "creator": "ognis1205",
+      "content": "Fair enough. \"Use Anyhow if you don't care what error type your functions return, you just want it to be easy. This is common in application code. Use thiserror if you are a library that wants to design your own dedicated error type(s).\"",
+      "contentSnippet": "Fair enough.\n\"Use Anyhow if you don't care what error type your functions return, you just want it to be easy. This is common in application code. Use thiserror if you are a library that wants to design your own dedicated error type(s).\"",
+      "guid": "1627930045741408256",
+      "isoDate": "2023-02-21T07:15:43.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/8I3lyakx5A",
       "link": "https://twitter.com/ognis1205/status/1627925076552343554",
