@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1677205344691",
+  "timestamp": "1677222698149",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/acxudVSYon",
+      "link": "https://twitter.com/ognis1205/status/1628994333352562689",
+      "pubDate": "Fri, 24 Feb 2023 05:44:48 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/acxudVSYon",
+      "contentSnippet": "https://t.co/acxudVSYon",
+      "guid": "1628994333352562689",
+      "isoDate": "2023-02-24T05:44:48.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @yujitach: 共同研究者の数学者の友人が書いた二、三次元トポロジーの教科書を最近通勤の電車内の暇つぶしに眺めていたのですが、良かったです: https://t.co/PnarZzHTpo 五百ページ弱です。非常に基本的なところから、三次元多様体の標準的な分解法、…",
+      "link": "https://twitter.com/ognis1205/status/1628981587248570368",
+      "pubDate": "Fri, 24 Feb 2023 04:54:10 GMT",
+      "creator": "ognis1205",
+      "content": "RT @yujitach: 共同研究者の数学者の友人が書いた二、三次元トポロジーの教科書を最近通勤の電車内の暇つぶしに眺めていたのですが、良かったです: https://t.co/PnarZzHTpo 五百ページ弱です。非常に基本的なところから、三次元多様体の標準的な分解法、…",
+      "contentSnippet": "RT @yujitach: 共同研究者の数学者の友人が書いた二、三次元トポロジーの教科書を最近通勤の電車内の暇つぶしに眺めていたのですが、良かったです:  https://t.co/PnarZzHTpo 五百ページ弱です。非常に基本的なところから、三次元多様体の標準的な分解法、…",
+      "guid": "1628981587248570368",
+      "isoDate": "2023-02-24T04:54:10.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "TODO: Check when to use anyhow::Context",
       "link": "https://twitter.com/ognis1205/status/1628871429210132480",
