@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1677815757134",
+  "timestamp": "1677827556381",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @ylecun: Funny exchange after a public lecture: Lady: I'm using ChatGPT to produce horoscopes. Me: perfect application for a writing ass…",
+      "link": "https://twitter.com/ognis1205/status/1631552047643508739",
+      "pubDate": "Fri, 03 Mar 2023 07:08:15 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: Funny exchange after a public lecture: Lady: I'm using ChatGPT to produce horoscopes. Me: perfect application for a writing ass…",
+      "contentSnippet": "RT @ylecun: Funny exchange after a public lecture:\nLady: I'm using ChatGPT to produce horoscopes.\nMe: perfect application for a writing ass…",
+      "guid": "1631552047643508739",
+      "isoDate": "2023-03-03T07:08:15.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/tIu3YMqACy",
+      "link": "https://twitter.com/ognis1205/status/1631546157989236736",
+      "pubDate": "Fri, 03 Mar 2023 06:44:51 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/tIu3YMqACy",
+      "contentSnippet": "https://t.co/tIu3YMqACy",
+      "guid": "1631546157989236736",
+      "isoDate": "2023-03-03T06:44:51.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @GoogleAI: Today on the blog, read about how we built and deployed the first system that provides formal privacy guar…",
+      "link": "https://twitter.com/ognis1205/status/1631529820940300288",
+      "pubDate": "Fri, 03 Mar 2023 05:39:56 GMT",
+      "creator": "ognis1205",
+      "content": "RT @GoogleAI: Today on the blog, read about how we built and deployed the first system that provides formal privacy guar…",
+      "contentSnippet": "RT @GoogleAI: Today on the blog, read about how we built and deployed the first #FederatedLearning system that provides formal privacy guar…",
+      "guid": "1631529820940300288",
+      "isoDate": "2023-03-03T05:39:56.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "TODO: - Create container log table",
       "link": "https://twitter.com/ognis1205/status/1630793821083832321",
