@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1678173037343",
+  "timestamp": "1678195587338",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @blader: okay so AI can literally read our minds now. a team from osaka was able to reconstruct visual images from mri scan data using…",
+      "link": "https://twitter.com/ognis1205/status/1633033835268161542",
+      "pubDate": "Tue, 07 Mar 2023 09:16:21 GMT",
+      "creator": "ognis1205",
+      "content": "RT @blader: okay so AI can literally read our minds now. a team from osaka was able to reconstruct visual images from mri scan data using…",
+      "contentSnippet": "RT @blader: okay so AI can literally read our minds now.\n\na team from osaka was able to reconstruct visual images from mri scan data using…",
+      "guid": "1633033835268161542",
+      "isoDate": "2023-03-07T09:16:21.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/t1VmOHeoTv",
+      "link": "https://twitter.com/ognis1205/status/1633032975746211841",
+      "pubDate": "Tue, 07 Mar 2023 09:12:56 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/t1VmOHeoTv",
+      "contentSnippet": "https://t.co/t1VmOHeoTv",
+      "guid": "1633032975746211841",
+      "isoDate": "2023-03-07T09:12:56.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/EqSy6Grj5s",
       "link": "https://twitter.com/ognis1205/status/1632993483677106177",
@@ -13,17 +35,6 @@
       "contentSnippet": "https://t.co/EqSy6Grj5s",
       "guid": "1632993483677106177",
       "isoDate": "2023-03-07T06:36:00.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "https://t.co/zNGiWU7vKz",
-      "link": "https://twitter.com/ognis1205/status/1632954820498984960",
-      "pubDate": "Tue, 07 Mar 2023 04:02:22 GMT",
-      "creator": "ognis1205",
-      "content": "https://t.co/zNGiWU7vKz",
-      "contentSnippet": "https://t.co/zNGiWU7vKz",
-      "guid": "1632954820498984960",
-      "isoDate": "2023-03-07T04:02:22.000Z",
       "imgSrc": ""
     },
     {
