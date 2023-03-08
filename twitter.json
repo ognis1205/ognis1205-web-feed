@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1678242795248",
+  "timestamp": "1678259507234",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "anyhow::Error helps me a lot facing the rough edges of Rust error handling though, when it comes to the downcast, e.g., for detecting a DB record conflict, it can be a bit tricky. I must refactor the Postgres service design for my personal project :/",
+      "link": "https://twitter.com/ognis1205/status/1633326632164552704",
+      "pubDate": "Wed, 08 Mar 2023 04:39:49 GMT",
+      "creator": "ognis1205",
+      "content": "anyhow::Error helps me a lot facing the rough edges of Rust error handling though, when it comes to the downcast, e.g., for detecting a DB record conflict, it can be a bit tricky. I must refactor the Postgres service design for my personal project :/",
+      "contentSnippet": "anyhow::Error helps me a lot facing the rough edges of Rust error handling though, when it comes to the downcast, e.g., for detecting a DB record conflict, it can be a bit tricky. I must refactor the Postgres service design for my personal project :/",
+      "guid": "1633326632164552704",
+      "isoDate": "2023-03-08T04:39:49.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/q2BY76tTNh",
       "link": "https://twitter.com/ognis1205/status/1633132141805731845",
