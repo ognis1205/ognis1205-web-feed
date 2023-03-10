@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1678415769192",
+  "timestamp": "1678432322463",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "MC Hammer https://t.co/1aEIqYaa0W",
+      "link": "https://twitter.com/ognis1205/status/1634034990441984000",
+      "pubDate": "Fri, 10 Mar 2023 03:34:35 GMT",
+      "creator": "ognis1205",
+      "content": "MC Hammer https://t.co/1aEIqYaa0W",
+      "contentSnippet": "MC Hammer https://t.co/1aEIqYaa0W",
+      "guid": "1634034990441984000",
+      "isoDate": "2023-03-10T03:34:35.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @rustlang: Rust 1.68.0 is now available. Highlights include stabilizing Cargo sparse registry support, for faster updates and builds.…",
+      "link": "https://twitter.com/ognis1205/status/1634033721685970949",
+      "pubDate": "Fri, 10 Mar 2023 03:29:32 GMT",
+      "creator": "ognis1205",
+      "content": "RT @rustlang: Rust 1.68.0 is now available. Highlights include stabilizing Cargo sparse registry support, for faster updates and builds.…",
+      "contentSnippet": "RT @rustlang: Rust 1.68.0 is now available. 🦀\n\nHighlights include stabilizing Cargo sparse registry support, for faster updates and builds.…",
+      "guid": "1634033721685970949",
+      "isoDate": "2023-03-10T03:29:32.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Once you learned Rust programming language, TypeScript’s dereference makes you feel worried.",
       "link": "https://twitter.com/ognis1205/status/1633993645132247040",
