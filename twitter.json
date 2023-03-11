@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1678518601936",
+  "timestamp": "1678540729305",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @gabrielpeyre: The Wasserstein-1 distance (which is a norm!) between histograms on graphs is equivalent to a min-cost flow. Bold black i…",
+      "link": "https://twitter.com/ognis1205/status/1634521385367396352",
+      "pubDate": "Sat, 11 Mar 2023 11:47:20 GMT",
+      "creator": "ognis1205",
+      "content": "RT @gabrielpeyre: The Wasserstein-1 distance (which is a norm!) between histograms on graphs is equivalent to a min-cost flow. Bold black i…",
+      "contentSnippet": "RT @gabrielpeyre: The Wasserstein-1 distance (which is a norm!) between histograms on graphs is equivalent to a min-cost flow. Bold black i…",
+      "guid": "1634521385367396352",
+      "isoDate": "2023-03-11T11:47:20.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "complexity of the system exceeded.",
+      "link": "https://twitter.com/ognis1205/status/1634520353627324417",
+      "pubDate": "Sat, 11 Mar 2023 11:43:14 GMT",
+      "creator": "ognis1205",
+      "content": "complexity of the system exceeded.",
+      "contentSnippet": "complexity of the system exceeded.",
+      "guid": "1634520353627324417",
+      "isoDate": "2023-03-11T11:43:14.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I would say Rust is a Behavior-Oriented Programming language and it reminds me of Delegation Is Inheritance developed in the seminal OOPSLA 1987 paper of the same name. According to my poor experience of Swift, the delegation pattern collapses when a certain threshold of the",
+      "link": "https://twitter.com/ognis1205/status/1634519951393562625",
+      "pubDate": "Sat, 11 Mar 2023 11:41:38 GMT",
+      "creator": "ognis1205",
+      "content": "I would say Rust is a Behavior-Oriented Programming language and it reminds me of Delegation Is Inheritance developed in the seminal OOPSLA 1987 paper of the same name. According to my poor experience of Swift, the delegation pattern collapses when a certain threshold of the",
+      "contentSnippet": "I would say Rust is a Behavior-Oriented Programming language and it reminds me of Delegation Is Inheritance developed in the seminal OOPSLA 1987 paper of the same name. According to my poor experience of Swift, the delegation pattern collapses when a certain threshold of the",
+      "guid": "1634519951393562625",
+      "isoDate": "2023-03-11T11:41:38.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/mafvazqGYo",
       "link": "https://twitter.com/ognis1205/status/1634255841087098880",
