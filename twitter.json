@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1678561697759",
+  "timestamp": "1678587829522",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @ai__pub: // Toolformer Podcast: Preview // Today I'm interviewing the Toolformer authors! LLMs like Bing (and soon, ChatGPT) can use…",
+      "link": "https://twitter.com/ognis1205/status/1634723976189743104",
+      "pubDate": "Sun, 12 Mar 2023 01:12:22 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ai__pub: // Toolformer Podcast: Preview // Today I'm interviewing the Toolformer authors! LLMs like Bing (and soon, ChatGPT) can use…",
+      "contentSnippet": "RT @ai__pub: // Toolformer Podcast: Preview //\n\nToday I'm interviewing the Toolformer authors!\n\nLLMs like Bing (and soon, ChatGPT) can use…",
+      "guid": "1634723976189743104",
+      "isoDate": "2023-03-12T01:12:22.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @gabrielpeyre: The Wasserstein-1 distance (which is a norm!) between histograms on graphs is equivalent to a min-cost flow. Bold black i…",
       "link": "https://twitter.com/ognis1205/status/1634521385367396352",
