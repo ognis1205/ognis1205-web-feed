@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1678587829522",
+  "timestamp": "1678605008748",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/6QjYbNXumv",
+      "link": "https://twitter.com/ognis1205/status/1634745989918752768",
+      "pubDate": "Sun, 12 Mar 2023 02:39:50 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/6QjYbNXumv",
+      "contentSnippet": "https://t.co/6QjYbNXumv",
+      "guid": "1634745989918752768",
+      "isoDate": "2023-03-12T02:39:50.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @ai__pub: // Toolformer Podcast: Preview // Today I'm interviewing the Toolformer authors! LLMs like Bing (and soon, ChatGPT) can use…",
       "link": "https://twitter.com/ognis1205/status/1634723976189743104",
