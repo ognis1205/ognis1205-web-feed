@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1678691458537",
+  "timestamp": "1678713848954",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @srt_taka: キャディAI Labではモノレポを採用していて、複数のサービス開発を行っています。そのなかで必ず問題にある依存関係の管理やビルド効率をPantsで解決した話を書いています。このモノレポで運用されているサービスはキャディの２つの事業であるManufac…",
+      "link": "https://twitter.com/ognis1205/status/1635209553964064775",
+      "pubDate": "Mon, 13 Mar 2023 09:21:53 GMT",
+      "creator": "ognis1205",
+      "content": "RT @srt_taka: キャディAI Labではモノレポを採用していて、複数のサービス開発を行っています。そのなかで必ず問題にある依存関係の管理やビルド効率をPantsで解決した話を書いています。このモノレポで運用されているサービスはキャディの２つの事業であるManufac…",
+      "contentSnippet": "RT @srt_taka: キャディAI Labではモノレポを採用していて、複数のサービス開発を行っています。そのなかで必ず問題にある依存関係の管理やビルド効率をPantsで解決した話を書いています。このモノレポで運用されているサービスはキャディの２つの事業であるManufac…",
+      "guid": "1635209553964064775",
+      "isoDate": "2023-03-13T09:21:53.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/vSGJRFwynw",
       "link": "https://twitter.com/ognis1205/status/1635152777155584000",
