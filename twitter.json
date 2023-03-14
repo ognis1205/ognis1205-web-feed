@@ -1,9 +1,75 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1678734527921",
+  "timestamp": "1678800857556",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/0ld2eUOMMk",
+      "link": "https://twitter.com/ognis1205/status/1635631678805909504",
+      "pubDate": "Tue, 14 Mar 2023 13:19:15 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/0ld2eUOMMk",
+      "contentSnippet": "https://t.co/0ld2eUOMMk",
+      "guid": "1635631678805909504",
+      "isoDate": "2023-03-14T13:19:15.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "*must grasp",
+      "link": "https://twitter.com/ognis1205/status/1635562994443882496",
+      "pubDate": "Tue, 14 Mar 2023 08:46:19 GMT",
+      "creator": "ognis1205",
+      "content": "*must grasp",
+      "contentSnippet": "*must grasp",
+      "guid": "1635562994443882496",
+      "isoDate": "2023-03-14T08:46:19.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Engineering is the act of human which interweaves an \"existencia\" from the \"idea.\" If same holds for the term Prompt Engineering, something called embeddings that LLMs learn grasp the essential parts of human social activities and it is almost likely to be happening.",
+      "link": "https://twitter.com/ognis1205/status/1635535714896183297",
+      "pubDate": "Tue, 14 Mar 2023 06:57:55 GMT",
+      "creator": "ognis1205",
+      "content": "Engineering is the act of human which interweaves an \"existencia\" from the \"idea.\" If same holds for the term Prompt Engineering, something called embeddings that LLMs learn grasp the essential parts of human social activities and it is almost likely to be happening.",
+      "contentSnippet": "Engineering is the act of human which interweaves an \"existencia\" from the \"idea.\" If same holds for the term Prompt Engineering, something called embeddings that LLMs learn grasp the essential parts of human social activities and it is almost likely to be happening.",
+      "guid": "1635535714896183297",
+      "isoDate": "2023-03-14T06:57:55.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/GqyE1cjczt",
+      "link": "https://twitter.com/ognis1205/status/1635509573749719040",
+      "pubDate": "Tue, 14 Mar 2023 05:14:03 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/GqyE1cjczt",
+      "contentSnippet": "https://t.co/GqyE1cjczt",
+      "guid": "1635509573749719040",
+      "isoDate": "2023-03-14T05:14:03.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/lcPFgvKxtp",
+      "link": "https://twitter.com/ognis1205/status/1635496794456207360",
+      "pubDate": "Tue, 14 Mar 2023 04:23:16 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/lcPFgvKxtp",
+      "contentSnippet": "https://t.co/lcPFgvKxtp",
+      "guid": "1635496794456207360",
+      "isoDate": "2023-03-14T04:23:16.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @tatsu_hashimoto: Instruction-following models are now ubiquitous, but API-only access limits research. Today, we’re releasing info on A…",
+      "link": "https://twitter.com/ognis1205/status/1635486541752721408",
+      "pubDate": "Tue, 14 Mar 2023 03:42:32 GMT",
+      "creator": "ognis1205",
+      "content": "RT @tatsu_hashimoto: Instruction-following models are now ubiquitous, but API-only access limits research. Today, we’re releasing info on A…",
+      "contentSnippet": "RT @tatsu_hashimoto: Instruction-following models are now ubiquitous, but API-only access limits research.\nToday, we’re releasing info on A…",
+      "guid": "1635486541752721408",
+      "isoDate": "2023-03-14T03:42:32.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Jeez, I need to free up drive space on my MacBook Pro.",
       "link": "https://twitter.com/ognis1205/status/1635354870680281090",
