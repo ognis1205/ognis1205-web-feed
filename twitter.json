@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1678864276245",
+  "timestamp": "1678886604698",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "Pop locking free style https://t.co/1od1d05XkO via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1635933606077136897",
+      "pubDate": "Wed, 15 Mar 2023 09:19:00 GMT",
+      "creator": "ognis1205",
+      "content": "Pop locking free style https://t.co/1od1d05XkO via @YouTube",
+      "contentSnippet": "Pop locking free style https://t.co/1od1d05XkO via @YouTube",
+      "guid": "1635933606077136897",
+      "isoDate": "2023-03-15T09:19:00.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "One of my current cohorts, a PhD of mathematics from Harvard, shared their thought on the issue. We are working on a category theoretical data management and I think we could build a consensus though.",
+      "link": "https://twitter.com/ognis1205/status/1635905708662353920",
+      "pubDate": "Wed, 15 Mar 2023 07:28:09 GMT",
+      "creator": "ognis1205",
+      "content": "One of my current cohorts, a PhD of mathematics from Harvard, shared their thought on the issue. We are working on a category theoretical data management and I think we could build a consensus though.",
+      "contentSnippet": "One of my current cohorts, a PhD of mathematics from Harvard, shared their thought on the issue. We are working on a category theoretical data management and I think we could build a consensus though.",
+      "guid": "1635905708662353920",
+      "isoDate": "2023-03-15T07:28:09.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "My ex-bosses/mentors are working as a data management director @MetaAI. I really need them to share their perspectives on the future data management development according to the current ado on LLMs.",
+      "link": "https://twitter.com/ognis1205/status/1635904398185615361",
+      "pubDate": "Wed, 15 Mar 2023 07:22:56 GMT",
+      "creator": "ognis1205",
+      "content": "My ex-bosses/mentors are working as a data management director @MetaAI. I really need them to share their perspectives on the future data management development according to the current ado on LLMs.",
+      "contentSnippet": "My ex-bosses/mentors are working as a data management director @MetaAI. I really need them to share their perspectives on the future data management development according to the current  ado on LLMs.",
+      "guid": "1635904398185615361",
+      "isoDate": "2023-03-15T07:22:56.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/q42KrFlA2H",
       "link": "https://twitter.com/ognis1205/status/1635875269163745280",
