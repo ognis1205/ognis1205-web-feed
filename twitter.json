@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1678932939507",
+  "timestamp": "1678950679834",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @svpino: You can read more about Conformer-1 in this blog post: https://t.co/qa6dI6bO6l The model is already available in @AssemblyAI's…",
+      "link": "https://twitter.com/ognis1205/status/1636235146700660737",
+      "pubDate": "Thu, 16 Mar 2023 05:17:13 GMT",
+      "creator": "ognis1205",
+      "content": "RT @svpino: You can read more about Conformer-1 in this blog post: https://t.co/qa6dI6bO6l The model is already available in @AssemblyAI's…",
+      "contentSnippet": "RT @svpino: You can read more about Conformer-1 in this blog post: https://t.co/qa6dI6bO6l\n\nThe model is already available in @AssemblyAI's…",
+      "guid": "1636235146700660737",
+      "isoDate": "2023-03-16T05:17:13.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @ylecun: Very nice article by Craig Smith in IEEE Spectrum about the debate on the power and limitations of LLMs between (among others)…",
+      "link": "https://twitter.com/ognis1205/status/1636221076412985345",
+      "pubDate": "Thu, 16 Mar 2023 04:21:18 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: Very nice article by Craig Smith in IEEE Spectrum about the debate on the power and limitations of LLMs between (among others)…",
+      "contentSnippet": "RT @ylecun: Very nice article by Craig Smith in IEEE Spectrum about the debate on the power and limitations of LLMs between (among others)…",
+      "guid": "1636221076412985345",
+      "isoDate": "2023-03-16T04:21:18.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/8I3lyakx5A",
       "link": "https://twitter.com/ognis1205/status/1636185641171169280",
