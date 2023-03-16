@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1678973343739",
+  "timestamp": "1678993722241",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @MIT_CSAIL: MIT researchers recently developed Codon, a Python-based compiler that helps create new DSLs w/i the language. The results:…",
+      "link": "https://twitter.com/ognis1205/status/1636416604413251584",
+      "pubDate": "Thu, 16 Mar 2023 17:18:16 GMT",
+      "creator": "ognis1205",
+      "content": "RT @MIT_CSAIL: MIT researchers recently developed Codon, a Python-based compiler that helps create new DSLs w/i the language. The results:…",
+      "contentSnippet": "RT @MIT_CSAIL: MIT researchers recently developed Codon, a Python-based compiler that helps create new DSLs w/i the language.\n\nThe results:…",
+      "guid": "1636416604413251584",
+      "isoDate": "2023-03-16T17:18:16.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "It would seem that we are the electronic caterpillars that give birth to the butterfly.",
+      "link": "https://twitter.com/ognis1205/status/1636398739983323136",
+      "pubDate": "Thu, 16 Mar 2023 16:07:17 GMT",
+      "creator": "ognis1205",
+      "content": "It would seem that we are the electronic caterpillars that give birth to the butterfly.",
+      "contentSnippet": "It would seem that we are the electronic caterpillars that give birth to the butterfly.",
+      "guid": "1636398739983323136",
+      "isoDate": "2023-03-16T16:07:17.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @svpino: You can read more about Conformer-1 in this blog post: https://t.co/qa6dI6bO6l The model is already available in @AssemblyAI's…",
       "link": "https://twitter.com/ognis1205/status/1636235146700660737",
