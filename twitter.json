@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1679019181644",
+  "timestamp": "1679037070534",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/hbOk2tm4O0",
+      "link": "https://twitter.com/ognis1205/status/1636617287003435009",
+      "pubDate": "Fri, 17 Mar 2023 06:35:42 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/hbOk2tm4O0",
+      "contentSnippet": "https://t.co/hbOk2tm4O0",
+      "guid": "1636617287003435009",
+      "isoDate": "2023-03-17T06:35:42.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/oEsBKld2t6",
+      "link": "https://twitter.com/ognis1205/status/1636571312427761664",
+      "pubDate": "Fri, 17 Mar 2023 03:33:01 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/oEsBKld2t6",
+      "contentSnippet": "https://t.co/oEsBKld2t6",
+      "guid": "1636571312427761664",
+      "isoDate": "2023-03-17T03:33:01.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/p4ibYam7HR",
+      "link": "https://twitter.com/ognis1205/status/1636570910147883009",
+      "pubDate": "Fri, 17 Mar 2023 03:31:25 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/p4ibYam7HR",
+      "contentSnippet": "https://t.co/p4ibYam7HR",
+      "guid": "1636570910147883009",
+      "isoDate": "2023-03-17T03:31:25.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @MIT_CSAIL: MIT researchers recently developed Codon, a Python-based compiler that helps create new DSLs w/i the language. The results:…",
       "link": "https://twitter.com/ognis1205/status/1636416604413251584",
