@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1679231970369",
+  "timestamp": "1679252905067",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/JCI0m4ur5x",
+      "link": "https://twitter.com/ognis1205/status/1637496123911991304",
+      "pubDate": "Sun, 19 Mar 2023 16:47:53 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/JCI0m4ur5x",
+      "contentSnippet": "https://t.co/JCI0m4ur5x",
+      "guid": "1637496123911991304",
+      "isoDate": "2023-03-19T16:47:53.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @ProfNoahGian: In light of the many debates and discussions surrounding GPT4, I highly recommend taking a look at this @sciam article fr…",
+      "link": "https://twitter.com/ognis1205/status/1637445213156417537",
+      "pubDate": "Sun, 19 Mar 2023 13:25:35 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ProfNoahGian: In light of the many debates and discussions surrounding GPT4, I highly recommend taking a look at this @sciam article fr…",
+      "contentSnippet": "RT @ProfNoahGian: In light of the many debates and discussions surrounding GPT4, I highly recommend taking a look at this @sciam article fr…",
+      "guid": "1637445213156417537",
+      "isoDate": "2023-03-19T13:25:35.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/heKIC6k0hL",
       "link": "https://twitter.com/ognis1205/status/1637161302518013952",
