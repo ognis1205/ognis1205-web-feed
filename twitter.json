@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1679425694804",
+  "timestamp": "1679450970180",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/RWjRb9W124",
+      "link": "https://twitter.com/ognis1205/status/1638285339650580482",
+      "pubDate": "Tue, 21 Mar 2023 21:03:57 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/RWjRb9W124",
+      "contentSnippet": "https://t.co/RWjRb9W124",
+      "guid": "1638285339650580482",
+      "isoDate": "2023-03-21T21:03:57.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "INABA Churu is really a world-popular product.",
       "link": "https://twitter.com/ognis1205/status/1638053248673390593",
@@ -71,50 +82,6 @@
       "imgSrc": ""
     },
     {
-      "title": "https://t.co/heKIC6k0hL",
-      "link": "https://twitter.com/ognis1205/status/1637161302518013952",
-      "pubDate": "Sat, 18 Mar 2023 18:37:26 GMT",
-      "creator": "ognis1205",
-      "content": "https://t.co/heKIC6k0hL",
-      "contentSnippet": "https://t.co/heKIC6k0hL",
-      "guid": "1637161302518013952",
-      "isoDate": "2023-03-18T18:37:26.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "Marco Pierre White recipe for Grilled sardines https://t.co/KoDiLwBPaz via @YouTube",
-      "link": "https://twitter.com/ognis1205/status/1637080914013609984",
-      "pubDate": "Sat, 18 Mar 2023 13:18:00 GMT",
-      "creator": "ognis1205",
-      "content": "Marco Pierre White recipe for Grilled sardines https://t.co/KoDiLwBPaz via @YouTube",
-      "contentSnippet": "Marco Pierre White recipe for Grilled sardines https://t.co/KoDiLwBPaz via @YouTube",
-      "guid": "1637080914013609984",
-      "isoDate": "2023-03-18T13:18:00.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "https://t.co/6XucJJ3k96",
-      "link": "https://twitter.com/ognis1205/status/1637054379638521856",
-      "pubDate": "Sat, 18 Mar 2023 11:32:33 GMT",
-      "creator": "ognis1205",
-      "content": "https://t.co/6XucJJ3k96",
-      "contentSnippet": "https://t.co/6XucJJ3k96",
-      "guid": "1637054379638521856",
-      "isoDate": "2023-03-18T11:32:33.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "https://t.co/09nw54EPcQ",
-      "link": "https://twitter.com/ognis1205/status/1636997303004438529",
-      "pubDate": "Sat, 18 Mar 2023 07:45:45 GMT",
-      "creator": "ognis1205",
-      "content": "https://t.co/09nw54EPcQ",
-      "contentSnippet": "https://t.co/09nw54EPcQ",
-      "guid": "1636997303004438529",
-      "isoDate": "2023-03-18T07:45:45.000Z",
-      "imgSrc": ""
-    },
-    {
       "title": "https://t.co/5PJBlZ0yBF",
       "link": "https://twitter.com/ognis1205/status/1636987989749534723",
       "pubDate": "Sat, 18 Mar 2023 07:08:45 GMT",
@@ -148,17 +115,6 @@
       "imgSrc": ""
     },
     {
-      "title": "https://t.co/sfEuWeqQVd",
-      "link": "https://twitter.com/ognis1205/status/1636983670463664129",
-      "pubDate": "Sat, 18 Mar 2023 06:51:35 GMT",
-      "creator": "ognis1205",
-      "content": "https://t.co/sfEuWeqQVd",
-      "contentSnippet": "https://t.co/sfEuWeqQVd",
-      "guid": "1636983670463664129",
-      "isoDate": "2023-03-18T06:51:35.000Z",
-      "imgSrc": ""
-    },
-    {
       "title": "https://t.co/49Na6ZX6Du",
       "link": "https://twitter.com/ognis1205/status/1636982001906618368",
       "pubDate": "Sat, 18 Mar 2023 06:44:57 GMT",
@@ -167,17 +123,6 @@
       "contentSnippet": "https://t.co/49Na6ZX6Du",
       "guid": "1636982001906618368",
       "isoDate": "2023-03-18T06:44:57.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "PdMs with no engineering backgrounds will disappear.",
-      "link": "https://twitter.com/ognis1205/status/1636981067038203904",
-      "pubDate": "Sat, 18 Mar 2023 06:41:14 GMT",
-      "creator": "ognis1205",
-      "content": "PdMs with no engineering backgrounds will disappear.",
-      "contentSnippet": "PdMs with no engineering backgrounds will disappear.",
-      "guid": "1636981067038203904",
-      "isoDate": "2023-03-18T06:41:14.000Z",
       "imgSrc": ""
     },
     {
