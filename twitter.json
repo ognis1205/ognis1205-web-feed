@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1679469027329",
+  "timestamp": "1679491207489",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/GNtZxmk06z",
+      "link": "https://twitter.com/ognis1205/status/1638492197590044672",
+      "pubDate": "Wed, 22 Mar 2023 10:45:56 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/GNtZxmk06z",
+      "contentSnippet": "https://t.co/GNtZxmk06z",
+      "guid": "1638492197590044672",
+      "isoDate": "2023-03-22T10:45:56.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/JKumTkGpf8",
       "link": "https://twitter.com/ognis1205/status/1638432023890255872",
@@ -101,6 +112,17 @@
       "contentSnippet": "RT @ProfNoahGian: In light of the many debates and discussions surrounding GPT4, I highly recommend taking a look at this @sciam article fr…",
       "guid": "1637445213156417537",
       "isoDate": "2023-03-19T13:25:35.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/heKIC6k0hL",
+      "link": "https://twitter.com/ognis1205/status/1637161302518013952",
+      "pubDate": "Sat, 18 Mar 2023 18:37:26 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/heKIC6k0hL",
+      "contentSnippet": "https://t.co/heKIC6k0hL",
+      "guid": "1637161302518013952",
+      "isoDate": "2023-03-18T18:37:26.000Z",
       "imgSrc": ""
     },
     {
