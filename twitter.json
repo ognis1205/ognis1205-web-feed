@@ -1,7 +1,7 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1679512097116",
+  "timestamp": "1679537266354",
   "description": "Tweets of ognis1205.",
   "items": [
     {
@@ -57,17 +57,6 @@
       "contentSnippet": "INABA Churu is really a world-popular product.",
       "guid": "1638053248673390593",
       "isoDate": "2023-03-21T05:41:42.000Z",
-      "imgSrc": ""
-    },
-    {
-      "title": "https://t.co/Dak7T4TnWx",
-      "link": "https://twitter.com/ognis1205/status/1638034561803386880",
-      "pubDate": "Tue, 21 Mar 2023 04:27:27 GMT",
-      "creator": "ognis1205",
-      "content": "https://t.co/Dak7T4TnWx",
-      "contentSnippet": "https://t.co/Dak7T4TnWx",
-      "guid": "1638034561803386880",
-      "isoDate": "2023-03-21T04:27:27.000Z",
       "imgSrc": ""
     },
     {
