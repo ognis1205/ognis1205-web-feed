@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1679555436249",
+  "timestamp": "1679577895718",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "\"Keep It Simple, Stupid.\" Low latency code sometimes have to be ugly. The source code of my current personal Rust project could be readable and well-organized, I guess, but this well-made source code sometimes causes a performance issue.",
+      "link": "https://twitter.com/ognis1205/status/1638835243800236032",
+      "pubDate": "Thu, 23 Mar 2023 09:29:04 GMT",
+      "creator": "ognis1205",
+      "content": "\"Keep It Simple, Stupid.\" Low latency code sometimes have to be ugly. The source code of my current personal Rust project could be readable and well-organized, I guess, but this well-made source code sometimes causes a performance issue.",
+      "contentSnippet": "\"Keep It Simple, Stupid.\"\nLow latency code sometimes have to be ugly. The source code of my current personal Rust project could be readable and well-organized, I guess, but this well-made source code sometimes causes a performance issue.",
+      "guid": "1638835243800236032",
+      "isoDate": "2023-03-23T09:29:04.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/l0JHhHYV0n",
       "link": "https://twitter.com/ognis1205/status/1638760875950768129",
@@ -82,17 +93,6 @@
       "imgSrc": ""
     },
     {
-      "title": "https://t.co/Fv3oWJue16",
-      "link": "https://twitter.com/ognis1205/status/1637664579122757632",
-      "pubDate": "Mon, 20 Mar 2023 03:57:16 GMT",
-      "creator": "ognis1205",
-      "content": "https://t.co/Fv3oWJue16",
-      "contentSnippet": "https://t.co/Fv3oWJue16",
-      "guid": "1637664579122757632",
-      "isoDate": "2023-03-20T03:57:16.000Z",
-      "imgSrc": ""
-    },
-    {
       "title": "https://t.co/JCI0m4ur5x",
       "link": "https://twitter.com/ognis1205/status/1637496123911991304",
       "pubDate": "Sun, 19 Mar 2023 16:47:53 GMT",
@@ -123,6 +123,17 @@
       "contentSnippet": "https://t.co/heKIC6k0hL",
       "guid": "1637161302518013952",
       "isoDate": "2023-03-18T18:37:26.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Marco Pierre White recipe for Grilled sardines https://t.co/KoDiLwBPaz via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1637080914013609984",
+      "pubDate": "Sat, 18 Mar 2023 13:18:00 GMT",
+      "creator": "ognis1205",
+      "content": "Marco Pierre White recipe for Grilled sardines https://t.co/KoDiLwBPaz via @YouTube",
+      "contentSnippet": "Marco Pierre White recipe for Grilled sardines https://t.co/KoDiLwBPaz via @YouTube",
+      "guid": "1637080914013609984",
+      "isoDate": "2023-03-18T13:18:00.000Z",
       "imgSrc": ""
     },
     {
