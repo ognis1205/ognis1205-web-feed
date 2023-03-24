@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1679623799018",
+  "timestamp": "1679641854751",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/5TySVmZmhP",
+      "link": "https://twitter.com/ognis1205/status/1639157306402435072",
+      "pubDate": "Fri, 24 Mar 2023 06:48:50 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/5TySVmZmhP",
+      "contentSnippet": "https://t.co/5TySVmZmhP",
+      "guid": "1639157306402435072",
+      "isoDate": "2023-03-24T06:48:50.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @PlanckScale: @KavliIPMU の中に新たに設置される「データ駆動型探究センター」（Center of Data-Driven Discovery：略称CD3）は、AI・機械学習技術を駆使し、データサイエンスとの連携を促進することで、宇宙のさらなる理解を…",
+      "link": "https://twitter.com/ognis1205/status/1639154672752795648",
+      "pubDate": "Fri, 24 Mar 2023 06:38:22 GMT",
+      "creator": "ognis1205",
+      "content": "RT @PlanckScale: @KavliIPMU の中に新たに設置される「データ駆動型探究センター」（Center of Data-Driven Discovery：略称CD3）は、AI・機械学習技術を駆使し、データサイエンスとの連携を促進することで、宇宙のさらなる理解を…",
+      "contentSnippet": "RT @PlanckScale: @KavliIPMU の中に新たに設置される「データ駆動型探究センター」（Center of Data-Driven Discovery：略称CD3）は、AI・機械学習技術を駆使し、データサイエンスとの連携を促進することで、宇宙のさらなる理解を…",
+      "guid": "1639154672752795648",
+      "isoDate": "2023-03-24T06:38:22.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "\"Keep It Simple, Stupid.\" Low latency code sometimes have to be ugly. The source code of my current personal Rust project could be readable and well-organized, I guess, but this well-made source code sometimes causes a performance issue.",
       "link": "https://twitter.com/ognis1205/status/1638835243800236032",
@@ -82,6 +104,17 @@
       "imgSrc": ""
     },
     {
+      "title": "https://t.co/Dak7T4TnWx",
+      "link": "https://twitter.com/ognis1205/status/1638034561803386880",
+      "pubDate": "Tue, 21 Mar 2023 04:27:27 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/Dak7T4TnWx",
+      "contentSnippet": "https://t.co/Dak7T4TnWx",
+      "guid": "1638034561803386880",
+      "isoDate": "2023-03-21T04:27:27.000Z",
+      "imgSrc": ""
+    },
+    {
       "title": "https://t.co/nm9XXGnCxO",
       "link": "https://twitter.com/ognis1205/status/1637685535115456513",
       "pubDate": "Mon, 20 Mar 2023 05:20:32 GMT",
@@ -137,6 +170,17 @@
       "imgSrc": ""
     },
     {
+      "title": "https://t.co/09nw54EPcQ",
+      "link": "https://twitter.com/ognis1205/status/1636997303004438529",
+      "pubDate": "Sat, 18 Mar 2023 07:45:45 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/09nw54EPcQ",
+      "contentSnippet": "https://t.co/09nw54EPcQ",
+      "guid": "1636997303004438529",
+      "isoDate": "2023-03-18T07:45:45.000Z",
+      "imgSrc": ""
+    },
+    {
       "title": "https://t.co/5PJBlZ0yBF",
       "link": "https://twitter.com/ognis1205/status/1636987989749534723",
       "pubDate": "Sat, 18 Mar 2023 07:08:45 GMT",
@@ -156,6 +200,28 @@
       "contentSnippet": "https://t.co/m4doN5SWmx",
       "guid": "1636984889055772672",
       "isoDate": "2023-03-18T06:56:25.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/WTuJpcOZ3X",
+      "link": "https://twitter.com/ognis1205/status/1636984221175787520",
+      "pubDate": "Sat, 18 Mar 2023 06:53:46 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/WTuJpcOZ3X",
+      "contentSnippet": "https://t.co/WTuJpcOZ3X",
+      "guid": "1636984221175787520",
+      "isoDate": "2023-03-18T06:53:46.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/sfEuWeqQVd",
+      "link": "https://twitter.com/ognis1205/status/1636983670463664129",
+      "pubDate": "Sat, 18 Mar 2023 06:51:35 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/sfEuWeqQVd",
+      "contentSnippet": "https://t.co/sfEuWeqQVd",
+      "guid": "1636983670463664129",
+      "isoDate": "2023-03-18T06:51:35.000Z",
       "imgSrc": ""
     },
     {
