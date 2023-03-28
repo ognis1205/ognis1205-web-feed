@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1679969492172",
+  "timestamp": "1679987466165",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/bvTqxZQq4p -&gt; https://t.co/pxVT5yw1XO",
+      "link": "https://twitter.com/ognis1205/status/1640559630458970113",
+      "pubDate": "Tue, 28 Mar 2023 03:41:10 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/bvTqxZQq4p -&gt; https://t.co/pxVT5yw1XO",
+      "contentSnippet": "https://t.co/bvTqxZQq4p -&gt; https://t.co/pxVT5yw1XO",
+      "guid": "1640559630458970113",
+      "isoDate": "2023-03-28T03:41:10.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Phew! Finally finished refactoring.",
       "link": "https://twitter.com/ognis1205/status/1639998487847903232",
