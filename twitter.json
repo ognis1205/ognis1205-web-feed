@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1680056352283",
+  "timestamp": "1680073866447",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "One of the pain points with Rust is the comparatively long compilation time :/",
+      "link": "https://twitter.com/ognis1205/status/1640967820149395457",
+      "pubDate": "Wed, 29 Mar 2023 06:43:10 GMT",
+      "creator": "ognis1205",
+      "content": "One of the pain points with Rust is the comparatively long compilation time :/",
+      "contentSnippet": "One of the pain points with Rust is the comparatively long compilation time :/",
+      "guid": "1640967820149395457",
+      "isoDate": "2023-03-29T06:43:10.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @gdb: GPT-4 for security, giving a real power boost for defenders. One encouraging (but still tentative) idea that I've heard over the…",
+      "link": "https://twitter.com/ognis1205/status/1640934447511126017",
+      "pubDate": "Wed, 29 Mar 2023 04:30:34 GMT",
+      "creator": "ognis1205",
+      "content": "RT @gdb: GPT-4 for security, giving a real power boost for defenders. One encouraging (but still tentative) idea that I've heard over the…",
+      "contentSnippet": "RT @gdb: GPT-4 for security, giving a real power boost for defenders.\n\nOne encouraging (but still tentative) idea that I've heard over the…",
+      "guid": "1640934447511126017",
+      "isoDate": "2023-03-29T04:30:34.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Dudley's Stage - You Blow My Mind (Arranged) https://t.co/5vD8RrmCbd via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1640934083319705602",
+      "pubDate": "Wed, 29 Mar 2023 04:29:07 GMT",
+      "creator": "ognis1205",
+      "content": "Dudley's Stage - You Blow My Mind (Arranged) https://t.co/5vD8RrmCbd via @YouTube",
+      "contentSnippet": "Dudley's Stage - You Blow My Mind (Arranged) https://t.co/5vD8RrmCbd via @YouTube",
+      "guid": "1640934083319705602",
+      "isoDate": "2023-03-29T04:29:07.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @TeamTock: March 28. The birthday of Alexander Grothendieck. \"Modern algebraic geometry begins from the observation that a commutative…",
       "link": "https://twitter.com/ognis1205/status/1640813931429261312",
