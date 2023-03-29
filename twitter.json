@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1680030513319",
+  "timestamp": "1680056352283",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @TeamTock: March 28. The birthday of Alexander Grothendieck. \"Modern algebraic geometry begins from the observation that a commutative…",
+      "link": "https://twitter.com/ognis1205/status/1640813931429261312",
+      "pubDate": "Tue, 28 Mar 2023 20:31:40 GMT",
+      "creator": "ognis1205",
+      "content": "RT @TeamTock: March 28. The birthday of Alexander Grothendieck. \"Modern algebraic geometry begins from the observation that a commutative…",
+      "contentSnippet": "RT @TeamTock: March 28. The birthday of Alexander Grothendieck.\n\n\"Modern algebraic geometry begins from the observation that a commutative…",
+      "guid": "1640813931429261312",
+      "isoDate": "2023-03-28T20:31:40.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/kRXqYbjYZb",
       "link": "https://twitter.com/ognis1205/status/1640737838475116545",
