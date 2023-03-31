@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1680268768246",
+  "timestamp": "1680289693446",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "Write some snippets to check if the Rust crate loads Parquet data from GCS properly.",
+      "link": "https://twitter.com/ognis1205/status/1641835860177084416",
+      "pubDate": "Fri, 31 Mar 2023 16:12:27 GMT",
+      "creator": "ognis1205",
+      "content": "Write some snippets to check if the Rust crate loads Parquet data from GCS properly.",
+      "contentSnippet": "Write some snippets to check if the Rust crate loads Parquet data from GCS properly.",
+      "guid": "1641835860177084416",
+      "isoDate": "2023-03-31T16:12:27.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "",
+      "link": "https://twitter.com/ognis1205/status/1641835591078924289",
+      "pubDate": "Fri, 31 Mar 2023 16:11:23 GMT",
+      "creator": "ognis1205",
+      "content": "",
+      "contentSnippet": "🤔🤔🤔",
+      "guid": "1641835591078924289",
+      "isoDate": "2023-03-31T16:11:23.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/Rqsu03Azr4",
+      "link": "https://twitter.com/ognis1205/status/1641797823179149313",
+      "pubDate": "Fri, 31 Mar 2023 13:41:18 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/Rqsu03Azr4",
+      "contentSnippet": "https://t.co/Rqsu03Azr4",
+      "guid": "1641797823179149313",
+      "isoDate": "2023-03-31T13:41:18.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/S2B3mJbVhI",
       "link": "https://twitter.com/ognis1205/status/1641732141787795457",
