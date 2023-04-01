@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1680332973881",
+  "timestamp": "1680355004565",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/gcgD3VLyEy",
+      "link": "https://twitter.com/ognis1205/status/1642150940647227392",
+      "pubDate": "Sat, 01 Apr 2023 13:04:28 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/gcgD3VLyEy",
+      "contentSnippet": "https://t.co/gcgD3VLyEy",
+      "guid": "1642150940647227392",
+      "isoDate": "2023-04-01T13:04:28.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/PykVVireE1",
+      "link": "https://twitter.com/ognis1205/status/1642109414386855938",
+      "pubDate": "Sat, 01 Apr 2023 10:19:27 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/PykVVireE1",
+      "contentSnippet": "https://t.co/PykVVireE1",
+      "guid": "1642109414386855938",
+      "isoDate": "2023-04-01T10:19:27.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Ah, I figured out what causes the glitch finally.",
+      "link": "https://twitter.com/ognis1205/status/1642067725932716033",
+      "pubDate": "Sat, 01 Apr 2023 07:33:48 GMT",
+      "creator": "ognis1205",
+      "content": "Ah, I figured out what causes the glitch finally.",
+      "contentSnippet": "Ah, I figured out what causes the glitch finally.",
+      "guid": "1642067725932716033",
+      "isoDate": "2023-04-01T07:33:48.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Write some snippets to check if the Rust crate loads Parquet data from GCS properly.",
       "link": "https://twitter.com/ognis1205/status/1641835860177084416",
