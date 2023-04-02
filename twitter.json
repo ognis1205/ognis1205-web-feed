@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1680419371886",
+  "timestamp": "1680441361202",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "Wish this method was `pub`, not `pub(crate)`.",
+      "link": "https://twitter.com/ognis1205/status/1642437484557774848",
+      "pubDate": "Sun, 02 Apr 2023 08:03:05 GMT",
+      "creator": "ognis1205",
+      "content": "Wish this method was `pub`, not `pub(crate)`.",
+      "contentSnippet": "Wish this method was `pub`, not `pub(crate)`.",
+      "guid": "1642437484557774848",
+      "isoDate": "2023-04-02T08:03:05.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/uubaLsEJ7N",
       "link": "https://twitter.com/ognis1205/status/1642263356643082240",
