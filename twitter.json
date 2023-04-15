@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1681524380505",
+  "timestamp": "1681542578050",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "How can I build a DIY brain monitor? I have an idea.",
+      "link": "https://twitter.com/ognis1205/status/1647113917565640705",
+      "pubDate": "Sat, 15 Apr 2023 05:45:34 GMT",
+      "creator": "ognis1205",
+      "content": "How can I build a DIY brain monitor? I have an idea.",
+      "contentSnippet": "How can I build a DIY brain monitor?🤔 I have an idea.",
+      "guid": "1647113917565640705",
+      "isoDate": "2023-04-15T05:45:34.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Cat answers office phone https://t.co/HTVzfGqczi via @YouTube",
       "link": "https://twitter.com/ognis1205/status/1646716427595055105",
