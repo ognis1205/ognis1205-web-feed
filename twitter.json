@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1681628965933",
+  "timestamp": "1681650979854",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @ylecun: As reported in the @nytimes , Nabla's Copilot helps doctors write medical reports. It's built around GPT-3. As I've said before…",
+      "link": "https://twitter.com/ognis1205/status/1647506970440785921",
+      "pubDate": "Sun, 16 Apr 2023 07:47:25 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ylecun: As reported in the @nytimes , Nabla's Copilot helps doctors write medical reports. It's built around GPT-3. As I've said before…",
+      "contentSnippet": "RT @ylecun: As reported in the @nytimes , Nabla's Copilot helps doctors write medical reports.\nIt's built around GPT-3.\nAs I've said before…",
+      "guid": "1647506970440785921",
+      "isoDate": "2023-04-16T07:47:25.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Our project are recognized as an official community integration https://t.co/2XpGuNfRP4",
       "link": "https://twitter.com/ognis1205/status/1647407294160998400",
