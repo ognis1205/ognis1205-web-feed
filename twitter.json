@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1681672055912",
+  "timestamp": "1681697216266",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "Shrimp Oreganata https://t.co/HJyVXQu9Wi via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1647778865799135234",
+      "pubDate": "Mon, 17 Apr 2023 01:47:50 GMT",
+      "creator": "ognis1205",
+      "content": "Shrimp Oreganata https://t.co/HJyVXQu9Wi via @YouTube",
+      "contentSnippet": "Shrimp Oreganata https://t.co/HJyVXQu9Wi via @YouTube",
+      "guid": "1647778865799135234",
+      "isoDate": "2023-04-17T01:47:50.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Besides that, my English is not so good, but I’ll give it a try.",
+      "link": "https://twitter.com/ognis1205/status/1647769361866973184",
+      "pubDate": "Mon, 17 Apr 2023 01:10:04 GMT",
+      "creator": "ognis1205",
+      "content": "Besides that, my English is not so good, but I’ll give it a try.",
+      "contentSnippet": "Besides that, my English is not so good, but I’ll give it a try.",
+      "guid": "1647769361866973184",
+      "isoDate": "2023-04-17T01:10:04.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "I'm flattered to be invited to a webinar by a developer advocate from Databricks, but as a CHO (Chief Household Officer), I'm not sure I'm the appropriate speaker for a technical event.",
+      "link": "https://twitter.com/ognis1205/status/1647767899279626240",
+      "pubDate": "Mon, 17 Apr 2023 01:04:15 GMT",
+      "creator": "ognis1205",
+      "content": "I'm flattered to be invited to a webinar by a developer advocate from Databricks, but as a CHO (Chief Household Officer), I'm not sure I'm the appropriate speaker for a technical event.",
+      "contentSnippet": "I'm flattered to be invited to a webinar by a developer advocate from Databricks, but as a CHO (Chief Household Officer), I'm not sure I'm the appropriate speaker for a technical event.",
+      "guid": "1647767899279626240",
+      "isoDate": "2023-04-17T01:04:15.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @ylecun: As reported in the @nytimes , Nabla's Copilot helps doctors write medical reports. It's built around GPT-3. As I've said before…",
       "link": "https://twitter.com/ognis1205/status/1647506970440785921",
