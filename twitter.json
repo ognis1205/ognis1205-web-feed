@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1682129216259",
+  "timestamp": "1682147383384",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @GoogleAI: Introducing Visual Blocks ML, a low- to no-code framework that enables users to develop, test, and iterate on pipelines.…",
+      "link": "https://twitter.com/ognis1205/status/1649639703703060480",
+      "pubDate": "Sat, 22 Apr 2023 05:02:08 GMT",
+      "creator": "ognis1205",
+      "content": "RT @GoogleAI: Introducing Visual Blocks ML, a low- to no-code framework that enables users to develop, test, and iterate on pipelines.…",
+      "contentSnippet": "RT @GoogleAI: Introducing Visual Blocks ML, a low- to no-code framework that enables users to develop, test, and iterate on #ML pipelines.…",
+      "guid": "1649639703703060480",
+      "isoDate": "2023-04-22T05:02:08.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Sublime - Santeria (Official Music Video) https://t.co/UuNLsSkoer via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1649622519643770881",
+      "pubDate": "Sat, 22 Apr 2023 03:53:51 GMT",
+      "creator": "ognis1205",
+      "content": "Sublime - Santeria (Official Music Video) https://t.co/UuNLsSkoer via @YouTube",
+      "contentSnippet": "Sublime - Santeria (Official Music Video) https://t.co/UuNLsSkoer via @YouTube",
+      "guid": "1649622519643770881",
+      "isoDate": "2023-04-22T03:53:51.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/MDSR0WuMCR",
       "link": "https://twitter.com/ognis1205/status/1648664357952430080",
