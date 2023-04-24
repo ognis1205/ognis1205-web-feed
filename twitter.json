@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1682302117637",
+  "timestamp": "1682320253700",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @pwendell: Unfortunately for all of us, this is a highly accurate depiction of @Databricks is focused on making this much simple…",
+      "link": "https://twitter.com/ognis1205/status/1650364631683321856",
+      "pubDate": "Mon, 24 Apr 2023 05:02:45 GMT",
+      "creator": "ognis1205",
+      "content": "RT @pwendell: Unfortunately for all of us, this is a highly accurate depiction of @Databricks is focused on making this much simple…",
+      "contentSnippet": "RT @pwendell: Unfortunately for all of us, this is a highly accurate depiction of #MLOps. @Databricks is focused on making this much simple…",
+      "guid": "1650364631683321856",
+      "isoDate": "2023-04-24T05:02:45.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @GoogleAI: Introducing Visual Blocks ML, a low- to no-code framework that enables users to develop, test, and iterate on pipelines.…",
       "link": "https://twitter.com/ognis1205/status/1649639703703060480",
