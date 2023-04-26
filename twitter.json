@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1682449679907",
+  "timestamp": "1682474831065",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @dennylee: I would like to thank Shingo OKAWA for his amazing Delta Lake contribution of - a minimalist implementati…",
+      "link": "https://twitter.com/ognis1205/status/1650988507542765569",
+      "pubDate": "Tue, 25 Apr 2023 22:21:48 GMT",
+      "creator": "ognis1205",
+      "content": "RT @dennylee: I would like to thank Shingo OKAWA for his amazing Delta Lake contribution of - a minimalist implementati…",
+      "contentSnippet": "RT @dennylee: I would like to thank Shingo OKAWA for his amazing Delta Lake contribution of #kotosiro - a minimalist #rustlang implementati…",
+      "guid": "1650988507542765569",
+      "isoDate": "2023-04-25T22:21:48.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @ylecun: Everything you ever wanted to know about Self-Supervised Learning but were afraid to ask. A giant cookbook of SSL recipes. By…",
       "link": "https://twitter.com/ognis1205/status/1650821507105579009",
