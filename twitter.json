@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1682687858452",
+  "timestamp": "1682708878839",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "I am currently inspecting the effectiveness of data skipping in Delta tables using delta-rs, and I want to give a shoutout to the delta-rs development team for their great work.",
+      "link": "https://twitter.com/ognis1205/status/1651976099444981761",
+      "pubDate": "Fri, 28 Apr 2023 15:46:08 GMT",
+      "creator": "ognis1205",
+      "content": "I am currently inspecting the effectiveness of data skipping in Delta tables using delta-rs, and I want to give a shoutout to the delta-rs development team for their great work.",
+      "contentSnippet": "I am currently inspecting the effectiveness of data skipping in Delta tables using delta-rs, and I want to give a shoutout to the delta-rs development team for their great work.",
+      "guid": "1651976099444981761",
+      "isoDate": "2023-04-28T15:46:08.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "",
       "link": "https://twitter.com/ognis1205/status/1651922941159030785",
