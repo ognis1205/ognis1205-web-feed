@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1682665823078",
+  "timestamp": "1682687858452",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "",
+      "link": "https://twitter.com/ognis1205/status/1651922941159030785",
+      "pubDate": "Fri, 28 Apr 2023 12:14:55 GMT",
+      "creator": "ognis1205",
+      "content": "",
+      "contentSnippet": "🤔🤔🤔🤯",
+      "guid": "1651922941159030785",
+      "isoDate": "2023-04-28T12:14:55.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @ylecun: A survey of LLMs with a practical guide and evolutionary tree. Number of LLMs from Meta = 7 Number of open source LLMs from Me…",
       "link": "https://twitter.com/ognis1205/status/1651782954073612290",
