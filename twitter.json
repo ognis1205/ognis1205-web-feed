@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1682774151339",
+  "timestamp": "1682795241086",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "Adult cats help stranded kitten https://t.co/cviNVCvjor via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1652383608987070469",
+      "pubDate": "Sat, 29 Apr 2023 18:45:26 GMT",
+      "creator": "ognis1205",
+      "content": "Adult cats help stranded kitten https://t.co/cviNVCvjor via @YouTube",
+      "contentSnippet": "Adult cats help stranded kitten https://t.co/cviNVCvjor via @YouTube",
+      "guid": "1652383608987070469",
+      "isoDate": "2023-04-29T18:45:26.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @docmilanfar: @gabrielpeyre Proximal operators can also be thought of as maximum a-posteriori denoisers. The soft-thresholding algorithm…",
+      "link": "https://twitter.com/ognis1205/status/1652339154586599424",
+      "pubDate": "Sat, 29 Apr 2023 15:48:48 GMT",
+      "creator": "ognis1205",
+      "content": "RT @docmilanfar: @gabrielpeyre Proximal operators can also be thought of as maximum a-posteriori denoisers. The soft-thresholding algorithm…",
+      "contentSnippet": "RT @docmilanfar: @gabrielpeyre Proximal operators can also be thought of as maximum a-posteriori denoisers. The soft-thresholding algorithm…",
+      "guid": "1652339154586599424",
+      "isoDate": "2023-04-29T15:48:48.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "I am currently inspecting the effectiveness of data skipping in Delta tables using delta-rs, and I want to give a shoutout to the delta-rs development team for their great work.",
       "link": "https://twitter.com/ognis1205/status/1651976099444981761",
