@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1682906861548",
+  "timestamp": "1682925038503",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "Is LinkedIn not a good fit for tech blogging?",
+      "link": "https://twitter.com/ognis1205/status/1652921432459067394",
+      "pubDate": "Mon, 01 May 2023 06:22:33 GMT",
+      "creator": "ognis1205",
+      "content": "Is LinkedIn not a good fit for tech blogging?",
+      "contentSnippet": "Is LinkedIn not a good fit for tech blogging?🤔",
+      "guid": "1652921432459067394",
+      "isoDate": "2023-05-01T06:22:33.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Enable idempotent writes across jobs | Databricks on AWS https://t.co/TDkHXJEN3P",
+      "link": "https://twitter.com/ognis1205/status/1652876529154818059",
+      "pubDate": "Mon, 01 May 2023 03:24:08 GMT",
+      "creator": "ognis1205",
+      "content": "Enable idempotent writes across jobs | Databricks on AWS https://t.co/TDkHXJEN3P",
+      "contentSnippet": "Enable idempotent writes across jobs | Databricks on AWS https://t.co/TDkHXJEN3P",
+      "guid": "1652876529154818059",
+      "isoDate": "2023-05-01T03:24:08.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/ajQZFFwuiz",
       "link": "https://twitter.com/ognis1205/status/1652745146012958721",
