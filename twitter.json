@@ -1,18 +1,29 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1683011415755",
+  "timestamp": "1683033530126",
   "description": "Tweets of ognis1205.",
   "items": [
     {
-      "title": "https://t.co/WMYfCzGIa3",
-      "link": "https://twitter.com/ognis1205/status/1653260803720744960",
-      "pubDate": "Tue, 02 May 2023 04:51:06 GMT",
+      "title": "RT @rui314: このツイートをしたことにより2週間くらい先までの予定が埋まった。すごい。 さらなるご連絡お待ちしております どなたでもご遠慮なく。",
+      "link": "https://twitter.com/ognis1205/status/1653326185823342592",
+      "pubDate": "Tue, 02 May 2023 09:10:54 GMT",
       "creator": "ognis1205",
-      "content": "https://t.co/WMYfCzGIa3",
-      "contentSnippet": "https://t.co/WMYfCzGIa3",
-      "guid": "1653260803720744960",
-      "isoDate": "2023-05-02T04:51:06.000Z",
+      "content": "RT @rui314: このツイートをしたことにより2週間くらい先までの予定が埋まった。すごい。 さらなるご連絡お待ちしております どなたでもご遠慮なく。",
+      "contentSnippet": "RT @rui314: このツイートをしたことにより2週間くらい先までの予定が埋まった。すごい。\nさらなるご連絡お待ちしております😁 どなたでもご遠慮なく。",
+      "guid": "1653326185823342592",
+      "isoDate": "2023-05-02T09:10:54.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/AhZB6eRwEl",
+      "link": "https://twitter.com/ognis1205/status/1653299781761134598",
+      "pubDate": "Tue, 02 May 2023 07:25:59 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/AhZB6eRwEl",
+      "contentSnippet": "https://t.co/AhZB6eRwEl",
+      "guid": "1653299781761134598",
+      "isoDate": "2023-05-02T07:25:59.000Z",
       "imgSrc": ""
     },
     {
