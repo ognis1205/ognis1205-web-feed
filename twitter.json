@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1683378947736",
+  "timestamp": "1683400038603",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "Prime Video Swaps Microservices for Monolith: 90% Cost Reduction https://t.co/ZzetQbFT4Z via @YouTube",
+      "link": "https://twitter.com/ognis1205/status/1654857143135399936",
+      "pubDate": "Sat, 06 May 2023 14:34:23 GMT",
+      "creator": "ognis1205",
+      "content": "Prime Video Swaps Microservices for Monolith: 90% Cost Reduction https://t.co/ZzetQbFT4Z via @YouTube",
+      "contentSnippet": "Prime Video Swaps Microservices for Monolith: 90% Cost Reduction https://t.co/ZzetQbFT4Z via @YouTube",
+      "guid": "1654857143135399936",
+      "isoDate": "2023-05-06T14:34:23.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/aqpPoU5pF4",
       "link": "https://twitter.com/ognis1205/status/1654477800923865091",
