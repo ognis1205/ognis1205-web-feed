@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1683639419246",
+  "timestamp": "1683659266200",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "TODO: - AWS Architecture Diagram - Blog Post on LinkedIn",
+      "link": "https://twitter.com/ognis1205/status/1655990064651079680",
+      "pubDate": "Tue, 09 May 2023 17:36:12 GMT",
+      "creator": "ognis1205",
+      "content": "TODO: - AWS Architecture Diagram - Blog Post on LinkedIn",
+      "contentSnippet": "TODO:\n - AWS Architecture Diagram\n - Blog Post on LinkedIn",
+      "guid": "1655990064651079680",
+      "isoDate": "2023-05-09T17:36:12.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/lpeOjpksPz",
       "link": "https://twitter.com/ognis1205/status/1655845441668517889",
