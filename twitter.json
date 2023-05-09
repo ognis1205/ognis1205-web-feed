@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1683572881139",
+  "timestamp": "1683598023634",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "The UI of GitHub has changed.",
+      "link": "https://twitter.com/ognis1205/status/1655733011617570817",
+      "pubDate": "Tue, 09 May 2023 00:34:46 GMT",
+      "creator": "ognis1205",
+      "content": "The UI of GitHub has changed.",
+      "contentSnippet": "The UI of GitHub has changed.",
+      "guid": "1655733011617570817",
+      "isoDate": "2023-05-09T00:34:46.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @databricks: Does your organization struggle with “two silos” when integrating a warehouse and a data lake? See how us…",
+      "link": "https://twitter.com/ognis1205/status/1655732915567833088",
+      "pubDate": "Tue, 09 May 2023 00:34:23 GMT",
+      "creator": "ognis1205",
+      "content": "RT @databricks: Does your organization struggle with “two silos” when integrating a warehouse and a data lake? See how us…",
+      "contentSnippet": "RT @databricks: Does your organization struggle with “two silos” when integrating a #data warehouse and a data lake?\n\nSee how #Lakehouse us…",
+      "guid": "1655732915567833088",
+      "isoDate": "2023-05-09T00:34:23.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/GdoeU9UDYf",
       "link": "https://twitter.com/ognis1205/status/1655531642440794112",
