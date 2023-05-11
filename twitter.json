@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1683702606155",
+  "timestamp": "1683770690636",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @MIT_CSAIL: MIT inventors of liquid neural networks discuss building their brain-like flexible class of AI models: https://t.co/wH0GBJYV…",
+      "link": "https://twitter.com/ognis1205/status/1656336558054854656",
+      "pubDate": "Wed, 10 May 2023 16:33:03 GMT",
+      "creator": "ognis1205",
+      "content": "RT @MIT_CSAIL: MIT inventors of liquid neural networks discuss building their brain-like flexible class of AI models: https://t.co/wH0GBJYV…",
+      "contentSnippet": "RT @MIT_CSAIL: MIT inventors of liquid neural networks discuss building their brain-like flexible class of AI models: https://t.co/wH0GBJYV…",
+      "guid": "1656336558054854656",
+      "isoDate": "2023-05-10T16:33:03.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "GitHub - stanfordnlp/dsp: 𝗗𝗦𝗣: Demonstrate-Search-Predict. A framework for composing retrieval and language models for knowledge-intensive NLP. https://t.co/E0ry1kQqDt",
       "link": "https://twitter.com/ognis1205/status/1656089282480857088",
