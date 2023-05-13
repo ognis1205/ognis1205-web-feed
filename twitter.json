@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1683983731614",
+  "timestamp": "1684004829919",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @DeltaLakeOSS: Learn how AT&amp;T processes and manages 10+ petabytes of their network with and @Databricks at the",
+      "link": "https://twitter.com/ognis1205/status/1657382478527750144",
+      "pubDate": "Sat, 13 May 2023 13:49:10 GMT",
+      "creator": "ognis1205",
+      "content": "RT @DeltaLakeOSS: Learn how AT&amp;T processes and manages 10+ petabytes of their network with and @Databricks at the",
+      "contentSnippet": "RT @DeltaLakeOSS: Learn how AT&amp;T processes and manages 10+ petabytes of their network #Lakehouse with #DeltaLake and @Databricks at the #Da…",
+      "guid": "1657382478527750144",
+      "isoDate": "2023-05-13T13:49:10.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/MxEbiMTkIz",
       "link": "https://twitter.com/ognis1205/status/1656999870530744321",
