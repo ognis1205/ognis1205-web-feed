@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684070136936",
+  "timestamp": "1684091242434",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "@MIT_CSAIL TAOCP by Donald Knuth",
+      "link": "https://twitter.com/ognis1205/status/1657781651915816960",
+      "pubDate": "Sun, 14 May 2023 16:15:20 GMT",
+      "creator": "ognis1205",
+      "content": "@MIT_CSAIL TAOCP by Donald Knuth",
+      "contentSnippet": "@MIT_CSAIL TAOCP by Donald Knuth",
+      "guid": "1657781651915816960",
+      "isoDate": "2023-05-14T16:15:20.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @ericschmidt: The Prize Is Won; The Simplest Universal Turing Machine Is Proved—Wolfram Blog https://t.co/WE2PuCzDQP",
+      "link": "https://twitter.com/ognis1205/status/1657751526130212864",
+      "pubDate": "Sun, 14 May 2023 14:15:38 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ericschmidt: The Prize Is Won; The Simplest Universal Turing Machine Is Proved—Wolfram Blog https://t.co/WE2PuCzDQP",
+      "contentSnippet": "RT @ericschmidt: The Prize Is Won; The Simplest Universal Turing Machine Is Proved—Wolfram Blog https://t.co/WE2PuCzDQP",
+      "guid": "1657751526130212864",
+      "isoDate": "2023-05-14T14:15:38.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "@PicturesFoIder Excitebike.",
+      "link": "https://twitter.com/ognis1205/status/1657751406105993217",
+      "pubDate": "Sun, 14 May 2023 14:15:09 GMT",
+      "creator": "ognis1205",
+      "content": "@PicturesFoIder Excitebike.",
+      "contentSnippet": "@PicturesFoIder Excitebike.",
+      "guid": "1657751406105993217",
+      "isoDate": "2023-05-14T14:15:09.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "My neighbor's cat cafe has postponed its transfer due to a shortage of semiconductors, which are required for equipment necessary to obtain business permission. It seems that semiconductors are needed even for a cat cafe.",
       "link": "https://twitter.com/ognis1205/status/1657646218003230720",
