@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684048231575",
+  "timestamp": "1684070136936",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "My neighbor's cat cafe has postponed its transfer due to a shortage of semiconductors, which are required for equipment necessary to obtain business permission. It seems that semiconductors are needed even for a cat cafe.",
+      "link": "https://twitter.com/ognis1205/status/1657646218003230720",
+      "pubDate": "Sun, 14 May 2023 07:17:10 GMT",
+      "creator": "ognis1205",
+      "content": "My neighbor's cat cafe has postponed its transfer due to a shortage of semiconductors, which are required for equipment necessary to obtain business permission. It seems that semiconductors are needed even for a cat cafe.",
+      "contentSnippet": "My neighbor's cat cafe has postponed its transfer due to a shortage of semiconductors, which are required for equipment necessary to obtain business permission. It seems that semiconductors are needed even for a cat cafe.",
+      "guid": "1657646218003230720",
+      "isoDate": "2023-05-14T07:17:10.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/t5sjAMjIdN",
       "link": "https://twitter.com/ognis1205/status/1657617975665647617",
