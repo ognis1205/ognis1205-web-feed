@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684177653932",
+  "timestamp": "1684202904591",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @ItaiYaffe: (2/2) ... it's crucial for them to be able to read &amp; write from/to @DeltaLakeOSS using all those frameworks. To help users…",
+      "link": "https://twitter.com/ognis1205/status/1658219810667507712",
+      "pubDate": "Mon, 15 May 2023 21:16:25 GMT",
+      "creator": "ognis1205",
+      "content": "RT @ItaiYaffe: (2/2) ... it's crucial for them to be able to read &amp; write from/to @DeltaLakeOSS using all those frameworks. To help users…",
+      "contentSnippet": "RT @ItaiYaffe: (2/2) ... it's crucial for them to be able to read &amp; write from/to @DeltaLakeOSS using all those frameworks.  \nTo help users…",
+      "guid": "1658219810667507712",
+      "isoDate": "2023-05-15T21:16:25.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @VoltronData: Love to see @IbisData powering tools! @Google uses Ibis in its Data Validation Tool, which helps users ensure…",
+      "link": "https://twitter.com/ognis1205/status/1658198371201581056",
+      "pubDate": "Mon, 15 May 2023 19:51:14 GMT",
+      "creator": "ognis1205",
+      "content": "RT @VoltronData: Love to see @IbisData powering tools! @Google uses Ibis in its Data Validation Tool, which helps users ensure…",
+      "contentSnippet": "RT @VoltronData: Love to see @IbisData powering #opensource tools! @Google uses Ibis in its Data Validation Tool, which helps users ensure…",
+      "guid": "1658198371201581056",
+      "isoDate": "2023-05-15T19:51:14.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @DeltaLakeOSS: Shoutout to Shingo OKAWA for his amazing contribution of - a minimalist implementation of…",
+      "link": "https://twitter.com/ognis1205/status/1658196418828603392",
+      "pubDate": "Mon, 15 May 2023 19:43:28 GMT",
+      "creator": "ognis1205",
+      "content": "RT @DeltaLakeOSS: Shoutout to Shingo OKAWA for his amazing contribution of - a minimalist implementation of…",
+      "contentSnippet": "RT @DeltaLakeOSS: Shoutout to Shingo OKAWA for his amazing #DeltaLake contribution of #kotosiro - a minimalist #rustlang implementation of…",
+      "guid": "1658196418828603392",
+      "isoDate": "2023-05-15T19:43:28.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Why are Namibia (.na ccTLDs) so expensive?",
       "link": "https://twitter.com/ognis1205/status/1657990127229231104",
