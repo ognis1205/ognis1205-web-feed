@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684202904591",
+  "timestamp": "1684221047870",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @databricks: ICYMI: We recently launched the experimental Registry modules for Databricks, a set of 30+ reusable Terraform mo…",
+      "link": "https://twitter.com/ognis1205/status/1658327503751229440",
+      "pubDate": "Tue, 16 May 2023 04:24:21 GMT",
+      "creator": "ognis1205",
+      "content": "RT @databricks: ICYMI: We recently launched the experimental Registry modules for Databricks, a set of 30+ reusable Terraform mo…",
+      "contentSnippet": "RT @databricks: ICYMI: We recently launched the experimental #Terraform Registry modules for Databricks, a set of 30+ reusable Terraform mo…",
+      "guid": "1658327503751229440",
+      "isoDate": "2023-05-16T04:24:21.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @ItaiYaffe: (2/2) ... it's crucial for them to be able to read &amp; write from/to @DeltaLakeOSS using all those frameworks. To help users…",
       "link": "https://twitter.com/ognis1205/status/1658219810667507712",
