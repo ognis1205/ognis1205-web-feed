@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684264164325",
+  "timestamp": "1684289301592",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "“How to deploy self-hosted Delta Sharing server on AWS” by Shingo OKAWA https://t.co/3DMVIV1FNJ https://t.co/S9UAUoG5P4",
+      "link": "https://twitter.com/ognis1205/status/1658652592451502080",
+      "pubDate": "Wed, 17 May 2023 01:56:08 GMT",
+      "creator": "ognis1205",
+      "content": "“How to deploy self-hosted Delta Sharing server on AWS” by Shingo OKAWA https://t.co/3DMVIV1FNJ https://t.co/S9UAUoG5P4",
+      "contentSnippet": "“How to deploy self-hosted Delta Sharing server on AWS” by Shingo OKAWA\nhttps://t.co/3DMVIV1FNJ https://t.co/S9UAUoG5P4",
+      "guid": "1658652592451502080",
+      "isoDate": "2023-05-17T01:56:08.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @lateinteraction: They told me to watch out for subtle bugs in Copilot code. Unfortunately, Copilot prefers to just tell me to lower my…",
+      "link": "https://twitter.com/ognis1205/status/1658614466450427906",
+      "pubDate": "Tue, 16 May 2023 23:24:39 GMT",
+      "creator": "ognis1205",
+      "content": "RT @lateinteraction: They told me to watch out for subtle bugs in Copilot code. Unfortunately, Copilot prefers to just tell me to lower my…",
+      "contentSnippet": "RT @lateinteraction: They told me to watch out for subtle bugs in Copilot code. Unfortunately, Copilot prefers to just tell me to lower my…",
+      "guid": "1658614466450427906",
+      "isoDate": "2023-05-16T23:24:39.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @databricks: ICYMI: We recently launched the experimental Registry modules for Databricks, a set of 30+ reusable Terraform mo…",
       "link": "https://twitter.com/ognis1205/status/1658327503751229440",
