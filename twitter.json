@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684329475011",
+  "timestamp": "1684350496377",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/Uyjn9gtfeK",
+      "link": "https://twitter.com/ognis1205/status/1658852854306668544",
+      "pubDate": "Wed, 17 May 2023 15:11:55 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/Uyjn9gtfeK",
+      "contentSnippet": "https://t.co/Uyjn9gtfeK",
+      "guid": "1658852854306668544",
+      "isoDate": "2023-05-17T15:11:55.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @DeltaLakeOSS: Are you using JupyterLab notebooks? They're great for data science or prototyping pipelines. Check out this custom",
+      "link": "https://twitter.com/ognis1205/status/1658838824468840450",
+      "pubDate": "Wed, 17 May 2023 14:16:10 GMT",
+      "creator": "ognis1205",
+      "content": "RT @DeltaLakeOSS: Are you using JupyterLab notebooks? They're great for data science or prototyping pipelines. Check out this custom",
+      "contentSnippet": "RT @DeltaLakeOSS: Are you using JupyterLab notebooks? They're great for data science or prototyping pipelines. Check out this custom #Jupyt…",
+      "guid": "1658838824468840450",
+      "isoDate": "2023-05-17T14:16:10.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @DatabricksJP: AWSを例として、自己ホスト型のDelta Sharingサーバーをデプロイする手順も詳細に解説されています。 詳細はこちら: https://t.co/6VObrZAjqH",
       "link": "https://twitter.com/ognis1205/status/1658711670204809221",
