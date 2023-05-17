@@ -1,9 +1,86 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684289301592",
+  "timestamp": "1684307406086",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @DatabricksJP: AWSを例として、自己ホスト型のDelta Sharingサーバーをデプロイする手順も詳細に解説されています。 詳細はこちら: https://t.co/6VObrZAjqH",
+      "link": "https://twitter.com/ognis1205/status/1658711670204809221",
+      "pubDate": "Wed, 17 May 2023 05:50:54 GMT",
+      "creator": "ognis1205",
+      "content": "RT @DatabricksJP: AWSを例として、自己ホスト型のDelta Sharingサーバーをデプロイする手順も詳細に解説されています。 詳細はこちら: https://t.co/6VObrZAjqH",
+      "contentSnippet": "RT @DatabricksJP: AWSを例として、自己ホスト型のDelta Sharingサーバーをデプロイする手順も詳細に解説されています。\n\n詳細はこちら🔗: https://t.co/6VObrZAjqH\n\n#AWS #DeltaSharing #KotosiroSh…",
+      "guid": "1658711670204809221",
+      "isoDate": "2023-05-17T05:50:54.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "@DatabricksJP @DeltaLakeOSS 日本語話者向けに。Kotosiroは事代主神つまり恵比寿様から取った名前です。事代一語では「代理」「神託」のような意味のようです。つまり英語の”oracle”, “proxy”ですね。元を担いでこの名前にしました。恵比寿様は幸運の神ですしね。Thanks for sharing!",
+      "link": "https://twitter.com/ognis1205/status/1658711526386315264",
+      "pubDate": "Wed, 17 May 2023 05:50:19 GMT",
+      "creator": "ognis1205",
+      "content": "@DatabricksJP @DeltaLakeOSS 日本語話者向けに。Kotosiroは事代主神つまり恵比寿様から取った名前です。事代一語では「代理」「神託」のような意味のようです。つまり英語の”oracle”, “proxy”ですね。元を担いでこの名前にしました。恵比寿様は幸運の神ですしね。Thanks for sharing!",
+      "contentSnippet": "@DatabricksJP @DeltaLakeOSS 日本語話者向けに。Kotosiroは事代主神つまり恵比寿様から取った名前です。事代一語では「代理」「神託」のような意味のようです。つまり英語の”oracle”, “proxy”ですね。元を担いでこの名前にしました。恵比寿様は幸運の神ですしね。Thanks for sharing!",
+      "guid": "1658711526386315264",
+      "isoDate": "2023-05-17T05:50:19.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @DatabricksJP: @DeltaLakeOSS へのcontribution @ognis1205 が を発表 Delta SharingサーバのミニマリストなRust実装 自身のDelta Sharingサービスを簡単にホス…",
+      "link": "https://twitter.com/ognis1205/status/1658710363612004353",
+      "pubDate": "Wed, 17 May 2023 05:45:42 GMT",
+      "creator": "ognis1205",
+      "content": "RT @DatabricksJP: @DeltaLakeOSS へのcontribution @ognis1205 が を発表 Delta SharingサーバのミニマリストなRust実装 自身のDelta Sharingサービスを簡単にホス…",
+      "contentSnippet": "RT @DatabricksJP: ☀️@DeltaLakeOSS へのcontribution☀️\n\n@ognis1205 が #kotosiro を発表🎉\n🦀Delta SharingサーバのミニマリストなRust実装\n🦀自身のDelta Sharingサービスを簡単にホス…",
+      "guid": "1658710363612004353",
+      "isoDate": "2023-05-17T05:45:42.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @gabrielpeyre: Summing the log of the nearest neighbors distances: a simple estimator for the entropy from samples. https://t.co/G1RLNGG…",
+      "link": "https://twitter.com/ognis1205/status/1658699122147495937",
+      "pubDate": "Wed, 17 May 2023 05:01:02 GMT",
+      "creator": "ognis1205",
+      "content": "RT @gabrielpeyre: Summing the log of the nearest neighbors distances: a simple estimator for the entropy from samples. https://t.co/G1RLNGG…",
+      "contentSnippet": "RT @gabrielpeyre: Summing the log of the nearest neighbors distances: a simple estimator for the entropy from samples. https://t.co/G1RLNGG…",
+      "guid": "1658699122147495937",
+      "isoDate": "2023-05-17T05:01:02.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @dennylee: Yousry Mohamed is a big fan of the Delta Lake API and talks about how to workaround the lack of put-if-absent a…",
+      "link": "https://twitter.com/ognis1205/status/1658688795037024257",
+      "pubDate": "Wed, 17 May 2023 04:20:00 GMT",
+      "creator": "ognis1205",
+      "content": "RT @dennylee: Yousry Mohamed is a big fan of the Delta Lake API and talks about how to workaround the lack of put-if-absent a…",
+      "contentSnippet": "RT @dennylee: Yousry Mohamed is a big fan of the Delta Lake #rustlang API and talks about how to workaround the lack of #s3 put-if-absent a…",
+      "guid": "1658688795037024257",
+      "isoDate": "2023-05-17T04:20:00.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @dennylee: Yet another great post from Shingo OKAWA - due to popularity of - a minimalist implementation of t…",
+      "link": "https://twitter.com/ognis1205/status/1658685576797909000",
+      "pubDate": "Wed, 17 May 2023 04:07:13 GMT",
+      "creator": "ognis1205",
+      "content": "RT @dennylee: Yet another great post from Shingo OKAWA - due to popularity of - a minimalist implementation of t…",
+      "contentSnippet": "RT @dennylee: Yet another great post from Shingo OKAWA - due to popularity of #kotosirosharing - a minimalist #rustlang implementation of t…",
+      "guid": "1658685576797909000",
+      "isoDate": "2023-05-17T04:07:13.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @M_Disgelo: A thread about careers in high- energy theory. What became of the people that attended conformal bootstrap conferences in 20…",
+      "link": "https://twitter.com/ognis1205/status/1658671601435676672",
+      "pubDate": "Wed, 17 May 2023 03:11:41 GMT",
+      "creator": "ognis1205",
+      "content": "RT @M_Disgelo: A thread about careers in high- energy theory. What became of the people that attended conformal bootstrap conferences in 20…",
+      "contentSnippet": "RT @M_Disgelo: A thread about careers in high- energy theory. What became of the people that attended conformal bootstrap conferences in 20…",
+      "guid": "1658671601435676672",
+      "isoDate": "2023-05-17T03:11:41.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "“How to deploy self-hosted Delta Sharing server on AWS” by Shingo OKAWA https://t.co/3DMVIV1FNJ https://t.co/S9UAUoG5P4",
       "link": "https://twitter.com/ognis1205/status/1658652592451502080",
