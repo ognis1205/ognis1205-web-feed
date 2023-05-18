@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684375604723",
+  "timestamp": "1684393807670",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @kazuho: 手元の Ryzen 4750G (Zen 2) だと、システムコール、pipe使ったコンテクストスイッチともにオーバーヘッドが 0.4us くらいですね。UnixBench 5.1.3。備忘録かねて https://t.co/fMADCZtWmY",
+      "link": "https://twitter.com/ognis1205/status/1659078612686110721",
+      "pubDate": "Thu, 18 May 2023 06:09:00 GMT",
+      "creator": "ognis1205",
+      "content": "RT @kazuho: 手元の Ryzen 4750G (Zen 2) だと、システムコール、pipe使ったコンテクストスイッチともにオーバーヘッドが 0.4us くらいですね。UnixBench 5.1.3。備忘録かねて https://t.co/fMADCZtWmY",
+      "contentSnippet": "RT @kazuho: 手元の Ryzen 4750G (Zen 2) だと、システムコール、pipe使ったコンテクストスイッチともにオーバーヘッドが 0.4us くらいですね。UnixBench 5.1.3。備忘録かねて https://t.co/fMADCZtWmY",
+      "guid": "1659078612686110721",
+      "isoDate": "2023-05-18T06:09:00.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/RdviVz7Dir",
+      "link": "https://twitter.com/ognis1205/status/1659059483207925760",
+      "pubDate": "Thu, 18 May 2023 04:52:59 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/RdviVz7Dir",
+      "contentSnippet": "https://t.co/RdviVz7Dir",
+      "guid": "1659059483207925760",
+      "isoDate": "2023-05-18T04:52:59.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Life is too short for me. There are tons of things that I want to do.",
+      "link": "https://twitter.com/ognis1205/status/1659035835415805952",
+      "pubDate": "Thu, 18 May 2023 03:19:01 GMT",
+      "creator": "ognis1205",
+      "content": "Life is too short for me. There are tons of things that I want to do.",
+      "contentSnippet": "Life is too short for me. There are tons of things that I want to do.",
+      "guid": "1659035835415805952",
+      "isoDate": "2023-05-18T03:19:01.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/Uyjn9gtfeK",
       "link": "https://twitter.com/ognis1205/status/1658852854306668544",
