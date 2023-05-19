@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684462012245",
+  "timestamp": "1684480208628",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @_akhaliq: Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold paper page: https://t.co/Gjcm1smqfl htt…",
+      "link": "https://twitter.com/ognis1205/status/1659449307496611840",
+      "pubDate": "Fri, 19 May 2023 06:42:00 GMT",
+      "creator": "ognis1205",
+      "content": "RT @_akhaliq: Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold paper page: https://t.co/Gjcm1smqfl htt…",
+      "contentSnippet": "RT @_akhaliq: Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold\n\npaper page: https://t.co/Gjcm1smqfl htt…",
+      "guid": "1659449307496611840",
+      "isoDate": "2023-05-19T06:42:00.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Having a reading the source code of Delta Lake API. So much fun!",
+      "link": "https://twitter.com/ognis1205/status/1659444771449098240",
+      "pubDate": "Fri, 19 May 2023 06:23:59 GMT",
+      "creator": "ognis1205",
+      "content": "Having a reading the source code of Delta Lake API. So much fun!",
+      "contentSnippet": "Having a reading the source code of #rustlang Delta Lake API. So much fun!",
+      "guid": "1659444771449098240",
+      "isoDate": "2023-05-19T06:23:59.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "@csaba_kissi I was around 20, I guess.",
       "link": "https://twitter.com/ognis1205/status/1659356649646329856",
