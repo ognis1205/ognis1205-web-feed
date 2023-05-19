@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684480208628",
+  "timestamp": "1684502215438",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/TZPAl69C0e",
+      "link": "https://twitter.com/ognis1205/status/1659517686370430976",
+      "pubDate": "Fri, 19 May 2023 11:13:43 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/TZPAl69C0e",
+      "contentSnippet": "https://t.co/TZPAl69C0e",
+      "guid": "1659517686370430976",
+      "isoDate": "2023-05-19T11:13:43.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @_akhaliq: Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold paper page: https://t.co/Gjcm1smqfl htt…",
       "link": "https://twitter.com/ognis1205/status/1659449307496611840",
