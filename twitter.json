@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684548246569",
+  "timestamp": "1684566545215",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @matei_zaharia: In case you missed it, we ran a great virtual event on why lakehouse is the ideal data warehouse platform with @fivetran…",
+      "link": "https://twitter.com/ognis1205/status/1659743834367201288",
+      "pubDate": "Sat, 20 May 2023 02:12:21 GMT",
+      "creator": "ognis1205",
+      "content": "RT @matei_zaharia: In case you missed it, we ran a great virtual event on why lakehouse is the ideal data warehouse platform with @fivetran…",
+      "contentSnippet": "RT @matei_zaharia: In case you missed it, we ran a great virtual event on why lakehouse is the ideal data warehouse platform with @fivetran…",
+      "guid": "1659743834367201288",
+      "isoDate": "2023-05-20T02:12:21.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @DeltaLakeOSS: In this blog by Kalpan Shah, learn everything about Delta Lake! What is Delta Lake? What are the features available…",
       "link": "https://twitter.com/ognis1205/status/1659651515282493440",
