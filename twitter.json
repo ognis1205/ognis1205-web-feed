@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684566545215",
+  "timestamp": "1684609626855",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/M9mg4QVlzw",
+      "link": "https://twitter.com/ognis1205/status/1659991587672440832",
+      "pubDate": "Sat, 20 May 2023 18:36:50 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/M9mg4QVlzw",
+      "contentSnippet": "https://t.co/M9mg4QVlzw",
+      "guid": "1659991587672440832",
+      "isoDate": "2023-05-20T18:36:50.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/CbNruj2p97",
+      "link": "https://twitter.com/ognis1205/status/1659984895647813633",
+      "pubDate": "Sat, 20 May 2023 18:10:14 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/CbNruj2p97",
+      "contentSnippet": "https://t.co/CbNruj2p97",
+      "guid": "1659984895647813633",
+      "isoDate": "2023-05-20T18:10:14.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @matei_zaharia: In case you missed it, we ran a great virtual event on why lakehouse is the ideal data warehouse platform with @fivetran…",
       "link": "https://twitter.com/ognis1205/status/1659743834367201288",
