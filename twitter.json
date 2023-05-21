@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684609626855",
+  "timestamp": "1684635174205",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "So much fun to refactor existing source codes :)",
+      "link": "https://twitter.com/ognis1205/status/1660093094803697666",
+      "pubDate": "Sun, 21 May 2023 01:20:11 GMT",
+      "creator": "ognis1205",
+      "content": "So much fun to refactor existing source codes :)",
+      "contentSnippet": "So much fun to refactor existing source codes :)",
+      "guid": "1660093094803697666",
+      "isoDate": "2023-05-21T01:20:11.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @databricks: If you're interested in hearing what the experts have to say about + then don't miss @percyliang at",
+      "link": "https://twitter.com/ognis1205/status/1660001810999021568",
+      "pubDate": "Sat, 20 May 2023 19:17:27 GMT",
+      "creator": "ognis1205",
+      "content": "RT @databricks: If you're interested in hearing what the experts have to say about + then don't miss @percyliang at",
+      "contentSnippet": "RT @databricks: If you're interested in hearing what the experts have to say about #NLP + #LLMs, then don't miss @percyliang at #DataAISumm…",
+      "guid": "1660001810999021568",
+      "isoDate": "2023-05-20T19:17:27.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/qV2jMciXFT",
+      "link": "https://twitter.com/ognis1205/status/1660001282541891584",
+      "pubDate": "Sat, 20 May 2023 19:15:21 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/qV2jMciXFT",
+      "contentSnippet": "https://t.co/qV2jMciXFT",
+      "guid": "1660001282541891584",
+      "isoDate": "2023-05-20T19:15:21.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/M9mg4QVlzw",
       "link": "https://twitter.com/ognis1205/status/1659991587672440832",
