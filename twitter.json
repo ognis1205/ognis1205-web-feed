@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684721571462",
+  "timestamp": "1684739446348",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "Thanks to the community for maintaining such a wonderful community and this amazing swag! @DeltaLakeOSS https://t.co/c05aMrbZ0s",
+      "link": "https://twitter.com/ognis1205/status/1660541982153011202",
+      "pubDate": "Mon, 22 May 2023 07:03:54 GMT",
+      "creator": "ognis1205",
+      "content": "Thanks to the community for maintaining such a wonderful community and this amazing swag! @DeltaLakeOSS https://t.co/c05aMrbZ0s",
+      "contentSnippet": "Thanks to the community for maintaining such a wonderful community and this amazing swag!\n@DeltaLakeOSS https://t.co/c05aMrbZ0s",
+      "guid": "1660541982153011202",
+      "isoDate": "2023-05-22T07:03:54.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/1ZMZF32CBi",
+      "link": "https://twitter.com/ognis1205/status/1660502245514047488",
+      "pubDate": "Mon, 22 May 2023 04:26:00 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/1ZMZF32CBi",
+      "contentSnippet": "https://t.co/1ZMZF32CBi",
+      "guid": "1660502245514047488",
+      "isoDate": "2023-05-22T04:26:00.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @matei_zaharia: Interesting phenomenon that is a real risk when everyone is using one central provider. We observed similar changes with…",
       "link": "https://twitter.com/ognis1205/status/1660457564449153025",
