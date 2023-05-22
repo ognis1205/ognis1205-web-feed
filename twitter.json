@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1684696039393",
+  "timestamp": "1684721571462",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @matei_zaharia: Interesting phenomenon that is a real risk when everyone is using one central provider. We observed similar changes with…",
+      "link": "https://twitter.com/ognis1205/status/1660457564449153025",
+      "pubDate": "Mon, 22 May 2023 01:28:27 GMT",
+      "creator": "ognis1205",
+      "content": "RT @matei_zaharia: Interesting phenomenon that is a real risk when everyone is using one central provider. We observed similar changes with…",
+      "contentSnippet": "RT @matei_zaharia: Interesting phenomenon that is a real risk when everyone is using one central provider. We observed similar changes with…",
+      "guid": "1660457564449153025",
+      "isoDate": "2023-05-22T01:28:27.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/e4JKsJA9P5",
       "link": "https://twitter.com/ognis1205/status/1660127553523449856",
