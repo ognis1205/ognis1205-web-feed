@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1685020708887",
+  "timestamp": "1685041660184",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/JQFVcI7vzQ",
+      "link": "https://twitter.com/ognis1205/status/1661803362998980608",
+      "pubDate": "Thu, 25 May 2023 18:36:11 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/JQFVcI7vzQ",
+      "contentSnippet": "https://t.co/JQFVcI7vzQ",
+      "guid": "1661803362998980608",
+      "isoDate": "2023-05-25T18:36:11.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @VoltronData: If is your data engine of choice, you should consider using @IbisData to scale workloads. It minimizes the ne…",
+      "link": "https://twitter.com/ognis1205/status/1661755263614074883",
+      "pubDate": "Thu, 25 May 2023 15:25:03 GMT",
+      "creator": "ognis1205",
+      "content": "RT @VoltronData: If is your data engine of choice, you should consider using @IbisData to scale workloads. It minimizes the ne…",
+      "contentSnippet": "RT @VoltronData: If #ApacheSpark is your data engine of choice, you should consider using @IbisData to scale workloads. It minimizes the ne…",
+      "guid": "1661755263614074883",
+      "isoDate": "2023-05-25T15:25:03.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/E2fijopVtB",
       "link": "https://twitter.com/ognis1205/status/1661719636688384001",
