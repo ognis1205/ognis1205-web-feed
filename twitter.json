@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1685412821844",
+  "timestamp": "1685430597825",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/xuDU5TF2fT",
+      "link": "https://twitter.com/ognis1205/status/1663436939473870848",
+      "pubDate": "Tue, 30 May 2023 06:47:26 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/xuDU5TF2fT",
+      "contentSnippet": "https://t.co/xuDU5TF2fT",
+      "guid": "1663436939473870848",
+      "isoDate": "2023-05-30T06:47:26.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @holdenkarau: Come and join me for screwing around on my NVIDIA Jetson AGXs and seeing if we can get them to load dolly - https://t.co/f…",
+      "link": "https://twitter.com/ognis1205/status/1663370072231137280",
+      "pubDate": "Tue, 30 May 2023 02:21:43 GMT",
+      "creator": "ognis1205",
+      "content": "RT @holdenkarau: Come and join me for screwing around on my NVIDIA Jetson AGXs and seeing if we can get them to load dolly - https://t.co/f…",
+      "contentSnippet": "RT @holdenkarau: Come and join me for screwing around on my NVIDIA Jetson AGXs and seeing if we can get them to load dolly - https://t.co/f…",
+      "guid": "1663370072231137280",
+      "isoDate": "2023-05-30T02:21:43.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "TODO: - File an issue - Respond to a review - Make a PR",
       "link": "https://twitter.com/ognis1205/status/1662814735023349764",
