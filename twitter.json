@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1685625485973",
+  "timestamp": "1685646456729",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @MIT_CSAIL: Napster was released 24 years ago today. v/@JonErlichman and @MTVNEWS https://t.co/eHalw0ektA",
+      "link": "https://twitter.com/ognis1205/status/1664327493980143617",
+      "pubDate": "Thu, 01 Jun 2023 17:46:10 GMT",
+      "creator": "ognis1205",
+      "content": "RT @MIT_CSAIL: Napster was released 24 years ago today. v/@JonErlichman and @MTVNEWS https://t.co/eHalw0ektA",
+      "contentSnippet": "RT @MIT_CSAIL: Napster was released 24 years ago today.\n\nv/@JonErlichman and @MTVNEWS\nhttps://t.co/eHalw0ektA",
+      "guid": "1664327493980143617",
+      "isoDate": "2023-06-01T17:46:10.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "RT @KevinAFischer: This is a monumentality important development in the AI copyright battle - first precedent is set https://t.co/DABgSyP8…",
+      "link": "https://twitter.com/ognis1205/status/1664320363365548032",
+      "pubDate": "Thu, 01 Jun 2023 17:17:50 GMT",
+      "creator": "ognis1205",
+      "content": "RT @KevinAFischer: This is a monumentality important development in the AI copyright battle - first precedent is set https://t.co/DABgSyP8…",
+      "contentSnippet": "RT @KevinAFischer: This is a monumentality important development in the AI copyright battle - first precedent is set\n\nhttps://t.co/DABgSyP8…",
+      "guid": "1664320363365548032",
+      "isoDate": "2023-06-01T17:17:50.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @DeltaLakeOSS: Join Robert Pack, Sr. Digital Expert Cloud Native Machine Learning Platform and Technology Principal at @BASF as he discu…",
       "link": "https://twitter.com/ognis1205/status/1663955665814179841",
