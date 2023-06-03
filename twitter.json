@@ -1,9 +1,42 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1685732863306",
+  "timestamp": "1685758805285",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "I'm a bit confused because all these events were happened all of a sudden without providing any concrete explanation lol. I thought the lunch is a very casual one with my acquaintances via OSS",
+      "link": "https://twitter.com/ognis1205/status/1664791695349760000",
+      "pubDate": "Sat, 03 Jun 2023 00:30:45 GMT",
+      "creator": "ognis1205",
+      "content": "I'm a bit confused because all these events were happened all of a sudden without providing any concrete explanation lol. I thought the lunch is a very casual one with my acquaintances via OSS",
+      "contentSnippet": "I'm a bit confused because all these events were happened all of a sudden without providing any concrete explanation lol. I thought the lunch is a very casual one with my acquaintances via OSS😅",
+      "guid": "1664791695349760000",
+      "isoDate": "2023-06-03T00:30:45.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "- The attendees, it's the gathering of talent (except me). It's almost like \"Data/AI Avengers.\" - Am I nominated for a Databricks beacon?",
+      "link": "https://twitter.com/ognis1205/status/1664790758229159936",
+      "pubDate": "Sat, 03 Jun 2023 00:27:01 GMT",
+      "creator": "ognis1205",
+      "content": "- The attendees, it's the gathering of talent (except me). It's almost like \"Data/AI Avengers.\" - Am I nominated for a Databricks beacon?",
+      "contentSnippet": "- The attendees, it's the gathering of talent (except me). It's almost like \"Data/AI Avengers.\"\n- Am I nominated for a Databricks beacon?",
+      "guid": "1664790758229159936",
+      "isoDate": "2023-06-03T00:27:01.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "Okay, so let me get this straight: - I have contributed to the Deltalake project. - A developer advocate generously offered me sponsoring travel and lodging to attend DAIS 2023. - I received an email that invites me for lunch one day.",
+      "link": "https://twitter.com/ognis1205/status/1664789953711157249",
+      "pubDate": "Sat, 03 Jun 2023 00:23:49 GMT",
+      "creator": "ognis1205",
+      "content": "Okay, so let me get this straight: - I have contributed to the Deltalake project. - A developer advocate generously offered me sponsoring travel and lodging to attend DAIS 2023. - I received an email that invites me for lunch one day.",
+      "contentSnippet": "Okay, so let me get this straight:\n - I have contributed to the Deltalake project.\n - A developer advocate generously offered me sponsoring travel and lodging to attend DAIS 2023.\n - I received an email that invites me for lunch one day.",
+      "guid": "1664789953711157249",
+      "isoDate": "2023-06-03T00:23:49.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "Announcing Rust 1.70.0 | Rust Blog https://t.co/cPCbeWnTXM",
       "link": "https://twitter.com/ognis1205/status/1664478951572656129",
