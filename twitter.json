@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1685862654727",
+  "timestamp": "1685884528584",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @Shaughnessy119: Stephen Wolfram of Wolfram Alpha wrote the absolute best post on ChatGPT and Large Language Models. It took me about t…",
+      "link": "https://twitter.com/ognis1205/status/1665340383260291074",
+      "pubDate": "Sun, 04 Jun 2023 12:51:02 GMT",
+      "creator": "ognis1205",
+      "content": "RT @Shaughnessy119: Stephen Wolfram of Wolfram Alpha wrote the absolute best post on ChatGPT and Large Language Models. It took me about t…",
+      "contentSnippet": "RT @Shaughnessy119: Stephen Wolfram of Wolfram Alpha wrote the absolute best post on ChatGPT and Large Language Models.\n\nIt took me about t…",
+      "guid": "1665340383260291074",
+      "isoDate": "2023-06-04T12:51:02.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @databricks: Caching is essential when improving the performance of data warehouse systems. We'll explore the benefits of caching and…",
       "link": "https://twitter.com/ognis1205/status/1665224852641333248",
