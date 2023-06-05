@@ -1,9 +1,20 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1685971090817",
+  "timestamp": "1685992078525",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @linuxfoundation: Ready, set, go! Open Source Summit Japan’s Call for Proposals is OPEN &amp; we’re excited to see all your brilliant concep…",
+      "link": "https://twitter.com/ognis1205/status/1665713105173884928",
+      "pubDate": "Mon, 05 Jun 2023 13:32:06 GMT",
+      "creator": "ognis1205",
+      "content": "RT @linuxfoundation: Ready, set, go! Open Source Summit Japan’s Call for Proposals is OPEN &amp; we’re excited to see all your brilliant concep…",
+      "contentSnippet": "RT @linuxfoundation: Ready, set, go! Open Source Summit Japan’s Call for Proposals is OPEN &amp; we’re excited to see all your brilliant concep…",
+      "guid": "1665713105173884928",
+      "isoDate": "2023-06-05T13:32:06.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "とにかく圧が強い｜PECO https://t.co/PfXW1x8QQR via @YouTube",
       "link": "https://twitter.com/ognis1205/status/1665648941369798656",
