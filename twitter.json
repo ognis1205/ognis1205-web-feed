@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1686191386072",
+  "timestamp": "1686208215495",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "https://t.co/OuzZLDKvCq",
+      "link": "https://twitter.com/ognis1205/status/1666687376893288448",
+      "pubDate": "Thu, 08 Jun 2023 06:03:30 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/OuzZLDKvCq",
+      "contentSnippet": "https://t.co/OuzZLDKvCq",
+      "guid": "1666687376893288448",
+      "isoDate": "2023-06-08T06:03:30.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/LoQJkOrLKv",
+      "link": "https://twitter.com/ognis1205/status/1666684171383889921",
+      "pubDate": "Thu, 08 Jun 2023 05:50:46 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/LoQJkOrLKv",
+      "contentSnippet": "https://t.co/LoQJkOrLKv",
+      "guid": "1666684171383889921",
+      "isoDate": "2023-06-08T05:50:46.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "RT @matei_zaharia: 2.4 was released today, with new tools for LLMOps, including visual comparison and programmatic evaluation. We a…",
       "link": "https://twitter.com/ognis1205/status/1666612324680204289",
