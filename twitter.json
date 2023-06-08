@@ -1,9 +1,31 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Twitter",
-  "timestamp": "1686164904284",
+  "timestamp": "1686191386072",
   "description": "Tweets of ognis1205.",
   "items": [
+    {
+      "title": "RT @matei_zaharia: 2.4 was released today, with new tools for LLMOps, including visual comparison and programmatic evaluation. We a…",
+      "link": "https://twitter.com/ognis1205/status/1666612324680204289",
+      "pubDate": "Thu, 08 Jun 2023 01:05:17 GMT",
+      "creator": "ognis1205",
+      "content": "RT @matei_zaharia: 2.4 was released today, with new tools for LLMOps, including visual comparison and programmatic evaluation. We a…",
+      "contentSnippet": "RT @matei_zaharia: #MLflow 2.4 was released today, with new tools for LLMOps, including visual comparison and programmatic evaluation. We a…",
+      "guid": "1666612324680204289",
+      "isoDate": "2023-06-08T01:05:17.000Z",
+      "imgSrc": ""
+    },
+    {
+      "title": "https://t.co/7awT3AxsFg",
+      "link": "https://twitter.com/ognis1205/status/1666612143914127360",
+      "pubDate": "Thu, 08 Jun 2023 01:04:33 GMT",
+      "creator": "ognis1205",
+      "content": "https://t.co/7awT3AxsFg",
+      "contentSnippet": "https://t.co/7awT3AxsFg",
+      "guid": "1666612143914127360",
+      "isoDate": "2023-06-08T01:04:33.000Z",
+      "imgSrc": ""
+    },
     {
       "title": "https://t.co/bOKuEnKJlm",
       "link": "https://twitter.com/ognis1205/status/1666476593693487104",
